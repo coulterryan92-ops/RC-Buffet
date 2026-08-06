@@ -1,74 +1,8 @@
-name: Update RC Buffet data
-
-on:
-  # Times are UTC. The window below covers 6:00am–6:00pm Eastern year-round
-  # (ET is UTC-4 in summer, UTC-5 in winter), so it works through DST changes.
-  schedule:
-    # Prices every 10 minutes across the trading day
-    - cron: "*/10 11-22 * * 1-5"
-    # Prices + news together, a few times a day (pre-open, midday, after close)
-    - cron: "5 10 * * 1-5"
-    - cron: "5 16 * * 1-5"
-    - cron: "35 21 * * 1-5"
-    # One weekend refresh so the app isn't stale on Monday morning
-    - cron: "0 14 * * 6"
-  workflow_dispatch:
-    inputs:
-      mode:
-        description: "What to refresh"
-        required: false
-        default: "all"
-        type: choice
-        options: [all, quotes, news]
-
-permissions:
-  contents: write
-
-concurrency:
-  group: rc-buffet-data
-  cancel-in-progress: false
-
-jobs:
-  refresh:
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Decide what to fetch
-        id: mode
-        run: |
-          if [ -n "${{ github.event.inputs.mode }}" ]; then
-            echo "mode=${{ github.event.inputs.mode }}" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event.schedule }}" = "*/10 11-22 * * 1-5" ]; then
-            echo "mode=quotes" >> "$GITHUB_OUTPUT"
-          else
-            echo "mode=all" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Fetch market data
-        run: python scripts/fetch_data.py "${{ steps.mode.outputs.mode }}"
-
-      - name: Commit if anything changed
-        run: |
-          git config user.name  "rc-buffet-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/
-          if git diff --staged --quiet; then
-            echo "No change."
-            exit 0
-          fi
-          git commit -m "data: refresh ($(date -u '+%Y-%m-%d %H:%M UTC'))"
-          # Another scheduled run may have landed first; rebase and retry.
-          for i in 1 2 3; do
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
-            git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
-            sleep 5
-          done
-          echo "Push failed after retries" >&2
-          exit 1
+{
+ "updated": null,
+ "tickers": {},
+ "broad": [],
+ "macro": [],
+ "health": [],
+ "buzz": []
+}

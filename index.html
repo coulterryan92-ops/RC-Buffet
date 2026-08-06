@@ -10,8 +10,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <meta name="apple-mobile-web-app-title" content="RC Buffet" />
-<link rel="apple-touch-icon" href="icons/icon-180.png" />
-<link rel="icon" href="icons/icon-192.png" />
+<link rel="apple-touch-icon" href="icon-180.png" />
+<link rel="icon" href="icon-192.png" />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -403,8 +403,8 @@ function ago(iso){
 async function loadSnapshot(){
   const bust = "?t=" + Math.floor(Date.now() / 30000);
   const [q, n] = await Promise.all([
-    fetch("data/quotes.json" + bust, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null),
-    fetch("data/news.json"  + bust, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null),
+    fetch("quotes.json" + bust, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null),
+    fetch("news.json"  + bust, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null),
   ]);
   if (q && q.quotes){
     quotes = q.quotes;

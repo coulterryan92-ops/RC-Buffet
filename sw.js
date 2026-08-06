@@ -3,13 +3,13 @@
    Market data is ALWAYS network-first so you never look at a stale price
    without knowing it. */
 
-const SHELL = "rcb-shell-v3";
+const SHELL = "rcb-shell-v4";
 const SHELL_FILES = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./icons/icon-192.png",
-  "./icons/icon-512.png",
+  "./icon-192.png",
+  "./icon-512.png",
 ];
 
 self.addEventListener("install", e => {
@@ -38,7 +38,7 @@ self.addEventListener("fetch", e => {
   if (url.origin !== self.location.origin) return;
 
   // Market data: network first, fall back to last good copy.
-  if (url.pathname.includes("/data/")) {
+  if (/(quotes|news|meta)\.json$/.test(url.pathname)) {
     e.respondWith(
       fetch(req).then(res => {
         const copy = res.clone();
