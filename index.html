@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1" />
+<title>RC Buffet</title>
+
+<link rel="manifest" href="manifest.webmanifest" />
+<meta name="theme-color" content="#0d0b08" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="RC Buffet" />
+<link rel="apple-touch-icon" href="icons/icon-180.png" />
+<link rel="icon" href="icons/icon-192.png" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+
+<style>
+  :root{
+    --bg:#0d0b08;
+    --bg-2:#151109;
+    --panel:#1a150e;
+    --panel-2:#221b11;
+    --line:#2e2517;
+    --line-2:#3d3120;
+    --text:#f0e9dd;
+    --muted:#9b8f7c;
+    --dim:#6d6355;
+    --amber:#ffb020;
+    --amber-dim:#8a5f14;
+    --green:#2ee08a;
+    --red:#ff5959;
+    --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+    --sans:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif;
+    --safe-t:env(safe-area-inset-top,0px);
+    --safe-b:env(safe-area-inset-bottom,0px);
+  }
+
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0}
+  body{
+    background:
+      radial-gradient(1100px 500px at 50% -12%, #241a0c 0%, transparent 62%),
+      var(--bg);
+    color:var(--text);
+    font-family:var(--sans);
+    font-size:15px;
+    -webkit-font-smoothing:antialiased;
+    padding-bottom:calc(28px + var(--safe-b));
+    overscroll-behavior-y:contain;
+  }
+  .mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+  .up{color:var(--green)} .down{color:var(--red)} .flat{color:var(--muted)}
+
+  /* ---------------------------------------------------------- header */
+  header{
+    position:sticky;top:0;z-index:60;
+    padding:calc(10px + var(--safe-t)) 14px 0;
+    background:linear-gradient(180deg,rgba(13,11,8,.97) 72%,rgba(13,11,8,.82));
+    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+    border-bottom:1px solid var(--line);
+  }
+  .brandrow{display:flex;align-items:center;gap:10px}
+  .logo{
+    font-family:var(--mono);font-weight:700;font-size:16px;letter-spacing:.14em;
+    color:var(--amber);
+  }
+  .logo span{color:var(--text)}
+  .status{
+    margin-left:auto;display:flex;align-items:center;gap:7px;
+    font-family:var(--mono);font-size:9.5px;letter-spacing:.09em;
+    color:var(--muted);text-transform:uppercase;
+  }
+  .dot{width:6px;height:6px;border-radius:50%;background:var(--dim);flex:none}
+  .dot.live{background:var(--green);box-shadow:0 0 8px var(--green);animation:pulse 2.2s infinite}
+  .dot.snap{background:var(--amber)}
+  .dot.err{background:var(--red)}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+
+  .statrow{display:flex;align-items:flex-end;gap:18px;padding:10px 0 11px;flex-wrap:wrap}
+  .stat .k{font-size:9.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--dim);margin-bottom:3px}
+  .stat .v{font-family:var(--mono);font-size:24px;font-weight:700;line-height:1}
+  .stat.sm .v{font-size:15px;font-weight:500}
+  .stat .sub{font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:3px}
+
+  /* privacy blur — CSS only, no JS needed */
+  #privacy{position:absolute;opacity:0;pointer-events:none}
+  #privacy:checked ~ .wrap .money{filter:blur(9px);opacity:.75;user-select:none}
+  .eye{
+    margin-left:auto;font-family:var(--mono);font-size:9.5px;letter-spacing:.09em;
+    text-transform:uppercase;color:var(--muted);border:1px solid var(--line-2);
+    padding:5px 9px;border-radius:999px;cursor:pointer;white-space:nowrap;
+    align-self:center;
+  }
+  .eye:active{background:var(--panel-2)}
+  #privacy:checked ~ .wrap .eye{color:var(--amber);border-color:var(--amber-dim)}
+  .eye .on{display:none}
+  #privacy:checked ~ .wrap .eye .on{display:inline}
+  #privacy:checked ~ .wrap .eye .off{display:none}
+
+  /* ------------------------------------------------------ ticker tape */
+  .tape{
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+    background:#100d09;overflow:hidden;height:30px;position:relative;
+    margin:0 -14px;
+  }
+  .tape-track{
+    display:flex;gap:26px;align-items:center;height:100%;
+    white-space:nowrap;padding-left:14px;
+    animation:scroll 68s linear infinite;width:max-content;
+  }
+  .tape:hover .tape-track{animation-play-state:paused}
+  @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+  .tick{font-family:var(--mono);font-size:11px;display:inline-flex;gap:7px;align-items:baseline}
+  .tick b{font-weight:700;color:var(--text);letter-spacing:.04em}
+  .tick i{font-style:normal;color:var(--muted)}
+
+  /* ------------------------------------------------------------ tabs */
+  nav{
+    display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;
+    margin:0 -14px;padding:0 8px;
+    background:#100d09;border-bottom:1px solid var(--line);
+  }
+  nav::-webkit-scrollbar{display:none}
+  nav button{
+    flex:none;background:none;border:0;color:var(--muted);
+    font-family:var(--mono);font-size:10.5px;letter-spacing:.09em;
+    text-transform:uppercase;padding:11px 11px 9px;cursor:pointer;
+    border-bottom:2px solid transparent;
+  }
+  nav button.active{color:var(--amber);border-bottom-color:var(--amber)}
+
+  .wrap{max-width:760px;margin:0 auto}
+  main{padding:14px 14px 0}
+  .panel{display:none}
+  .panel.active{display:block;animation:fade .18s ease}
+  @keyframes fade{from{opacity:0;transform:translateY(3px)}to{opacity:1;transform:none}}
+
+  h2.sec{
+    font-family:var(--mono);font-size:10px;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--dim);margin:20px 0 9px;display:flex;align-items:center;gap:9px;
+  }
+  h2.sec::after{content:"";flex:1;height:1px;background:var(--line)}
+  h2.sec:first-child{margin-top:2px}
+
+  /* ----------------------------------------------------- ticker cards */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(158px,1fr));gap:8px}
+  .card{
+    background:linear-gradient(160deg,var(--panel) 0%,var(--bg-2) 100%);
+    border:1px solid var(--line);border-radius:11px;padding:10px 11px 9px;
+    position:relative;overflow:hidden;
+  }
+  .card.gain{border-color:rgba(46,224,138,.28)}
+  .card.loss{border-color:rgba(255,89,89,.28)}
+  .card .sym{font-family:var(--mono);font-weight:700;font-size:13px;letter-spacing:.05em}
+  .card .nm{font-size:9.5px;color:var(--dim);margin-top:1px;height:12px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .card .px{font-family:var(--mono);font-size:19px;font-weight:700;margin-top:7px;line-height:1}
+  .card .ch{font-family:var(--mono);font-size:11.5px;font-weight:500;margin-top:4px}
+  .card .val{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:5px}
+  .card svg.spark{position:absolute;right:0;bottom:0;width:64px;height:30px;opacity:.5}
+  .card .badge{
+    position:absolute;top:9px;right:9px;font-family:var(--mono);font-size:8px;
+    letter-spacing:.08em;color:var(--dim);border:1px solid var(--line-2);
+    border-radius:4px;padding:1px 4px;
+  }
+
+  /* --------------------------------------------------------- alerts */
+  .alert{
+    border:1px solid var(--line-2);border-left:3px solid var(--amber);
+    background:var(--panel);border-radius:9px;padding:11px 12px;margin-bottom:8px;
+  }
+  .alert.hot{border-left-color:var(--red)}
+  .alert.good{border-left-color:var(--green)}
+  .alert .top{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+  .alert .t-sym{font-family:var(--mono);font-weight:700;font-size:13px}
+  .alert .t-move{font-family:var(--mono);font-size:13px;font-weight:700}
+  .alert .t-kind{
+    font-family:var(--mono);font-size:8.5px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--dim);border:1px solid var(--line-2);border-radius:4px;padding:1px 5px;margin-left:auto;
+  }
+  .alert .body{font-size:12.5px;color:var(--muted);margin-top:6px;line-height:1.5}
+  .alert .body b{color:var(--text);font-weight:600}
+  .alert a{color:var(--amber);text-decoration:none;border-bottom:1px dotted var(--amber-dim)}
+
+  .banner{
+    border:1px solid rgba(255,89,89,.4);background:rgba(255,89,89,.07);
+    border-radius:9px;padding:10px 12px;margin-bottom:14px;
+  }
+  .banner .h{
+    font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--red);margin-bottom:5px;
+  }
+  .banner ul{margin:0;padding-left:16px;font-size:12.5px;color:var(--muted);line-height:1.6}
+  .banner ul b{color:var(--text)}
+
+  /* ----------------------------------------------------------- news */
+  .story{
+    display:block;text-decoration:none;color:inherit;
+    padding:10px 0;border-bottom:1px solid var(--line);
+  }
+  .story:last-child{border-bottom:0}
+  .story .hl{font-size:13.5px;line-height:1.42;font-weight:500}
+  .story .meta{
+    font-family:var(--mono);font-size:9.5px;color:var(--dim);margin-top:5px;
+    letter-spacing:.05em;text-transform:uppercase;
+  }
+  .story .tag{color:var(--amber)}
+
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+  .chip{
+    font-family:var(--mono);font-size:11px;padding:5px 9px;border-radius:999px;
+    border:1px solid var(--line-2);color:var(--muted);
+  }
+
+  /* -------------------------------------------------------- holdings */
+  table.hold{width:100%;border-collapse:collapse;font-size:13px}
+  table.hold th{
+    font-family:var(--mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;
+    color:var(--dim);text-align:right;padding:7px 6px;border-bottom:1px solid var(--line);font-weight:500;
+  }
+  table.hold th:first-child{text-align:left}
+  table.hold td{padding:8px 6px;border-bottom:1px solid var(--line);text-align:right;font-family:var(--mono);font-size:12.5px}
+  table.hold td:first-child{text-align:left;font-weight:700;letter-spacing:.04em}
+  table.hold input{
+    width:76px;background:var(--panel-2);border:1px solid var(--line-2);border-radius:6px;
+    color:var(--text);font-family:var(--mono);font-size:12.5px;padding:5px 7px;text-align:right;
+  }
+  table.hold input:focus{outline:none;border-color:var(--amber-dim)}
+
+  .note{font-size:11.5px;color:var(--dim);line-height:1.55;margin:10px 0 0}
+  .btn{
+    font-family:var(--mono);font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;
+    background:var(--panel-2);border:1px solid var(--line-2);color:var(--text);
+    padding:9px 13px;border-radius:8px;cursor:pointer;
+  }
+  .btn:active{background:var(--line)}
+  .btn.amber{border-color:var(--amber-dim);color:var(--amber)}
+  .row{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+
+  .empty{color:var(--dim);font-size:12.5px;padding:14px 0}
+  footer{
+    text-align:center;font-family:var(--mono);font-size:9px;letter-spacing:.1em;
+    color:#4a4238;padding:26px 14px calc(18px + var(--safe-b));text-transform:uppercase;
+  }
+</style>
+</head>
+<body>
+
+<input type="checkbox" id="privacy" />
+
+<div class="wrap">
+  <header>
+    <div class="brandrow">
+      <div class="logo">RC<span> BUFFET</span></div>
+      <div class="status">
+        <span class="dot" id="dot"></span><span id="statusText">connecting</span>
+      </div>
+    </div>
+
+    <div class="statrow">
+      <div class="stat">
+        <div class="k" id="stTitle">All accounts</div>
+        <div class="v money" id="stValue">—</div>
+        <div class="sub money" id="stChange">—</div>
+      </div>
+      <div class="stat sm">
+        <div class="k">Positions</div>
+        <div class="v" id="stCount">—</div>
+      </div>
+      <div class="stat sm">
+        <div class="k">Alerts</div>
+        <div class="v" id="stAlerts">—</div>
+      </div>
+      <label class="eye" for="privacy"><span class="off">Hide $</span><span class="on">Show $</span></label>
+    </div>
+
+    <div class="tape"><div class="tape-track" id="tape"></div></div>
+
+    <nav id="nav"></nav>
+  </header>
+
+  <main>
+    <section class="panel" id="p-all"></section>
+    <section class="panel" id="p-individual"></section>
+    <section class="panel" id="p-roth"></section>
+    <section class="panel" id="p-rollover"></section>
+    <section class="panel" id="p-alerts"></section>
+    <section class="panel" id="p-news"></section>
+    <section class="panel" id="p-ideas"></section>
+    <section class="panel" id="p-holdings"></section>
+  </main>
+
+  <footer>
+    RC Buffet · personal use · not financial advice<br /><span id="footStamp"></span>
+  </footer>
+</div>
+
+<script>
+"use strict";
+
+/* =====================================================================
+   Config
+   ===================================================================== */
+
+const ACCOUNTS = {
+  individual: { label: "Individual",   tickers: ["VOO","QQQM","SCHG","SCHD","SPMO","FSPGX","FSELX","FZROX","FGRIX","MGK","VUG","BOTZ","AIPO","WQTM","GOOGL","NVDA","AMZN","MU","AVGO","GEV","XE"] },
+  roth:       { label: "Roth IRA",     tickers: ["VOO","QQQM","SCHG","SMH","SPMO","SCHD"] },
+  rollover:   { label: "Rollover IRA", tickers: ["GOOGL","TSM","AVGO","NVDA","TSLA","PLTR"] },
+};
+
+const WATCHLIST = ["PLTR","GEV","CBRS","LLY","XE","HIVE"];
+const BROAD     = ["VOO","SCHG","SCHD"];
+const INDEXES   = ["^GSPC","^IXIC","^DJI","^VIX","^TNX"];
+
+// Alert thresholds — single-day move, percent
+const BROAD_ETFS   = ["VOO","SCHG","SCHD","QQQM","SPMO","MGK","VUG","FZROX","FSPGX","FGRIX"];
+const THEMATIC     = ["SMH","FSELX","BOTZ","AIPO","WQTM"];
+const DAY_OVERRIDE = { LLY: 5, CBRS: 8, HIVE: 8 };
+
+function dayThreshold(sym){
+  if (DAY_OVERRIDE[sym]) return DAY_OVERRIDE[sym];
+  if (BROAD_ETFS.includes(sym)) return 2;
+  if (THEMATIC.includes(sym))   return 4;
+  return 5;                       // single names
+}
+function isFund(sym){ return BROAD_ETFS.includes(sym) || THEMATIC.includes(sym); }
+function offHighThreshold(sym){ return isFund(sym) ? 8 : 12; }
+const FIVE_SESSION_RUN = 10;      // up 10%+ over five sessions
+
+const TABS = [
+  ["all","All Accounts"], ["individual","Individual"], ["roth","Roth IRA"],
+  ["rollover","Rollover IRA"], ["alerts","Alerts"], ["news","News & Macro"],
+  ["ideas","Buy Ideas"], ["holdings","Holdings"],
+];
+
+const REFRESH_MS = 60000;
+const STORE_KEY  = "rcbuffet.holdings.v1";
+
+/* =====================================================================
+   State
+   ===================================================================== */
+
+let quotes  = {};        // symbol -> quote object
+let news    = { tickers:{}, broad:[], macro:[], health:[], buzz:[] };
+let holdings = loadHoldings();
+let dataStamp = null;
+let dataMode  = "loading";   // live | snapshot | error
+let activeTab = "all";
+
+function loadHoldings(){
+  let saved = {};
+  try { saved = JSON.parse(localStorage.getItem(STORE_KEY) || "{}"); } catch(e){ saved = {}; }
+  const out = {};
+  for (const [key, acct] of Object.entries(ACCOUNTS)){
+    out[key] = {};
+    for (const t of acct.tickers){
+      const v = saved[key] && saved[key][t];
+      out[key][t] = (typeof v === "number" && isFinite(v)) ? v : 0;
+    }
+    // keep any extra tickers the user added by hand
+    if (saved[key]) for (const [t,v] of Object.entries(saved[key])){
+      if (!(t in out[key]) && typeof v === "number") out[key][t] = v;
+    }
+  }
+  return out;
+}
+function saveHoldings(){
+  try { localStorage.setItem(STORE_KEY, JSON.stringify(holdings)); } catch(e){}
+}
+
+/* =====================================================================
+   Formatting helpers
+   ===================================================================== */
+
+const fmtMoney = n => (n === null || n === undefined || !isFinite(n)) ? "—"
+  : "$" + n.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const fmtMoney0 = n => (n === null || n === undefined || !isFinite(n)) ? "—"
+  : "$" + n.toLocaleString("en-US", { maximumFractionDigits: 0 });
+const fmtPct = n => (n === null || n === undefined || !isFinite(n)) ? "—"
+  : (n >= 0 ? "+" : "") + n.toFixed(2) + "%";
+const cls = n => (n === null || n === undefined || !isFinite(n)) ? "flat" : (n > 0 ? "up" : n < 0 ? "down" : "flat");
+const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c =>
+  ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+
+function ago(iso){
+  if (!iso) return "";
+  const then = new Date(iso).getTime();
+  if (!isFinite(then)) return "";
+  const mins = Math.round((Date.now() - then) / 60000);
+  if (mins < 1) return "just now";
+  if (mins < 60) return mins + " min ago";
+  const h = Math.round(mins / 60);
+  if (h < 24) return h + "h ago";
+  return Math.round(h / 24) + "d ago";
+}
+
+/* =====================================================================
+   Data loading
+   ===================================================================== */
+
+async function loadSnapshot(){
+  const bust = "?t=" + Math.floor(Date.now() / 30000);
+  const [q, n] = await Promise.all([
+    fetch("data/quotes.json" + bust, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null),
+    fetch("data/news.json"  + bust, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null),
+  ]);
+  if (q && q.quotes){
+    quotes = q.quotes;
+    dataStamp = q.updated;
+    dataMode = "snapshot";
+  } else if (!Object.keys(quotes).length){
+    dataMode = "error";
+  }
+  if (n) news = Object.assign(news, n);
+}
+
+/* Best-effort live top-up. Yahoo blocks direct browser calls (CORS), so we
+   go through public proxies. If every proxy is down we simply stay on the
+   snapshot — the app never breaks, the badge just says SNAPSHOT. */
+const PROXIES = [
+  u => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+  u => "https://corsproxy.io/?url=" + encodeURIComponent(u),
+];
+
+async function loadLive(){
+  const syms = Object.keys(quotes).length ? Object.keys(quotes)
+             : [...new Set([...Object.values(ACCOUNTS).flatMap(a => a.tickers), ...WATCHLIST, ...INDEXES])];
+  const target = "https://query1.finance.yahoo.com/v7/finance/quote?symbols=" +
+                 encodeURIComponent(syms.join(","));
+  for (const wrap of PROXIES){
+    try {
+      const ctl = new AbortController();
+      const timer = setTimeout(() => ctl.abort(), 9000);
+      const res = await fetch(wrap(target), { signal: ctl.signal });
+      clearTimeout(timer);
+      if (!res.ok) continue;
+      const doc = await res.json();
+      const rows = doc && doc.quoteResponse && doc.quoteResponse.result;
+      if (!rows || !rows.length) continue;
+      let touched = 0;
+      for (const r of rows){
+        const s = r.symbol;
+        if (!s || typeof r.regularMarketPrice !== "number") continue;
+        const prior = quotes[s] || { symbol: s, spark: [] };
+        quotes[s] = Object.assign({}, prior, {
+          name: r.shortName || prior.name || s,
+          price: r.regularMarketPrice,
+          prevClose: r.regularMarketPreviousClose ?? prior.prevClose,
+          change: r.regularMarketChange ?? prior.change,
+          changePct: r.regularMarketChangePercent ?? prior.changePct,
+          marketState: r.marketState || prior.marketState,
+        });
+        touched++;
+      }
+      if (touched){
+        dataMode = "live";
+        dataStamp = new Date().toISOString();
+        return true;
+      }
+    } catch(e){ /* try next proxy */ }
+  }
+  return false;
+}
+
+async function refresh(){
+  await loadSnapshot();
+  render();
+  await loadLive();          // upgrades to LIVE if a proxy answers
+  render();
+}
+
+/* =====================================================================
+   Portfolio math
+   ===================================================================== */
+
+function accountRows(key){
+  const rows = [];
+  for (const [sym, sh] of Object.entries(holdings[key] || {})){
+    const q = quotes[sym];
+    const price = q ? q.price : null;
+    const value = (price != null && sh) ? price * sh : (sh ? null : 0);
+    const dayChg = (q && q.change != null && sh) ? q.change * sh : 0;
+    rows.push({ sym, shares: sh, q, price, value, dayChg });
+  }
+  rows.sort((a,b) => (b.value || 0) - (a.value || 0) || a.sym.localeCompare(b.sym));
+  return rows;
+}
+
+function accountTotals(keys){
+  let value = 0, dayChg = 0, count = 0, priced = true;
+  for (const key of keys){
+    for (const r of accountRows(key)){
+      if (r.shares > 0) count++;
+      if (r.value == null && r.shares > 0) priced = false;
+      value  += r.value || 0;
+      dayChg += r.dayChg || 0;
+    }
+  }
+  const prev = value - dayChg;
+  return { value, dayChg, dayPct: prev ? (dayChg / prev) * 100 : null, count, priced };
+}
+
+function positionValue(sym){
+  let v = 0;
+  for (const key of Object.keys(ACCOUNTS)){
+    const sh = (holdings[key] || {})[sym] || 0;
+    const q = quotes[sym];
+    if (sh && q && q.price != null) v += sh * q.price;
+  }
+  return v;
+}
+
+/* =====================================================================
+   Alerts
+   ===================================================================== */
+
+function marketContext(){
+  const voo = quotes["VOO"];
+  const spx = quotes["^GSPC"];
+  const ref = (voo && voo.changePct != null) ? voo.changePct
+            : (spx && spx.changePct != null) ? spx.changePct : null;
+  return ref;
+}
+
+function computeAlerts(){
+  const out = [];
+  const ref = marketContext();
+  const universe = new Set([...Object.values(ACCOUNTS).flatMap(a => a.tickers), ...WATCHLIST]);
+
+  for (const sym of universe){
+    const q = quotes[sym];
+    if (!q) continue;
+    const held = positionValue(sym);
+    const owned = Object.values(ACCOUNTS).some(a => a.tickers.includes(sym));
+    const heldTxt = held > 0 ? `Your position: <b class="money">${fmtMoney0(held)}</b>.`
+                  : owned    ? `No share count entered for this ticker yet.`
+                             : `Watchlist only — no position.`;
+
+    let broadTxt = "Cause unclear.";
+    let kind = "company-specific";
+    if (ref != null && q.changePct != null){
+      const sameWay = (ref > 0) === (q.changePct > 0);
+      if (sameWay && Math.abs(ref) >= 1){
+        kind = "broad-market";
+        broadTxt = `Market is moving the same way (VOO ${fmtPct(ref)}) — looks broad-market, not company-specific.`;
+      } else {
+        broadTxt = `Market is ${fmtPct(ref)} — this move is out of step with the tape, so likely company-specific.`;
+      }
+    }
+
+    const headline = (news.tickers[sym] || [])[0];
+    const causeLink = headline
+      ? ` Top headline: <a href="${esc(headline.link)}" target="_blank" rel="noopener">${esc(headline.title)}</a>`
+      : "";
+
+    // 1. Single-day move
+    const thr = dayThreshold(sym);
+    if (q.changePct != null && Math.abs(q.changePct) >= thr){
+      out.push({
+        sym, severity: q.changePct < 0 ? "hot" : "good", kind,
+        move: fmtPct(q.changePct),
+        title: `${q.changePct < 0 ? "Dip" : "Spike"} — ${Math.abs(q.changePct).toFixed(1)}% today (trigger ${thr}%)`,
+        short: `${q.changePct < 0 ? "dip" : "spike"} of ${Math.abs(q.changePct).toFixed(1)}% today`,
+        body: `${heldTxt} ${broadTxt}${causeLink}`,
+        sort: Math.abs(q.changePct) * 10,
+      });
+    }
+
+    // 2. Below the 30-day high
+    const offThr = offHighThreshold(sym);
+    if (q.offHigh30Pct != null && q.offHigh30Pct <= -offThr){
+      out.push({
+        sym, severity: "hot", kind: "drawdown",
+        move: fmtPct(q.offHigh30Pct),
+        title: `${Math.abs(q.offHigh30Pct).toFixed(1)}% below its 30-day high (trigger ${offThr}%)`,
+        short: `${Math.abs(q.offHigh30Pct).toFixed(1)}% off its 30-day high`,
+        body: `${heldTxt} 30-day high ${fmtMoney(q.high30)}, now ${fmtMoney(q.price)}.${causeLink}`,
+        sort: Math.abs(q.offHigh30Pct),
+      });
+    }
+
+    // 3. Five-session run
+    if (q.fiveSessionPct != null && q.fiveSessionPct >= FIVE_SESSION_RUN){
+      out.push({
+        sym, severity: "good", kind: "5-session run",
+        move: fmtPct(q.fiveSessionPct),
+        title: `Up ${q.fiveSessionPct.toFixed(1)}% over the last five sessions (trigger ${FIVE_SESSION_RUN}%)`,
+        short: `up ${q.fiveSessionPct.toFixed(1)}% over five sessions`,
+        body: `${heldTxt} Worth a look if you were considering trimming or writing calls.${causeLink}`,
+        sort: q.fiveSessionPct,
+      });
+    }
+  }
+  out.sort((a,b) => b.sort - a.sort);
+  return out;
+}
+
+/* =====================================================================
+   Rendering
+   ===================================================================== */
+
+function sparkSVG(spark, positive){
+  if (!spark || spark.length < 3) return "";
+  const w = 64, h = 30, lo = Math.min(...spark), hi = Math.max(...spark);
+  const span = (hi - lo) || 1;
+  const pts = spark.map((v,i) => {
+    const x = (i / (spark.length - 1)) * w;
+    const y = h - 3 - ((v - lo) / span) * (h - 8);
+    return x.toFixed(1) + "," + y.toFixed(1);
+  }).join(" ");
+  const color = positive ? "var(--green)" : "var(--red)";
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">
+    <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.5"
+      stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+}
+
+function cardHTML(sym, shares){
+  const q = quotes[sym];
+  if (!q) return `<div class="card"><div class="sym">${esc(sym)}</div>
+    <div class="nm">no data</div><div class="px flat">—</div>
+    <div class="ch flat">—</div></div>`;
+  const pct = q.changePct;
+  const good = pct != null && pct >= 0;
+  const val = (shares > 0 && q.price != null) ? shares * q.price : null;
+  const label = q.isIndex ? (q.name || sym) : sym;
+  const sub = (!q.name || q.name === sym || q.isIndex) ? "" : q.name;
+  return `<div class="card ${pct == null ? "" : good ? "gain" : "loss"}">
+    ${q.source === "stooq" ? '<span class="badge">EOD</span>' : ""}
+    <div class="sym">${esc(label)}</div>
+    <div class="nm">${esc(sub)}</div>
+    <div class="px">${q.price != null ? (q.price < 20 ? q.price.toFixed(3) : q.price.toFixed(2)) : "—"}</div>
+    <div class="ch ${cls(pct)}">${q.change != null ? (q.change >= 0 ? "+" : "") + q.change.toFixed(2) : "—"} · ${fmtPct(pct)}</div>
+    ${val != null ? `<div class="val money">${fmtMoney0(val)} · ${shares} sh</div>` : ""}
+    ${sparkSVG(q.spark, good)}
+  </div>`;
+}
+
+function renderTape(){
+  const syms = [...INDEXES, ...BROAD, ...WATCHLIST];
+  const one = syms.map(s => {
+    const q = quotes[s];
+    if (!q) return "";
+    const label = q.isIndex ? (q.name || s) : s;
+    return `<span class="tick"><b>${esc(label)}</b>
+      <i>${q.price != null ? q.price.toFixed(2) : "—"}</i>
+      <span class="${cls(q.changePct)}">${fmtPct(q.changePct)}</span></span>`;
+  }).filter(Boolean).join("");
+  document.getElementById("tape").innerHTML = one + one; // doubled for seamless loop
+}
+
+function renderHeader(){
+  const dot = document.getElementById("dot");
+  const txt = document.getElementById("statusText");
+  dot.className = "dot " + (dataMode === "live" ? "live" : dataMode === "snapshot" ? "snap" : "err");
+  txt.textContent = dataMode === "live" ? "live"
+    : dataMode === "snapshot" ? "snapshot · " + ago(dataStamp)
+    : dataMode === "loading" ? "loading" : "offline";
+
+  let keys, title;
+  if (activeTab === "individual" || activeTab === "roth" || activeTab === "rollover"){
+    keys = [activeTab]; title = ACCOUNTS[activeTab].label;
+  } else {
+    keys = Object.keys(ACCOUNTS); title = "All accounts";
+  }
+  const t = accountTotals(keys);
+  document.getElementById("stTitle").textContent = title;
+  document.getElementById("stValue").textContent = t.value > 0 ? fmtMoney0(t.value) : "—";
+  const chEl = document.getElementById("stChange");
+  chEl.className = "sub money " + cls(t.dayChg);
+  chEl.textContent = t.value > 0
+    ? `${t.dayChg >= 0 ? "+" : ""}${fmtMoney0(t.dayChg).replace("$","$")} · ${fmtPct(t.dayPct)} today`
+    : "add share counts in Holdings";
+  document.getElementById("stCount").textContent = t.count || "0";
+  document.getElementById("stAlerts").textContent = computeAlerts().length;
+  document.getElementById("footStamp").textContent =
+    dataStamp ? "data " + ago(dataStamp) : "";
+}
+
+function renderAccount(key){
+  const rows = accountRows(key);
+  const cards = rows.map(r => cardHTML(r.sym, r.shares)).join("");
+  return `<h2 class="sec">${ACCOUNTS[key].label} · ${rows.length} tickers</h2>
+    <div class="cards">${cards}</div>
+    ${rows.every(r => !r.shares) ? '<p class="note">Share counts are all zero — open the <b>Holdings</b> tab to enter them. They stay on this phone and are never uploaded.</p>' : ""}`;
+}
+
+function renderAll(){
+  const watch = WATCHLIST.map(s => cardHTML(s, 0)).join("");
+  const broad = BROAD.map(s => cardHTML(s, positionShares(s))).join("");
+  const idx = INDEXES.map(s => cardHTML(s, 0)).join("");
+  const alerts = computeAlerts();
+  return `
+    ${alerts.length ? "" : ""}
+    <h2 class="sec">Watchlist</h2><div class="cards">${watch}</div>
+    <h2 class="sec">Broad market</h2><div class="cards">${broad}</div>
+    <h2 class="sec">Indexes</h2><div class="cards">${idx}</div>
+    <h2 class="sec">Every position</h2><div class="cards">${allPositionCards()}</div>`;
+}
+
+function positionShares(sym){
+  let n = 0;
+  for (const key of Object.keys(ACCOUNTS)) n += (holdings[key] || {})[sym] || 0;
+  return n;
+}
+
+function allPositionCards(){
+  const syms = [...new Set(Object.values(ACCOUNTS).flatMap(a => a.tickers))];
+  syms.sort((a,b) => positionValue(b) - positionValue(a) || a.localeCompare(b));
+  return syms.map(s => cardHTML(s, positionShares(s))).join("");
+}
+
+function renderAlerts(){
+  const alerts = computeAlerts();
+  if (!alerts.length){
+    return `<h2 class="sec">Fired alerts</h2>
+      <p class="empty">Nothing has crossed a threshold. Triggers: broad ETFs 2%, sector/thematic 4%, single names 5% (LLY 5%, CBRS &amp; HIVE 8%) in a day; 8% (funds) or 12% (single names) off the 30-day high; or up 10% over five sessions.</p>`;
+  }
+  return `<h2 class="sec">Fired alerts · ${alerts.length}</h2>` + alerts.map(a => `
+    <div class="alert ${a.severity}">
+      <div class="top">
+        <span class="t-sym">${esc(a.sym)}</span>
+        <span class="t-move ${a.move.startsWith("-") ? "down" : "up"}">${esc(a.move)}</span>
+        <span class="t-kind">${esc(a.kind)}</span>
+      </div>
+      <div class="body"><b>${esc(a.title)}</b><br />${a.body}</div>
+    </div>`).join("");
+}
+
+function storyHTML(item, tag){
+  return `<a class="story" href="${esc(item.link)}" target="_blank" rel="noopener">
+    <div class="hl">${esc(item.title)}</div>
+    <div class="meta">${tag ? `<span class="tag">${esc(tag)}</span> · ` : ""}${esc(item.source || "")}${item.published ? " · " + esc(item.published.replace(/\s*\d{2}:\d{2}:\d{2}.*$/, "")) : ""}</div>
+  </a>`;
+}
+
+function renderNews(){
+  const alerts = computeAlerts();
+  const banner = alerts.length ? `
+    <div class="banner">
+      <div class="h">⚑ ${alerts.length} alert${alerts.length > 1 ? "s" : ""} fired</div>
+      <ul>${alerts.slice(0,5).map(a => `<li><b>${esc(a.sym)}</b> — ${esc(a.short || a.title)}</li>`).join("")}</ul>
+    </div>` : "";
+
+  const macro = (news.macro || []).slice(0, 10).map(i => storyHTML(i)).join("") || '<p class="empty">No macro headlines in the last pull.</p>';
+  const health = (news.health || []).slice(0, 10).map(i => storyHTML(i)).join("") || '<p class="empty">No FDA / peptide / telehealth headlines in the last pull.</p>';
+  const broadNews = (news.broad || []).slice(0, 6).map(i => storyHTML(i)).join("") || '<p class="empty">No broad-market headlines.</p>';
+
+  const tickerNews = WATCHLIST.map(sym => {
+    const items = (news.tickers[sym] || []).slice(0, 3);
+    if (!items.length) return "";
+    return items.map(i => storyHTML(i, sym)).join("");
+  }).join("") || '<p class="empty">No watchlist headlines in the last pull.</p>';
+
+  const buzz = (news.buzz || []).map(b => `<span class="chip">${esc(b.symbol)}</span>`).join("")
+    || '<span class="chip">unavailable</span>';
+
+  return `${banner}
+    <h2 class="sec">Macro</h2>${macro}
+    <h2 class="sec">Watchlist headlines</h2>${tickerNews}
+    <h2 class="sec">Broad market · VOO / SCHG / SCHD</h2>${broadNews}
+    <h2 class="sec">Peptide · health · FDA</h2>${health}
+    <h2 class="sec">Market buzz — most-talked-about right now</h2>
+    <div class="chips">${buzz}</div>
+    <p class="note">Buzz is pulled from live market attention, not from your holdings or past conversations.</p>`;
+}
+
+function renderIdeas(){
+  const gaps = [
+    ["International", "VXUS · IXUS · SCHF", "Zero non-US exposure today. A total-international fund is the single biggest diversification gap in the portfolio."],
+    ["Small-cap / value", "AVUV · VBR · SCHA", "Everything held is large-cap growth. Small-cap value is the least correlated equity sleeve you don't own."],
+    ["Healthcare", "VHT · XLV", "Only healthcare touchpoint is LLY, and it's watchlist-only. A sector fund adds a defensive leg."],
+    ["REITs", "SCHH · VNQ", "No real-estate exposure. REITs behave differently from tech in rate-driven markets."],
+    ["Bonds / duration", "BND · SGOV · SCHR", "Cash sits in SPAXX. Short-duration Treasuries or a total bond fund give a real ballast sleeve."],
+  ];
+  const conc = (() => {
+    const total = Object.keys(ACCOUNTS).reduce((s,k) => s + accountTotals([k]).value, 0);
+    if (!total) return "";
+    const syms = [...new Set(Object.values(ACCOUNTS).flatMap(a => a.tickers))];
+    const top = syms.map(s => ({ s, v: positionValue(s) })).sort((a,b) => b.v - a.v).slice(0,5);
+    return `<h2 class="sec">Concentration check</h2>
+      <div class="cards">${top.map(t => `<div class="card">
+        <div class="sym">${esc(t.s)}</div><div class="nm">of portfolio</div>
+        <div class="px">${((t.v/total)*100).toFixed(1)}%</div>
+        <div class="val money">${fmtMoney0(t.v)}</div></div>`).join("")}</div>`;
+  })();
+
+  return `<h2 class="sec">Diversification gaps</h2>
+    ${gaps.map(([name, tickers, why]) => `
+      <div class="alert">
+        <div class="top"><span class="t-sym">${esc(name)}</span>
+          <span class="t-kind">${esc(tickers)}</span></div>
+        <div class="body">${esc(why)}</div>
+      </div>`).join("")}
+    ${conc}
+    <p class="note">These are framed as gaps in what you <i>don't</i> hold, not more of what you already own.
+    Nothing here is financial advice — it's a checklist for your own research.</p>`;
+}
+
+function renderHoldings(){
+  const blocks = Object.entries(ACCOUNTS).map(([key, acct]) => {
+    const rows = accountRows(key).map(r => `
+      <tr>
+        <td>${esc(r.sym)}</td>
+        <td>${r.price != null ? r.price.toFixed(2) : "—"}</td>
+        <td><input type="number" step="any" min="0" inputmode="decimal"
+             data-acct="${key}" data-sym="${esc(r.sym)}" value="${r.shares || ""}" placeholder="0" /></td>
+        <td class="money">${r.value ? fmtMoney0(r.value) : "—"}</td>
+      </tr>`).join("");
+    const t = accountTotals([key]);
+    return `<h2 class="sec">${acct.label} · <span class="money" id="tot-${key}">${fmtMoney0(t.value)}</span></h2>
+      <table class="hold">
+        <thead><tr><th>Ticker</th><th>Price</th><th>Shares</th><th>Value</th></tr></thead>
+        <tbody>${rows}</tbody>
+      </table>`;
+  }).join("");
+
+  return blocks + `
+    <div class="row">
+      <button class="btn amber" id="btnRefresh">Refresh prices</button>
+      <button class="btn" id="btnExport">Export holdings</button>
+      <button class="btn" id="btnImport">Import holdings</button>
+    </div>
+    <p class="note">Share counts live in this browser's local storage on this device only — they are never
+    committed to the repo and never leave your phone. Export gives you a JSON backup you can paste back in later.</p>`;
+}
+
+function render(){
+  renderTape();
+  renderHeader();
+  const body = {
+    all: renderAll,
+    individual: () => renderAccount("individual"),
+    roth: () => renderAccount("roth"),
+    rollover: () => renderAccount("rollover"),
+    alerts: renderAlerts,
+    news: renderNews,
+    ideas: renderIdeas,
+    holdings: renderHoldings,
+  }[activeTab];
+  const el = document.getElementById("p-" + activeTab);
+  const noData = Object.keys(quotes).length === 0 ? `
+    <div class="banner">
+      <div class="h">⚑ No market data yet</div>
+      <ul><li>Open your repo on GitHub → <b>Actions</b> → <b>Update RC Buffet data</b> → <b>Run workflow</b>.
+      It takes about a minute, then pull to refresh here.</li></ul>
+    </div>` : "";
+  if (el && body) el.innerHTML = noData + body();
+  if (activeTab === "holdings") wireHoldings();
+}
+
+/* =====================================================================
+   Interaction
+   ===================================================================== */
+
+function buildNav(){
+  const nav = document.getElementById("nav");
+  nav.innerHTML = TABS.map(([id, label]) =>
+    `<button data-tab="${id}">${esc(label)}</button>`).join("");
+  nav.addEventListener("click", e => {
+    const b = e.target.closest("button[data-tab]");
+    if (!b) return;
+    setTab(b.dataset.tab);
+  });
+}
+
+function setTab(id){
+  activeTab = id;
+  for (const b of document.querySelectorAll("nav button"))
+    b.classList.toggle("active", b.dataset.tab === id);
+  for (const p of document.querySelectorAll(".panel"))
+    p.classList.toggle("active", p.id === "p-" + id);
+  try { localStorage.setItem("rcbuffet.tab", id); } catch(e){}
+  render();
+  window.scrollTo({ top: 0, behavior: "instant" in window ? "instant" : "auto" });
+}
+
+function wireHoldings(){
+  for (const input of document.querySelectorAll('input[data-sym]')){
+    input.addEventListener("change", e => {
+      const { acct, sym } = e.target.dataset;
+      const v = parseFloat(e.target.value);
+      holdings[acct][sym] = isFinite(v) && v > 0 ? v : 0;
+      saveHoldings();
+      renderHeader();
+      const cell = e.target.closest("tr").lastElementChild;
+      const q = quotes[sym];
+      cell.textContent = (q && q.price != null && holdings[acct][sym])
+        ? fmtMoney0(q.price * holdings[acct][sym]) : "—";
+      const totEl = document.getElementById("tot-" + acct);
+      if (totEl) totEl.textContent = fmtMoney0(accountTotals([acct]).value);
+    });
+  }
+  const r = document.getElementById("btnRefresh");
+  if (r) r.addEventListener("click", async () => { r.textContent = "Refreshing…"; await refresh(); });
+
+  const ex = document.getElementById("btnExport");
+  if (ex) ex.addEventListener("click", () => {
+    const text = JSON.stringify(holdings, null, 1);
+    if (navigator.clipboard) navigator.clipboard.writeText(text);
+    ex.textContent = "Copied ✓";
+    setTimeout(() => { ex.textContent = "Export holdings"; }, 1800);
+  });
+
+  const im = document.getElementById("btnImport");
+  if (im) im.addEventListener("click", () => {
+    const text = prompt("Paste exported holdings JSON:");
+    if (!text) return;
+    try {
+      const parsed = JSON.parse(text);
+      localStorage.setItem(STORE_KEY, JSON.stringify(parsed));
+      holdings = loadHoldings();
+      render();
+    } catch(e){ im.textContent = "Bad JSON ✗"; setTimeout(() => { im.textContent = "Import holdings"; }, 1800); }
+  });
+}
+
+/* =====================================================================
+   Boot
+   ===================================================================== */
+
+buildNav();
+let saved = "all";
+try { saved = localStorage.getItem("rcbuffet.tab") || "all"; } catch(e){}
+setTab(TABS.some(t => t[0] === saved) ? saved : "all");
+
+refresh();
+setInterval(refresh, REFRESH_MS);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) refresh(); });
+
+if ("serviceWorker" in navigator){
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+}
+</script>
+</body>
+</html>
