@@ -1,6 +1,440 @@
 {
- "tickers": {},
- "broad": [],
+ "tickers": {
+  "PLTR": [
+   {
+    "title": "Palantir Technologies Inc. (PLTR) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjRIV1hIV2x4bWZEMlJUcW40RXo1WmdINEs1dzFHSkdGOGQ1aDZkWTR1Wm1UckVXY2kxdFhGOGZpOUFhXzZPUmpVbHc4cmRqZXl6RE9IbUZzNWJ2aF9sYkoyTW51UzhDc0FHeElic1gwQTE5Mk5kZFEyUGNybGpKeWtqRzFrc3c3TnlCLU1uci1OS0YxdEh5OXBTNmxVUW4wLXhZ?oc=5",
+    "published": "Wed, 28 Oct 2026 20:45:04 GMT",
+    "summary": "Palantir Technologies Inc. (PLTR) Stock Sinks As Market Gains: Here's Why Yahoo FinancePLTR Stock Earnings Preview: What to Expect From Palantir's Q3 Report Barchart.comWhy Is Everybody Paying A Premium For Palantir Stock? TrefisForget Palantir: This AI Stock ",
+    "source": "Google News"
+   },
+   {
+    "title": "JPMorgan says Palantir to rally more than 30%, names it a favorite stock - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQmktT2NHMS1zNmFaa01uZW5Nd2UwcXpoUU1xSzVCcUVLUjZ5di1aNjZRMGpuTHZMNF84ZEZCSm92cmh1eEtLX3dDUjBSc0g1ZnZzMURzQWJuS0dfdFRfRjVUUUY3RWlmMjZWamktcnZJdlZaZFI3SVVZX1RYYldzTVBSNXdxVFh0V2ZHRUFpMHZjSUJGSm9VSDVoQksxWk9fb0NkTmxrNA?oc=5",
+    "published": "Thu, 29 Oct 2026 14:39:22 GMT",
+    "summary": "JPMorgan says Palantir to rally more than 30%, names it a favorite stock CNBC",
+    "source": "Google News"
+   },
+   {
+    "title": "What a $1,000 Investment in Palantir Could Be Worth by the End of 2027 (The Answer May Surprise You) - The Motley Fool",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNam8taVhQeWpqZlJUc1BpckdlRHM5LVVVdVhGSzlHYWRwNDJleHNza2tMbzMyTW1ZRHFSYUhhYzMybW9ScXozeG9MbzNGdEJOejgxY2ZMamY2UWlaY29CbnNtTnhZSnIyWFZmM3g5Mm9VRGJrQk9wWWRzM3FIOGlweURpOWFfSW5yWDd4ZUx5dlU0dHRqTmxR?oc=5",
+    "published": "Thu, 29 Oct 2026 13:45:00 GMT",
+    "summary": "What a $1,000 Investment in Palantir Could Be Worth by the End of 2027 (The Answer May Surprise You) The Motley Fool",
+    "source": "Google News"
+   },
+   {
+    "title": "JPMorgan Is Bullish on Palantir, Predicts Over 30% Rally on Strong AI Demand - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclVzaW1mb3hINzRUMVdOTEtuNHQwV19HcDUtQ2l6STNnVDhTYk5Eak1ONWZpTFdLTy1xLW9ITVZSTnZkU2ZnLWFoeDk4S3o3M0M4aG41SVlpMTV1XzRGZC1qdkxZdWJkQXZ0S3BjbjE0RG52Sk1fYlIyQTQ2ZHpjTURvSWxNNmVacllobWFPWEVyVV9lX1k0Vl9NTnlXaXR5ZnFQczlyTXc1ZFN3TjZxU1VsYjRjSGM1QzBIaDB5VGJ5ZmpiWjktNzBtWmEwRDFx?oc=5",
+    "published": "Thu, 29 Oct 2026 22:40:49 GMT",
+    "summary": "JPMorgan Is Bullish on Palantir, Predicts Over 30% Rally on Strong AI Demand TradingView",
+    "source": "Google News"
+   }
+  ],
+  "GEV": [
+   {
+    "title": "GE Vernova stock gains on earnings beat, raised guidance - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGtZRExlU0R5YW5JNy1KLVQxSzJfdGFWVV9LZ0VFV2pqTnNxTU9WcDRENkY1MEhVT29GNWYxa3BjNVgwTUJoTEs4WG1LUUhBWlRVdVZVQWJSQ0pFUHhNXzBQbjJMUl8wTGZrYXR4cVNCT25IZXoyYzhEYmNPY29hTDkzNGpGVll5b091NTdUVUhkbzU3enk2S3NHWXA?oc=5",
+    "published": "Wed, 28 Oct 2026 10:59:34 GMT",
+    "summary": "GE Vernova stock gains on earnings beat, raised guidance Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "GE Vernova Stock Falls; 'New Orders And New Slots Missed By A Mile' - Investor's Business Daily",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRU3VNQm1WVkdRYTA5eWxIQl9oZ3IxNktqTktCX1hLMl9MYlF6bEg0ZTFkM1YzbW10YjhyWkdUNU43LV9QTTlRc0ZfTkxyZmQzdkNEbTlDY1ZXVlZJ?oc=5",
+    "published": "Wed, 28 Oct 2026 16:47:00 GMT",
+    "summary": "GE Vernova Stock Falls; 'New Orders And New Slots Missed By A Mile' Investor's Business Daily",
+    "source": "Google News"
+   },
+   {
+    "title": "GE Vernova: 3 Straight Guidance Raises, And Wall Street Still Doubts It (NYSE:GEV) - Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlI1MVRmQmVRcEVMcC1lOUpMZUF2TUhueFo4bzVBbTFodnZKWFJBMk53NXNWODFSNEVsYTkweW5ERXJET1hGNE05MHR6TmNUSkI0WjZ4UnppVHhHVUhVaTRRM2xkUkZ2OHpyY3ZqSnNTNzVpbzdNVHRYWkFWYVI2SHVQYmx1TFdKYl9sNXZIcEkyVXBoT0xKLVR0WS1DVzdoYnltMm5aVktQMWhJYk5F?oc=5",
+    "published": "Thu, 29 Oct 2026 13:38:28 GMT",
+    "summary": "GE Vernova: 3 Straight Guidance Raises, And Wall Street Still Doubts It (NYSE:GEV) Seeking Alpha",
+    "source": "Google News"
+   },
+   {
+    "title": "A $9 Billion Reason Why GE Vernova Stock Is Down Today - Barchart.com",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSjl1cWMwNHNqUzJ5VXZleVFXRklGRFo3NEtWeENsZUk5d05zeER5N2N6aFZvUnJfclBfSGpyWUJPMzBJT3lLbnBKam9iX3ZpVWFvSjJuaGFGNTczSEgtRkZRS2RJbm9MOXdwVXgtZGY3NEVMVndHTno4aFFvYmh1bEt0ZjRsbk5oWHlBLVpEYzNGQlRWSmRCQzlCVlIyQQ?oc=5",
+    "published": "Wed, 28 Oct 2026 20:15:05 GMT",
+    "summary": "A $9 Billion Reason Why GE Vernova Stock Is Down Today Barchart.com",
+    "source": "Google News"
+   }
+  ],
+  "CBRS": [
+   {
+    "title": "Cerebras Systems drops 4% following Culper Research short report - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlowNi1XZS14VUlxRXl6LXZpNjJLb3o0bmszNVcyS3BTVnI5eHJyNDl3RFdwenpHV3YxVjh4aGcwZ09DaUxSUVMxclFLX1psTzJyOVBSZ2pDQUJVWC0xN19lSGU4SmNYVG4tQjA5b21QRW9VRTdaT09keWZxT0x4VWJfNFVOVmEzdHZPTmRLejRfUGRkWk4yMjZ0RlFhRWxh?oc=5",
+    "published": "Wed, 28 Oct 2026 16:41:18 GMT",
+    "summary": "Cerebras Systems drops 4% following Culper Research short report Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "Cerebras: The Ultrafast AI Play Trading At A Discount (NASDAQ:CBRS) - Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3paWlVfR0l0UWNDWk9SdlpMdkJ4QTFzTWk0bklPS3hIX01nMy1zZWV3Qk5LWkItWFlCaUVzQ3A0elg1SjhfZVdLTjdFbnVldWRVMlNyV3FUV1oza1ZGQzAyYXVTeFFsTkw1UWloT1FEMVNRZXhBbVF6ZFFySVBCQlQ5Zy1ZdkFwS2lNN3lGQ0RpdldEVWdDNA?oc=5",
+    "published": "Tue, 27 Oct 2026 19:09:47 GMT",
+    "summary": "Cerebras: The Ultrafast AI Play Trading At A Discount (NASDAQ:CBRS) Seeking Alpha",
+    "source": "Google News"
+   },
+   {
+    "title": "Cerebras Stock Surges on Oracle Cloud Partnership - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON3NHNXhHV1hteF82ZzJRT1ZZRnVJOVE2cFVEc3BodF9iMU9YUzR6QkFjX0V3LUNuaF9MeHBQWlEzdXJRZ0tDcUtRWWFUVzRJTEM5TUJieVAzNEFlMkJEa1hNRGU3Z0FZTXV1Z2RBaWsxc2x0RlB4ZzhHUkdjU3E5Tk9keXJ4TnhCZ25LcnM2MzdkUlRKME9XNTVWNVNrdG5fN0tOYmpmSEVsZ1dP?oc=5",
+    "published": "Tue, 27 Oct 2026 17:24:32 GMT",
+    "summary": "Cerebras Stock Surges on Oracle Cloud Partnership TradingView",
+    "source": "Google News"
+   },
+   {
+    "title": "Cerebras Systems Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into Cerebras Systems (CBRS) - Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWFhOQUxPb0ZaSTlTa0NWTlhTQ2I4aEIwdnhjY29LSlFxN1diaUluc21FbFFWXzYzakZkclRBcllMMzJqcmxwMml2aGk1WFZWczk4SllLcFJzUHNWUm9aSTA0d1htb3ZYam9DcnlzTW5VWVdFQld3eWdBTTk4VWEySWJFZldQbzhDejlUcWFKSjhpamoyREpUM1lBcTNicUlTTVI0OElRYW1wS1JqeWljbHFoVnRlX3J2MmstUUQ0Yy1semxRZG9PbmJ5cDBrQ19zU0FKcjVVME1XTmJ1d2RNMC1mV3p5ZkExcEZmRHJHVGNwSThaVXJsOTdtVldaWlByQVljeVpLdEtaeGh6Mjd2b0l3?oc=5",
+    "published": "Thu, 29 Oct 2026 19:29:00 GMT",
+    "summary": "Cerebras Systems Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into Cerebras Systems (CBRS) Morningstar",
+    "source": "Google News"
+   }
+  ],
+  "LLY": [
+   {
+    "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT01DU21uYm53aHVTTEVCYVc5Y0tjOGttZGR0VWJ2Y0RCU2lJLVdyZmN5bmhjQzk2bzZ5dVZ4WjdBUUw2X2tOU2Q3TEZ6Yzk3eHNfNmlQbE5xLXRQb01OdmZWR1RyYmg4c1Q2OTJNb3JaeXJ6RDRmb21iTnczcHhENk5sY25hX1JIZ1g5RlFmM0QtTWpZUnlxS3VoN1I4dw?oc=5",
+    "published": "Thu, 29 Oct 2026 16:02:07 GMT",
+    "summary": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more CNBC",
+    "source": "Google News"
+   },
+   {
+    "title": "Eli Lilly stock jumps as drugmaker raises outlook on booming sales of diabetes and obesity treatments - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeGtWdk5nckZlTlVWNXQzNFczd3dnbVpKaTE1Sm9pWGt4bHpvYzFMbUg2VzJZWXJVbHV0TVJLLXhUUUxrVXFzQ0prTjJmY0t3c0dvV1dSS1JOOV9KbkpCSDN1YTNfTHZUejdiQk5pVzZtSmVTS3hpc21sVEhneFJkSFFoTjJKb09ieDc0aUhHYUd1d3F4a2t2aThGSHNFV2lKUzduRF9JcWxwZUdwZGdrd3dyYjJ6UGdKVHVRZQ?oc=5",
+    "published": "Thu, 29 Oct 2026 13:55:16 GMT",
+    "summary": "Eli Lilly stock jumps as drugmaker raises outlook on booming sales of diabetes and obesity treatments Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "Eli Lilly Stock Jumps on Monster Earnings as Finance Chief Eyes Next Growth Engine - Barron's",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa21oUTZHaDNOcF8xc2pSeDVIdzNtWkRCWWhaSzZkNk9jVEQwU1k3a2FaSHJjRFlPVkZUZDhaeFlaZGRLQ19rYVVNVHZqcVVlemRwYnNQZTlfLU9FV3NvWU51MHd1RUJjVDRsc2ZGb0dWZlBKaHJNWVRUampUdkU2Mkdja2c4aVk3UFNSbjhTVVVGTWhY?oc=5",
+    "published": "Thu, 29 Oct 2026 19:48:00 GMT",
+    "summary": "Eli Lilly Stock Jumps on Monster Earnings as Finance Chief Eyes Next Growth Engine Barron's",
+    "source": "Google News"
+   },
+   {
+    "title": "Ahead of Eli Lilly Earnings, Here's What Barchart Data Says Comes Next for LLY Stock - Barchart.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSmMxQXpGSkZfZTlBQngxUjJSMDc0ZDB0Zm13eEJIU0VxSVJTWmVHSEs1V0FEbXluak55UnljVlJiWklrX3FOb0xMUVFDU1BqQTlEeGVRVmJaM3poeGxFYTk2YnYwNlFxMGlBV1pycHREVVRxRHVTMzA3UE5ZVDI5OTFNV0dKejZXOTFWUERhaDVHU25FSTF6c3ZTTzZaVDQyWTViV0R2MkhtZGlBVjROSkozSmlLQnBDZTh5cE9OcHRmVVUtOHc?oc=5",
+    "published": "Wed, 28 Oct 2026 15:14:33 GMT",
+    "summary": "Ahead of Eli Lilly Earnings, Here's What Barchart Data Says Comes Next for LLY Stock Barchart.com",
+    "source": "Google News"
+   }
+  ],
+  "XE": [
+   {
+    "title": "X-Energy (Nasdaq:XE) - Stock Analysis - Simply Wall St",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1c3pHNG9SVVhYSGNWM2pjWVYxdDltSHR6blBpb3Qta25SampYekN3bHRxWHZacEJsdzBhNGlvLUtlM09nUDM5T251MDJaRGQ1UWpRSEtDcWxiSXVoRnJ5TGhIM1UyMm9BUXBIcE5yMEVtUQ?oc=5",
+    "published": "Thu, 29 Oct 2026 13:26:02 GMT",
+    "summary": "X-Energy (Nasdaq:XE) - Stock Analysis Simply Wall St",
+    "source": "Google News"
+   },
+   {
+    "title": "X Energy (XE) Stock May Be 15% Undervalued On Future Cash Flow - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPck5zRWZIRlhsY24xSmpHRlJDMnFXd2ttNUh4YnNQQ3ZabkJQNXFQLWpZQ3MwV2Faek81dW1HTk9yWFJZTHI3ZFlEeEZsWkFYR29jLVppaEY0VEozYkZIRFJLN3ZJTVVuSU0tWEJOT1lrRl8wMVhKZzg5NzY3ZnY4S1A4VVIxTHdOT0VmNS0xUQ?oc=5",
+    "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+    "summary": "X Energy (XE) Stock May Be 15% Undervalued On Future Cash Flow Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "Cathie Wood's ARK Bought $15M Of XE Stock In A Week: 5 Things Investors Should Know About The Mid-Cap Nuclear Energy Play - Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnJNNDhvazNKbjlzckRrS05nc3pyYnpaaml3UmVhb1ZwNTdUSDJrMmlWNVFnaE9rdU9TQlllVm5OYnlaQlFJMEtpOTVPZS1oVkNRdEI4NHRRdUJpNm1QQ1Z3UGt0em5rV3R4QWloUl9WX0QtMmFQRGNnSEdjVnhOb2dyT3JSVXZVN1k2eUZaZ1Rhb29jNjJYbEVzOG9qOEw1U2taTkZrQWVkc3YyYmRvRGt0UGVmYnhSU24w?oc=5",
+    "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+    "summary": "Cathie Wood's ARK Bought $15M Of XE Stock In A Week: 5 Things Investors Should Know About The Mid-Cap Nuclear Energy Play Stocktwits",
+    "source": "Google News"
+   },
+   {
+    "title": "Nuclear Stock X-energy Ends A Losing Streak. Oklo Makes A New Low. - Investor's Business Daily",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUlMMXJPUkZaQUhNMlRaRHNKV19zX2lsY2xENG4xMG9iajI2VEZHRDc0RC1xUjdzRkppRlpxR2RPdmtTcFZNREVTMjB0OGVOUXNxZ3AtVTUwMUZZUk9PMFppUVBvRVVMTjNnZXFmVWpoR0J2UDAzVDZ4RkVkTG1Lc1Bucnd4VDNLLU5oREFOaFVrTDc5Vk5ReA?oc=5",
+    "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+    "summary": "Nuclear Stock X-energy Ends A Losing Streak. Oklo Makes A New Low. Investor's Business Daily",
+    "source": "Google News"
+   }
+  ],
+  "HIVE": [
+   {
+    "title": "META_TITLE_QUOTE - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tLUU3eXZoVUJsdk9nQzd5NmFXWTUxb2xQNzZFRldIWEdyUnd0bVVjM1JlOW41VjhwcEZNbW1UU3o3OWxWMmI5bHh3V214dw?oc=5",
+    "published": "Wed, 28 Oct 2026 22:59:05 GMT",
+    "summary": "META_TITLE_QUOTE Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "symbol__ Stock Quote Price and Forecast - CNN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wS3AyaThqaktwVzJITWN1Y3FHcG05aWRKRFYweUY3R0Q0bzA1WEFyX1N6U1NYZFdzSm9DSTZNUDlBd1hVYTVjUGp1ODJ3dl80?oc=5",
+    "published": "Wed, 28 Oct 2026 18:04:04 GMT",
+    "summary": "symbol__ Stock Quote Price and Forecast CNN",
+    "source": "Google News"
+   },
+   {
+    "title": "HIVE Digital Technologies Ltd. (HIVE) stock price, news, quote and history - Yahoo Finance Australia",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MNkRqT1NhYm0tdlVNOGR0cFJTXzhDX2hWVEhZdFNqTHF6dXZ3M2xiQlFQc3RPaU9Kd3B5UHRFeldJLWJQd0VvWEdvQnRWZW5jc2c?oc=5",
+    "published": "Thu, 29 Oct 2026 16:36:27 GMT",
+    "summary": "HIVE Digital Technologies Ltd. (HIVE) stock price, news, quote and history Yahoo Finance Australia",
+    "source": "Google News"
+   },
+   {
+    "title": "HIVE's Stock Plummets On Q4 Earnings Miss — Chairman Says Share Price Volatility Is A 'Non-Event' - Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVF92MjhfYW9MYW5Held3MlVBZGR6NDVlN2VRRWRxSkZGRzd0Q2tHdHpfZmFDRl9vUFFGdzI2S19UWjBRSndHdURaUURGME1nRmhkbzdXbHBZbU1JaFFZOTFhb05FSnNVUG1JcEhwQWpnWG94WmlHeWhOVUh3cDQ4b3FiVVB3cEJVMVFzRWdFWU85cUxMc3ZETlJlTEdyNnVJV2o3b1p4QQ?oc=5",
+    "published": "Tue, 02 Jun 2026 14:46:47 GMT",
+    "summary": "HIVE's Stock Plummets On Q4 Earnings Miss — Chairman Says Share Price Volatility Is A 'Non-Event' Stocktwits",
+    "source": "Google News"
+   }
+  ],
+  "NVDA": [
+   {
+    "title": "Nvidia Stock Declines as Competition Probe—and Spy Report—Presents New AI Concern - Barron's",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUhtWFVGeXRmbWVsY083ckRJRUYwOHhEYTZ5cURrdlktQXNyVWk2QllyVVZpRGY3cWg0X3JTNU4xWVBjUTZ4M1pRWWJLR1V3c0FYcGsxQWwzd29jYjRETGpHYnhqMFZpMlk4RG81OFU2NUtUZ3JVaEwxY1NYZkVuYUxabUpWRjNyeVJmbg?oc=5",
+    "published": "Thu, 29 Oct 2026 17:19:00 GMT",
+    "summary": "Nvidia Stock Declines as Competition Probe—and Spy Report—Presents New AI Concern Barron's",
+    "source": "Google News"
+   },
+   {
+    "title": "Nvidia Stock Has Dropped Nearly 6% in a Month; Now Jim Cramer Is Asking Why ‘Anything Negative in Tech’ Immediately Crushes NVDA - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWZmNGZfcHpPQ3V5YWpBOV8yTTZ5OFhVbWV2M0VtLUprRzJwRllPbXVMWDVodmFoUG9wYndHZFlVdFc5Q3RIMkwzMzRGWUVhVmh0M3RURjd1VVJCRVpYbGJiTlc4V1pqTGpuWThGVFpCdXdHVWthTEUycVNybkh1STJYeUtXbFQ2YkhvYVUzdV82RFlGRXcxcGVn?oc=5",
+    "published": "Thu, 29 Oct 2026 02:00:00 GMT",
+    "summary": "Nvidia Stock Has Dropped Nearly 6% in a Month; Now Jim Cramer Is Asking Why ‘Anything Negative in Tech’ Immediately Crushes NVDA Yahoo FinanceCan NVIDIA Stock Jump 50%? TrefisNvidia: Brace For The Worst (NASDAQ:NVDA) Seeking Alpha",
+    "source": "Google News"
+   },
+   {
+    "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUMwY0xlTmlOWWZEMEZ1MjQ0YnY3eG1WV1k5T1pqOWkwTXFZTmk0c21wTVFibmpXaFdWRElJNVVOX1lyeGxITWpHQ2hBbVpvS1NQRmUxZlZaRVNiZWNfb25TWXAyWXl5Zm1zV3VuemEwNGppdlE5UURRVTA1ZDZmcWY3cFAxUWtMMWtlejRSZTB3QW9wWXRpNNIBngFBVV95cUxQUUg3OVpUN1J0S0pUY05lVXRETERQeFJua0pFSjlHd0Y0V3JkVWNOTTVlc2pIZHRIcUxFbDZYOVhIamNhaGtjbkpTUXo0MXlFVjl5Z0tzRFQyNVdDZjhPZEpySW5aaWh2OXJza1lIQldNM0poSlF6SzBnU2MwUWlVaG0wZ0dsV1F1NVpXRC05N2gxZG5RRGF5MkVwem1mQQ?oc=5",
+    "published": "Wed, 28 Oct 2026 20:13:50 GMT",
+    "summary": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny CNBC",
+    "source": "Google News"
+   },
+   {
+    "title": "NVDA Stock Alert: What to Know as Nvidia Invests $3 Billion in Meta - Barchart.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnl5Qi1MY0NrMUF0ODAzM3hvbUxLMkpLRnBrMlp2RExVQkx5eEhtZW0zdVdac1pPNGowX1JBUkYzX3BHYWtVRnZtOGFZbzdoYV9oY3hpenJXcnltOE5IUEtKc21zRktPb0Q3cTRGX2VXc2FaUzFGZVRjWkZrc29veEdoX1pIazh6Wm5Rdy1CYkRFUUhQS0NNb01DSVE4SThlRkFiNWZmdkdQUF9qcVE?oc=5",
+    "published": "Tue, 27 Oct 2026 21:32:23 GMT",
+    "summary": "NVDA Stock Alert: What to Know as Nvidia Invests $3 Billion in Meta Barchart.com",
+    "source": "Google News"
+   }
+  ],
+  "GOOGL": [
+   {
+    "title": "Google stock plunges more than 12% on Q3 earnings miss - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFB0eUlHUndiMWdzRDRqWExlUGI0ZHdwM0FMeVRSNHVla0I2QS10aUxmdWV2VHpMUkZLUVZTb1NvcFJ1SnJiVjlkc0ltTjFGRjRacTE0NDNCemZqSHNzeUI5TmxncHhQLTFac1I1cUFPRm5ySFB0THFJc0JEb0xNMTB1S0t3d3lMNzNJRmRXWU9KU2phb0tEQnp5VU5SOEZpUjlqWEU2cm5udXoxdVNqV0Rxaw?oc=5",
+    "published": "Thu, 29 Oct 2026 16:25:36 GMT",
+    "summary": "Google stock plunges more than 12% on Q3 earnings miss Yahoo FinanceDear Market, You Got Alphabet Wrong Seeking AlphaAlphabet Earnings: Why Google Stock Is Falling Barron'sGoogle Shares Fall 10% as Growth in Search Revenue Slows WSJGoogle stock faces historic ",
+    "source": "Google News"
+   },
+   {
+    "title": "5 Things to Know Before the Stock Market Opens on Thursday - Investopedia",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXRjdk56WjRaRllYZVY3WEVpazdaSGFreHgybEEwekFhMXduSTl1bENDaTJ6UmR3MTA1THJGdWk2dmV1VW82SG9JYldla1I4T0k4UFZXQlByU1VnamhPZWFES2U5SmRyUG1iUl9iUVhscmdadXcxNmxZaXA2VkoyNHhOak1zYTFiZXMyWlZqVEtfMjIyV1poUGNlZzRuN3RTZTlYZHJSZGw3TF9pRjJqZWln?oc=5",
+    "published": "Thu, 29 Oct 2026 12:02:18 GMT",
+    "summary": "5 Things to Know Before the Stock Market Opens on Thursday Investopedia",
+    "source": "Google News"
+   },
+   {
+    "title": "Alphabet shares record their worst day ever, shedding $500 billion in value - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMndTLS04T1FTZGdERGZVOVpOcThYTkNlT0FHUnp4TF9lVU52SDlfYlY3VzZubGxkcDdwWDQxbUlpcDUzUjN1RF9qRXBfbzlTaEsydXlNMnpIRjJldVpOdWdVdVBUZ2c5aVRZS094c01NZk9aZGVUcl9WZlhzdG4yNHRCVEpfajlTX3NYVmlpdzRPQQ?oc=5",
+    "published": "Thu, 29 Oct 2026 20:33:32 GMT",
+    "summary": "Alphabet shares record their worst day ever, shedding $500 billion in value NBC News",
+    "source": "Google News"
+   },
+   {
+    "title": "Google Erases a Record $500 Billion as AI Eats Into Sales - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl94WE51TlQ2Q2dVVTBDNlZZbzF5Mk02UjZRaEJwQnhoM1lGX0dWODk3b1RwZDB1SDVHYmYtOUQzaWJyTEc0ZXlTNmpyQU50WVhaQUpJX3dyMkVFbmgyVXJFVy1fb21TQUxEOXFIWmtzdFEyYVk5SkU3ZGF4LTdnN0EyTlo1NklicFg4TzlpSHYwRE9VYzdUUTZ4N0ZLaG9XWUs1Nm5vM3FfSktn?oc=5",
+    "published": "Thu, 29 Oct 2026 13:37:27 GMT",
+    "summary": "Google Erases a Record $500 Billion as AI Eats Into Sales Bloomberg.com",
+    "source": "Google News"
+   }
+  ],
+  "AVGO": [
+   {
+    "title": "Why Are Chip Stocks Nvidia (NVDA), AMD, and Broadcom (AVGO) Up Today? - TipRanks",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHQtNE4yRy1pcExlQS1kTnctNUVqUXZuSmxKeHJCaXBYUEFQR3Y1YTRzSVJlREZVVlZLZGFqenFYX1hHUmxFcS1iNmJNX0JYcThRLTY1TXg0UVhCcC14TnIyRjZJMFgwQ3FQc0pWTjFXOVdDRmdaUW1SZUVtVWxSQmZjdW5nTHFZZ3c1djdCb05IZ25xdE5F?oc=5",
+    "published": "Mon, 26 Oct 2026 16:06:26 GMT",
+    "summary": "Why Are Chip Stocks Nvidia (NVDA), AMD, and Broadcom (AVGO) Up Today? TipRanks",
+    "source": "Google News"
+   },
+   {
+    "title": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027 - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2VJbThWN01WZTZsdUFURXpNUE1nRVh5TEE1MEt1OEJiVnYxZ1VnandDTEpJaFdld25XNkNEQkZTMGhnLWJ2c3cyU2hyVlZUWTZCM0llcmpDdkhTQ0VZYmtiUTJEcG5fSkxkRTU1MTJ0SndTSGNwdUVyZnNUT05XNEhwTjlxbmhZdVlYR0FSUkVmeGF2bkkyVEtVbWp4bndJVzl3?oc=5",
+    "published": "Thu, 29 Oct 2026 19:18:00 GMT",
+    "summary": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027 Yahoo FinanceBroadcom: This Is Probably A Good Entry Point (Rating Upgrade) (NASDAQ:AVGO) Seeking AlphaThis Analyst Just Upgraded Broadcom Stock. Here's Why. Barchart.com",
+    "source": "Google News"
+   },
+   {
+    "title": "Credo Is Walking Into Broadcom’s Backyard (NASDAQ:CRDO) - Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNU1Yc1FqdzhEWS1zYW85QUlQWEpOWTlSaUNUWGhkM3BnR0pZWlhaN1VSMFhFeXBEYTBwTVE3M0llOFJVS2lMcGdCaDE5N0NPZU9rSkJqYUlQNS1BTnFGR3FlWnVDc21TX2J3WnpRR2YzRUxwZl8yWmczR0NPNHZVUjVUMkQ1OHN2?oc=5",
+    "published": "Wed, 28 Oct 2026 12:50:45 GMT",
+    "summary": "Credo Is Walking Into Broadcom’s Backyard (NASDAQ:CRDO) Seeking Alpha",
+    "source": "Google News"
+   },
+   {
+    "title": "Samsung Made A Record Profit — Chip Stocks Fell Anyway: Here's Why - Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWS1KOEFmMm9fUHVhY2xNSmZ4ejVoTTFUY1otMWtybjB5UjNSQS1RZm91M2JXd0l4bHdYTHpsd0tkeTBLRTluOXh3OG9wZmNpTzVORVl4NkpDc3piRm95VGpaMUUzdEEwYlFlMFlvT0RMbWhyc2d1Z2FFTmFHUHpuS2YzVnFxdDRFSldJeG5HQk05WHh6OTctU2h6Z2hUWm53d1IyOGg0MWlFYzRPUTVKd2FnSFlleUotenNKV0R0SVZrcl9IbW1zMHllUTRCLWtwRm1hWU5aWTF6VXBhUUQ3YWlIVmJ2QQ?oc=5",
+    "published": "Thu, 29 Oct 2026 07:02:00 GMT",
+    "summary": "Samsung Made A Record Profit — Chip Stocks Fell Anyway: Here's Why Stocktwits",
+    "source": "Google News"
+   }
+  ],
+  "TSLA": [
+   {
+    "title": "Tesla Stock (NASDAQ:TSLA) Notches Up; Full Self-Driving Has Come a Long Way - TipRanks",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1JQTDBBaTNFNnNyVXUyazBieWxQb0lPekhzU1BidWppcEJfVmFSQ0tYaGg1aXBiTS16NVlwLWpiZVU3YjJyUGtLaEdiMXZ5bjVPc01xaUp0MWFTTnEyZi1DMERnU0RudFIxdVQ3djdDOHlXc1lVWmNxLU5EckNOeUJIaHE2ZnRRTnhFTkJCSUxTV2dKX0hDZXh1b1BLLVAyajJZ?oc=5",
+    "published": "Thu, 29 Oct 2026 16:36:19 GMT",
+    "summary": "Tesla Stock (NASDAQ:TSLA) Notches Up; Full Self-Driving Has Come a Long Way TipRanks",
+    "source": "Google News"
+   },
+   {
+    "title": "Tesla Closed Up 4% at $407. Here’s What a SpaceX Merger Could Mean for Your Shares. - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlpGaVJsNlE2MjFtYW91QVdYTk1xMnM4QmM2ajJRV29xSG5CZEIxTDhCYVhMb2FNWExhUnF5LUlUbUpGbFI0UW9mT1AwekJORUNfeU1ubkJiTHJnSlNLVU1pcXE5QmVpZmVIYzF5NlV2YTgxaGlkNmRQcU4yb3ZxWGV5Z1p2a0JRYWlrZWhIdUJ3OUtV?oc=5",
+    "published": "Wed, 28 Oct 2026 11:04:26 GMT",
+    "summary": "Tesla Closed Up 4% at $407. Here’s What a SpaceX Merger Could Mean for Your Shares. Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "Tesla Stock Gets Dragged Down by Alphabet’s Misery - Barron's",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnd1NHJVaUJnR2ZZSFhQSVZnRWRybm1tRlhuVHR5cjc1ZFlvOE1TWUdpLXRUQWxrVkwwZkdOTUtmYUUzWk43NUZBempTVUM2ZVJKRkpfeXBYeW9EdWhnQ3dNMGJodGFkVEVHQWdzbzJGWXpvV2tEVTBfMURUcHpwNFEyclF0N2tKb2lV?oc=5",
+    "published": "Thu, 29 Oct 2026 15:39:00 GMT",
+    "summary": "Tesla Stock Gets Dragged Down by Alphabet’s Misery Barron's",
+    "source": "Google News"
+   },
+   {
+    "title": "Should You Buy Tesla Stock Right Now? The Answer Might Surprise You. - The Motley Fool",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0NVODMxdm0zd1RvUjJkRC1mRVF3cmdwWTAxWndqOVNrQ2owa2lsVGlGNmlySU9kMlVyalNOLXNFUjFjRXVkWFRSbU5Bek14Y250YVFqdFB1VEktcDVEMHNlcEp5NXNGYVViOXd6Tk5ZSEJRVjNtWi0xbEp3VXhfOXRaRGtHNGV5blI2UUlYUlNLSzkxaUE?oc=5",
+    "published": "Thu, 29 Oct 2026 13:29:00 GMT",
+    "summary": "Should You Buy Tesla Stock Right Now? The Answer Might Surprise You. The Motley Fool",
+    "source": "Google News"
+   }
+  ],
+  "TSM": [
+   {
+    "title": "TSM vs. MU: Which Semiconductor Stock Is the Better Buy Post-Earnings? - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTFTOFFaSGRRUElGckpCT00zVmhxT0o0X1k3di00ejZWSEVIV1g4QXFVdUd4SXFfRk5wTGtnRUtnUVhPX1pOZVpsVnlDQlg4YmdBeGw4emY5N0VMLWt1dmxVa0wwOHRLSUxuOW42OGZ6aWNoN0pQWWlTR3NTd280ZUM2T3pMSUVxYlVSTzZxQjNaTElSUmVMbldR?oc=5",
+    "published": "Tue, 27 Oct 2026 18:00:00 GMT",
+    "summary": "TSM vs. MU: Which Semiconductor Stock Is the Better Buy Post-Earnings? Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "TSMC: Spending Its Lead To Keep It - Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OekdFcWp1Y0luR3BJdkZlR0JlMGdycy0waWZOYzdIR2IzTTlDVzZzbGFldTRaaHkyS0dKZmMtWXFVamFqaXFsWkVIQ0ZyZ2EwMlpjX2owYUh3R2w0SVZVckdOazRzSHpvLWNoakc3UGFsNHRqTzZ0TnJRODhla1E?oc=5",
+    "published": "Thu, 29 Oct 2026 11:24:17 GMT",
+    "summary": "TSMC: Spending Its Lead To Keep It Seeking Alpha",
+    "source": "Google News"
+   },
+   {
+    "title": "Cathie Wood Cashes Out AI Chip Stocks, Adds These Aviation Plays - Investor's Business Daily",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmw1MTlySnF4NGxpbFhfcXlHeVFueTU2ZW5yaHlSTlQ0NTE0ZVFvZjJqTm9ySmlwZFFQLVNXVFFfYUt3Vmo4UzFWSXgwU0RfeXNTLWo3VXZzOWtZd09CbE9kZ0l4MmlvX1otb05seDR6RkpvdHk0ckNtMnRVUC1xM1RucU1YRWJGRGVVcjVBTXVPckMtSGNqaFA3Rk1FODZfVkllQWxraUdiaVk?oc=5",
+    "published": "Tue, 27 Oct 2026 21:02:00 GMT",
+    "summary": "Cathie Wood Cashes Out AI Chip Stocks, Adds These Aviation Plays Investor's Business Daily",
+    "source": "Google News"
+   },
+   {
+    "title": "TSM vs. MU: Which Semiconductor Stock Is the Better Buy Post-Earnings? - Zacks Investment Research",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaENOcWdsTlVLMWFHLTlhTzRpR0lrNzZiRDV5dzRZNUphdUwtbkZNTGVaWlJOMWpUbkNxVTlXa05mWWplY2YzRjBIVzR1Q19XRkFmX1drWUZuRkNOMng4ZF96Rk5zdFhqWXlnb1l4aXpJeGplRVYwbS1kcV9IakliUFdDVmhSV0pnaklnODZHa0h2VjVET0lRUlVrN0dKTU82UWtKYTZJaVJUak5I?oc=5",
+    "published": "Tue, 27 Oct 2026 18:08:35 GMT",
+    "summary": "TSM vs. MU: Which Semiconductor Stock Is the Better Buy Post-Earnings? Zacks Investment Research",
+    "source": "Google News"
+   }
+  ],
+  "MU": [
+   {
+    "title": "Micron Stock Falls as Samsung Earnings Show the High Bar for Memory Stocks. - Barron's",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVprRmdFU1M2cmhCUUhmd0RnNFFpX19leG13UjlOOUwwMVUzSTA5NW5wNllZd0JGem1IOFpCeS1yQXlPS3FrTWZ5TWptanlvbkNtQllncjE2ZE9pVkRFX1NVNEFDTUo2NWVDYUw3VGw3TWhKbGVsMThGc1lxSFhiUFRkRS0?oc=5",
+    "published": "Thu, 29 Oct 2026 17:06:00 GMT",
+    "summary": "Micron Stock Falls as Samsung Earnings Show the High Bar for Memory Stocks. Barron's",
+    "source": "Google News"
+   },
+   {
+    "title": "If I Had to Put $5,000 Into Just One Stock and Lose the Password Until 2036, This Would Be It. - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZk5RLUNZMWVLSFBBN0ZKX21jX2tqQ3UxV3RpVnlCemU5V2xaLWxGUmVXWWZ2MU9GaWZfQXdkOVVuOUVVN2FHRmlCcnNsY0R2aGUza0VNU0R6dUZfN0I4NklnNzRQRGtrRXRQOWNDQkxtdmVGR01YTFZsakVoU0prd3pidXVINDMwQ0Zn?oc=5",
+    "published": "Thu, 29 Oct 2026 17:20:00 GMT",
+    "summary": "If I Had to Put $5,000 Into Just One Stock and Lose the Password Until 2036, This Would Be It. Yahoo FinanceMicron Stock Rises as Rival SK Hynix Fuels AI Frenzy With Two Bombshells Barron'sPrediction: This Artificial Intelligence (AI) Memory Stock Will Go Para",
+    "source": "Google News"
+   },
+   {
+    "title": "Micron Just Unveiled a New Bonus Plan. What That Means for MU Stock. - Barchart.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVp0SEVqV2ZKY1BKYXJGZXhZcGZNVzZwdnBrV0NhWGtTaTEwMVNBb0hjZEx4b1VYR1B6UzdJNzdXaE5OZFhSZzhZQlhhWmNSelFxYXRCaG8tTEVHRU9DZE5TcmZDaXdHRzdBTjhlbDhqNGM2d1lQbnZpbVdlb1ExSTlXaDB3UzhXd081UzU1Wkp0OE9YT1pOWFFUZjR3V252TkxBTHI1T3J5aEdzdDcw?oc=5",
+    "published": "Tue, 27 Oct 2026 15:18:50 GMT",
+    "summary": "Micron Just Unveiled a New Bonus Plan. What That Means for MU Stock. Barchart.com",
+    "source": "Google News"
+   },
+   {
+    "title": "Micron Will Pay Bonuses Half in Stock. At 63, Shares He Hasn't Sold Could Still Count Toward His $25,560 Social Security Limit - 24/7 Wall St.",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdTZFSnJFdTBkVklvWUdINnFONGx2aDdIYzFoM1BCWkU3Vlp4NmRxVTUtRjN2Sk1zaTYtakVFYkJCWi1uc29FWjA2SHBNOWQ0MnRKSzRtZ3VGZGlXMFdYRGZWckE1VVdWN01hcEJuV29ZM0QxZEtqYlZUeEw1LWM5MGZpbHFpWWZKNXliSzYzcHZrTkNBc21lQjNjTmotRkExdXZkMTNYZGJ4WWI1VHlmM1NRYjJ2blBHbjg3YkhpazlQS1FqY0F6Z1Y5Y21VampvUXlqWTRoeXFpbDNCOUVIRnpncVZ0TV9VREhtNVg3NmpwQVV6eXprdnhUYzhpNE91UWJDTXRBMEw1dlFOZkRaQlNaMU5BUnM?oc=5",
+    "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+    "summary": "Micron Will Pay Bonuses Half in Stock. At 63, Shares He Hasn't Sold Could Still Count Toward His $25,560 Social Security Limit 24/7 Wall St.",
+    "source": "Google News"
+   }
+  ],
+  "AMZN": [
+   {
+    "title": "Amazon earnings live: Q3 earnings miss sending stock lower - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVF6a2lNN2tfcDl4NkowckJhV2sySXpnSFlra3BaSlNsbm1oN0NmZGdiaS1VVGtmOVoxN1JSUTlCQ2c0QU9FUTl3dzYwVlAtUEJLQnpZRjYtdWxZSmdhN3hHZFRKa0tqR0Q2VlBZdUJDQWtmZmthVnExbzhlS2dKa055bTUwRnhzUUt1ZkhjSDdMeGpBXzl2M3UyMm4zVHZXc1BubzNyZ1pjOEEwTzlJ?oc=5",
+    "published": "Thu, 29 Oct 2026 20:33:31 GMT",
+    "summary": "Amazon earnings live: Q3 earnings miss sending stock lower Yahoo FinanceAmazon Earnings On Deck After Rivals Microsoft, Google Post Strong Cloud Growth Investor's Business DailyAmazon earnings send the stock lower. Here's what to know. MarketWatchAmazon Earnin",
+    "source": "Google News"
+   },
+   {
+    "title": "Andy Jassy’s prediction: Amazon could have two $1 trillion businesses within a decade - GeekWire",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1ZfWXY4b2tMS3pfZ0ZrV0prRDVjQk14Q3J0YXV4VXMzMnJ5T2NkRTd1VzVzVlNfMDJiMXRGSHdTN3RLb3pPeDJONnlTSU5Cd1lFVGl2V0NWdVU2dW9XUDZQOGNvRmtKRElyT2M0MzRSOW1oMDNOYXNnMFpZRVRxNzV5Q21ZU1M0a0hwS2pQTWkySk1KdDZ3djA3UXhtM1ViZXRjaENmdTl5ZFlqQlVMWjdkVQ?oc=5",
+    "published": "Fri, 30 Oct 2026 01:08:59 GMT",
+    "summary": "Andy Jassy’s prediction: Amazon could have two $1 trillion businesses within a decade GeekWire",
+    "source": "Google News"
+   },
+   {
+    "title": "Amazon Stock Slides After Q3 Earnings Miss Despite Strong Cloud Growth - Investor's Business Daily",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUcycHJPVi1rV3dqc1N5LWEtbmJhMW1ZWjI4MWxXdy13NXBEWnBKRG5vUGl6U00tOEVlNVk5T2p2a2ZkdGcwUEpBR1hETE9zVVREZnNOZ1Q5amF6SHdDLVR4Yzh3STdDeGhJMFBRRkhKVmZlVmJudFF1R2wtNGFLcGh3UQ?oc=5",
+    "published": "Thu, 29 Oct 2026 22:40:00 GMT",
+    "summary": "Amazon Stock Slides After Q3 Earnings Miss Despite Strong Cloud Growth Investor's Business Daily",
+    "source": "Google News"
+   },
+   {
+    "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05d010MmVjcktGQS1WWE95VkxiNXJEQkN3czR3Rk1jejlmNHRPaHFUZTVQZ1BoUDRublhBWHlaNUlfZlJKMkFoTFRadXJYYUpNbGNhRTNEWVVEaTFUSzhPTGI1R0R5SHRvVXdBTGRLdVhkYXlrUU4wMmo0Qk3SAYIBQVVfeXFMTU1ac2pLUU1YMy1aNHNUUFdCU3Q3WEVacW9kcEc4RjRuanZfRDdVZlFwNzBXTUwyZi1fSFBSbVBSQVNUZVhyYnNRdWNQODd1NV95SDVyQ3ZEUUl1QmRDbkF2OVlfblF6dTVsX3o1cU5VOHBDRHFQMDgtNE5PWEhaUmpCQQ?oc=5",
+    "published": "Thu, 29 Oct 2026 16:00:01 GMT",
+    "summary": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged CNBC",
+    "source": "Google News"
+   }
+  ]
+ },
+ "broad": [
+  {
+   "title": "Vanguard S&P 500 ETF (VOO) stock price forecast: outlook through 2036 - Beinsure",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRktJM213NjdPc2F4cHJzcUZaUGMtc3liWnYtUk1nUHBfZWd1V203cmlER3VyNWNKenlFaHowaG9pZnJEOW1halN0eWJPQ2xWSXl6eUNRRHhDWnRLY2s4ZmNublVTcWNYTkVtMVB2SGpHZjBSUS1vZDExQWZLRGlzU3g4dW5HOUppTmpXaDBLTGc3UzJsUTc4?oc=5",
+   "published": "Thu, 29 Oct 2026 21:59:50 GMT",
+   "summary": "Vanguard S&P 500 ETF (VOO) stock price forecast: outlook through 2036 Beinsure",
+   "source": "Google News"
+  },
+  {
+   "title": "VOO vs. QQQ: Here's the ETF I'd Personally Buy and Hold for Decades - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX0tGb19tMWt0TjF2WVUxZWR6TFI4ZmdESzN0QmVxSjNDOGktdWJ2cWtqS0Z2LUVyUmpXSjQwWk9Rb2JtWlBhRldiMFh6clozRkgxQ3hLTFlSbGhUOU0wdFpqYXJycTBnaVdueXFLS2RObUI2ck82ZGo3X2xJZlZHTjU4YnR5N2VxTEh6Zkt3?oc=5",
+   "published": "Mon, 26 Oct 2026 15:40:00 GMT",
+   "summary": "VOO vs. QQQ: Here's the ETF I'd Personally Buy and Hold for Decades Yahoo Finance",
+   "source": "Google News"
+  },
+  {
+   "title": "SCHG Apr 2027 30.000 put (SCHG270416P00030000) interactive stock chart - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MM3I0SENPS3g3UnlHUjNfWEl3UlVFSm9lVWxiclQ3amdqOVp1azZvcnd6UnV2S0RZeTkwRFAyZ0FDY0FlcnRubV9vVHpwcVlteDNHOXJ5Y3VsaE53T3ZKQklFazJvdUFNZ3RoMGZB?oc=5",
+   "published": "Thu, 29 Oct 2026 02:22:18 GMT",
+   "summary": "SCHG Apr 2027 30.000 put (SCHG270416P00030000) interactive stock chart Yahoo Finance UK",
+   "source": "Google News"
+  },
+  {
+   "title": "SCHD Pays $8,384 More a Year Than SCHG. Over Five Years SCHG Returned $121,800 More - 24/7 Wall St.",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcm03WUlNbEZidFN1S3RvR252VmtsaVBNWFdtS1NDRjhpTE9wMXA3T2w3bTNHcVlOaW13QUw3bEFkeHhDMlNhZUdaU2tkTDlkLVhLNUs4Zk5EX2RTanZka2JnWDdkREdwTmZucnA2MGNLYW5kTnMxc0E0SnBaSXVjOExUdXhQRklEa05XVnE4STEwelJEcllfbUhGcUNDWnJ6N3UxN2hCdUdlYmVPVTB2c1lxQnZIdVdXZVRoTkRuRGRZcUVI?oc=5",
+   "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "summary": "SCHD Pays $8,384 More a Year Than SCHG. Over Five Years SCHG Returned $121,800 More 24/7 Wall St.",
+   "source": "Google News"
+  },
+  {
+   "title": "If You Own SCHD for a 10-Year Hold, This Dividend Growth ETF Deserves a Look - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRTQxSlZzaHBUcU1jV2F3M0kxU1JGVDE0bVZBSGRWTGlsRFE3QWFBSktKVlNwZlVnNG5vcTBnOVU1RVByWHRiSllsZm5Pc1RBczJjZDdybWdyUmNCbXAxZzNhRVEwR0tzUWxIZlBGUTRoYjBFOXBxcUZCNS1RcXItT3Etb3REclJ6aUEzdGRIZ2d0SzI4?oc=5",
+   "published": "Sat, 17 Oct 2026 07:00:00 GMT",
+   "summary": "If You Own SCHD for a 10-Year Hold, This Dividend Growth ETF Deserves a Look Yahoo Finance",
+   "source": "Google News"
+  },
+  {
+   "title": "SCHD 261009 34.50P (SCHD261009P34500) Stock Options Chain | Quotes & News - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfeG5RcGhPaDR5Sk94b0M1NVRwWGdpRndCNDJndWpLY24zcENuQVd5bVB2S0VMT1BFWUdOVG9iMmEyZkJGeTZud2FSY25sZHFKNTBmQkoyckkxbkd1cWJJ?oc=5",
+   "published": "Thu, 29 Oct 2026 06:27:38 GMT",
+   "summary": "SCHD 261009 34.50P (SCHD261009P34500) Stock Options Chain | Quotes & News Moomoo",
+   "source": "Google News"
+  }
+ ],
  "macro": [
   {
    "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
@@ -71,9 +505,129 @@
    "published": "Wed, 28 Oct 2026 21:06:37 GMT",
    "summary": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
    "source": "CNBC Markets"
+  },
+  {
+   "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0duQ2s1THJaQTllWHI4eXh0UEZXVjVLUkdBbUFyaHpERDhqQkxLcnhTRzVQU3k0MW5FeWF4Q25BZnJ4dHZuckZiRHZnN2V4eEljbEZDbFFxZnFZREJnQ29wTHdJSDhfV0FzYkdRQ1NkblZyZDAwTmZOdzhyZFlUc3N6M25CMWt6Y0VQMGZ3QmE?oc=5",
+   "published": "Thu, 29 Oct 2026 18:55:42 GMT",
+   "summary": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation The New York Times",
+   "source": "Google News"
+  },
+  {
+   "title": "Federal Reserve leaves interest rates unchanged despite rising inflation - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHhyOWk0NW9KMUxVdWU1d015dG1YZmdWV2JsbGFRbTV5UFUxZUdENy10ZHl4M3FQakxWNW53enE3Um9IT3NCUUtDaDlkLWpXX0lpUWZPV214WURKVVdLcWtTczUzdjZiVm9HUFNzRmVSeUd2TzF2VDBpWlFvbzdyeWotdl9zOVAzaDhCZW9MQQ?oc=5",
+   "published": "Wed, 28 Oct 2026 18:44:23 GMT",
+   "summary": "Federal Reserve leaves interest rates unchanged despite rising inflation NBC News",
+   "source": "Google News"
+  },
+  {
+   "title": "Fed holds interest rates steady even as inflation remains stubborn - NPR",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGlIQ19wM2oxdDZvTmVUSVFmSDNFVTY2ZGUzSlVMZFU2NHJ3alhfODMzYUFKYmE4M21aSG5zd2k1MVI2akpidHhGUXRwck43WFNZYU5mZmpRRzl2dDZES3VWTkxURW43UkZteGUxODZsMEcyRENWX2VJQVU4dVNPdFhRWGt1eUpBamtPcFhn?oc=5",
+   "published": "Wed, 28 Oct 2026 18:04:42 GMT",
+   "summary": "Fed holds interest rates steady even as inflation remains stubborn NPR",
+   "source": "Google News"
+  },
+  {
+   "title": "Fed votes in split decision to hold interest rates steady despite sticky inflation - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFNHanJ3MTBjVnBzMDd2NTFYRTR1azVJNmdJbXpiYm8wd0phUHZfcVNBWE1ySUwtSnJsVldzdGxoMXZTd09FR1pPV1EwV2N2YkROMVcxUENTRTNVd2NfQUdiM3JReWNhTTdDVjNMZ1diU0NxSEN2M1l1THVaNUo3emVBU0pSRHFZWE1JcHY1VkliTU9SRjB2VDdlTUJVSHZod1ZnZW1SeW53MWIyNDNDSWk5WW5IczBETFdjakhzdVNXNVdzNFFQTEtmQzNBek5wWmZjLWRxSmI2N09DZTJn?oc=5",
+   "published": "Thu, 29 Oct 2026 08:38:42 GMT",
+   "summary": "Fed votes in split decision to hold interest rates steady despite sticky inflation Yahoo Finance",
+   "source": "Google News"
+  },
+  {
+   "title": "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged - PBS",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDRabTk3MGZlX1gzSnlMWEhPLTczT3pUckE2Q3R4cUpHT0lfQnFKRHo1eWdiQ1FiVXBXQlV6RVhpSTROYUZoYlFzRVlxMWlGUFdZcW5jMXpKdlBiZHRJMzNSOGJMTUFMWVdDVS1sbkFNcy12TGlnVE5rclMyREY5SEl6dEEwVE1VdFMyX0V2VWtFLWVVQ05iUWJMT2M1blZPZkNOUi1xLVFCWi1WZGxsZFJhXzA?oc=5",
+   "published": "Wed, 28 Oct 2026 14:14:27 GMT",
+   "summary": "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged PBS",
+   "source": "Google News"
+  },
+  {
+   "title": "Hassett Sees Fed Acting If October Inflation Data Come in High - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2dPVXJlcnVlZlJ1Z2tpV3p1TEVDOVNBWTJtdlc4UkxwMEhVbmV0eWFlVWc1N2hNRGpKU1NibXJGSldoUk9kQlFWV29iN1N0c3dETWVhWEpLREFQd2J3RmtxOWZ0U3Z2STc2ZEh4bGx5Y0dfY3h1Nl9sc0xidU1aQnFvYWxpVmNrS2hkWTRmYlRudmJ3NGR5b21ReHUzTm9fLVVTaW9MRVlJRlpHanZXMUVzcw?oc=5",
+   "published": "Thu, 29 Oct 2026 15:18:01 GMT",
+   "summary": "Hassett Sees Fed Acting If October Inflation Data Come in High Bloomberg.com",
+   "source": "Google News"
   }
  ],
- "health": [],
+ "health": [
+  {
+   "title": "HHS Lets Pharmacies Compound Peptides as FDA Writes Official Rule - Drug Topics",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXp3OFlYVkZXN2NkV19RZ1llYlNPdUlwbTROVnVTb2FnQ3p0NnZ3UkRLcUI2SGhBYUZxdnVESlQ5Ulo3Sk8yZE1PRURHZ2NBWGtoZmR4ZUlENE0tQnRXMjY5dlZBdG1SdUtZNDRwZF92Yk9zeThRRXhnS2ZqN1NlYmJreFpqZGdBemVjS2NhcXVfbzRzWlIxWHV4UE5CUQ?oc=5",
+   "published": "Thu, 29 Oct 2026 16:06:37 GMT",
+   "summary": "HHS Lets Pharmacies Compound Peptides as FDA Writes Official Rule Drug Topics",
+   "source": "Google News"
+  },
+  {
+   "title": "FDA scientists opposed the Trump administration's effort to ease peptides access - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeE9QM25jU1p4ZWp5V1ZKXy1wdWVhc014TGE3MHQ2cXZfSl82elNyV1NkU3o5aXdYN25xbFMyN0ZZWDFyZDA0Z0hsd0FBY043b2NVSm5UWllQMW9zNVlFcTM4bldzbmpjZVdDOXZ6bXM5bUVEcWpuaHI1Z0FsLURteURuYkVRNEpuVmZWNTlnbDQtekNWWVA4S3JYQ2RlSEx2dl9tRGhzQ0E0MHd50gGyAUFVX3lxTE1sVzc3Rmw5YmtId2JxU1kwVUhBMG5rR2kybGYyQmxZRTk0QlhEUGZQM0FCTkJTdVhfUy1FdzJXRGJEWGo5STl3SUJnSjdITXkwdkNYWjlxVE82azlPZ2lBbk0zRDF1MzRVTlB0UGlKd3lFRGdxcDBoY1NRYnlyMzF1YjZVbUF6QlNUNldQM1hrSmluLW1TZFJmT2VCX3NBcjQ4ZThyQ0l3RWpncVQ0V3lSOXc?oc=5",
+   "published": "Wed, 28 Oct 2026 16:09:10 GMT",
+   "summary": "FDA scientists opposed the Trump administration's effort to ease peptides access ABC News - Breaking News, Latest News and Videos",
+   "source": "Google News"
+  },
+  {
+   "title": "Compounding Pharmacies for Weight-Loss Drugs Are Booming. Should You Trust Them? - Time Magazine",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWlHcm1DMnJybXI4NEVQc2k3RzhuY185QzVJNXpTRnZ3MXd6bk1ULW9LcmdWYWJld1ZkZnJoTzBfeE1qczhzaTN6MHpueGpvc1FuRUlmVVZqelV6N0JoUy1CUjU3UFZKeVVQYXlFQ3Ftd1lMNUtUMHZNNmUzRm1uQ1lGYw?oc=5",
+   "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "summary": "Compounding Pharmacies for Weight-Loss Drugs Are Booming. Should You Trust Them? Time Magazine",
+   "source": "Google News"
+  },
+  {
+   "title": "Will an FDA crackdown curb access to cheaper GLP-1 weight-loss drugs? Here's what to know. - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON1BQZmRnNW9DWE1LMXNpWHJVQkltNXB6aWlnQmRDYktUcUhidUJOSU8yZWVTNTEySFFSdTlidVNuak1BTThfZGp6Sk9oRkRvTFNhZTZDYktpdGZtT2JuYUk5VDFOOFRMYXFBMk9xTEZZX2ZZSXNiZ0p3UDNOMW5GNVNENl8?oc=5",
+   "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+   "summary": "Will an FDA crackdown curb access to cheaper GLP-1 weight-loss drugs? Here's what to know. CBS News",
+   "source": "Google News"
+  },
+  {
+   "title": "Peptide Regulation Debate Intensifies After FDA Advisory Panel's Controversial Vote - The American Journal of Managed Care",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQam45bUNva2QtOEx5ODFEdnVQcEhGX2UzcFRTSHNLbTA4N3FqM3RCbFZKbTNJQWtQbVc3cFhrbVh2RFYtenZfWWFFOGU1eFpoMDFHblg2N0hZMWtyczQ3dGg4SnhrOFVaSkZyUExmTGNqY1ZlYzJJRmZFOFBtX2xhajROcWdvWG54QkM5NUNVUmRtVlNiMVBSZHExSUdoa3A3S1ZxQVlsS2o2Sk5TT1E?oc=5",
+   "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "summary": "Peptide Regulation Debate Intensifies After FDA Advisory Panel's Controversial Vote The American Journal of Managed Care",
+   "source": "Google News"
+  },
+  {
+   "title": "Peptide Therapies Are Everywhere. What Are They Exactly? - Right as Rain by UW Medicine",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVR0QzNIaWFraXB4SjRJR1dtc2lkTjNXLXFac2Z2STVjMkl6ZDU1RXZOOHMzbjNNeUo5Z1NsOUx6UkIyR0FoYUhVMkhmZm5vdnFISnNTZ0x1SnlnTXlldERJWlh3X0tqbmgwN3Y4aGVCd0xyeEVKSi01QnF1UzQ3aUY2c1dZSU0?oc=5",
+   "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "summary": "Peptide Therapies Are Everywhere. What Are They Exactly? Right as Rain by UW Medicine",
+   "source": "Google News"
+  },
+  {
+   "title": "Peptides: Doctors explain the benefits, risks and FDA concerns - UCHealth",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
+   "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "summary": "Peptides: Doctors explain the benefits, risks and FDA concerns UCHealth",
+   "source": "Google News"
+  },
+  {
+   "title": "FDA panel supports broadening access to peptides popular on the gray market - NPR",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TYUlnSHFNNG9GYVNEUTV3NzRKZ0prbFZRa21CRWpvZmhTUzl4OFk3YTFPUnhRcTF0LVhVeXpESkV4M1FlZm0xR0djci0tNllNT3ZQWV9kc0s1RDRodjFETW5ydnFuaTZ1RTZacEdqZk9qanBKSDRUUmRB?oc=5",
+   "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "summary": "FDA panel supports broadening access to peptides popular on the gray market NPR",
+   "source": "Google News"
+  },
+  {
+   "title": "Telehealth and Automation Are Reshaping Compounding - Specialty Pharmacy Continuum",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3VrMnhneE54UVVOS09ZZTFKdG9kcFlNR2U3NjlGOFV1QVNBT2xCcUV1d1dWZ0tnRVl0VWpUYkM0STJFLWk4ZEd4N2N0enZoQmtScUZaWUFSdTZMWVB1dHhmbGhBVmxOVHkwT2xGdlJDRGQxSlpObGlzUnI3TWRsZnI2WUhkSi0wOUl6cFc5ZVVGQ2dyVHA5NHExNUdvUGNGS3BwdUw3MXJOTVlPSUVYWmI2WkM4WkR5Y0d6QmlmdTB3WEFoN0lDTEZnMmZ0OU5DNklJRWFQdmozb3Bq?oc=5",
+   "published": "Tue, 27 Oct 2026 04:15:56 GMT",
+   "summary": "Telehealth and Automation Are Reshaping Compounding Specialty Pharmacy Continuum",
+   "source": "Google News"
+  },
+  {
+   "title": "Telehealth Booms as Demand for GLP-1s Surges and Questions Mount About Safety, Oversight - KFF Health News",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXVRSHN2UVJYY3lkWWVQZDNYZEV4aC1JNi1Rd013YW1HeEZfVy04VFppNEEyNnRoYmFWbjlJQXgzUEtBdUY0bEtYTjB6dFZ6VmdKWmdibUdBVVg1akVBTWdCaUhIN0gtU3I4dVpXNGU5R3hvN2dsZHUzbllwRkxydFdUWlhCUlVvRjBOZTZBTkVyNUtNLTZHNlFtQklpTy1FdmhORGRDX0c3alRqWlNtNEJBbnlnOGFoZ3hPdA?oc=5",
+   "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "summary": "Telehealth Booms as Demand for GLP-1s Surges and Questions Mount About Safety, Oversight KFF Health News",
+   "source": "Google News"
+  },
+  {
+   "title": "Telehealth companies keep exposing their customers' medical data. What should they do? - ABC7 Los Angeles",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnNfcGpmUWRZWWFnUzdNVlQ2VndTbkk3czZkakttX003cFduY2FEQ1BDcDhEbjlqUHdqQWtucTRnWHdLTExyOFVjaXVaYllSdXFhSWI5NnltSTVjNVZneDV1U01oWGxJY0pQUDE0RmI1ZXFrcW5leFBHaDhvajg1VlZTOGJDaDhUNFhDejBCenNsX211NXRvNDdhakszNUhYZ0NFSUZ4SDc?oc=5",
+   "published": "Sat, 19 Sep 2026 07:00:00 GMT",
+   "summary": "Telehealth companies keep exposing their customers' medical data. What should they do? ABC7 Los Angeles",
+   "source": "Google News"
+  }
+ ],
  "buzz": [],
- "updated": "2026-10-29T20:53:48.042896+00:00"
+ "updated": "2026-10-30T01:18:15.482848+00:00"
 }
