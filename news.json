@@ -2,13 +2,6 @@
  "tickers": {
   "PLTR": [
    {
-    "title": "PLTR's Rule of 40 Hits 158%: Can This Momentum Continue? - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXUwbTdQUHlCbXlPcGJuZ1RTYklHSFZ6bTJLWjN6S1JPNmJWakd6TVo1T1lPbVloeTBiby1iUjZjVUhtbmFKeVlPWXVjVXNCVzlOUmZNR05kZzZnY2dlZGdvTzB6anRJSW9pblBEaE93NVRwOTQ3V2l0dU1lRk5YSWFtWVFUYS1GdjNoa2UxQ20?oc=5",
-    "published": "Fri, 13 Nov 2026 17:40:00 GMT",
-    "summary": "PLTR's Rule of 40 Hits 158%: Can This Momentum Continue? Yahoo Finance",
-    "source": "Google News"
-   },
-   {
     "title": "Is Palantir Stock Really Expensive? - Trefis",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQblFPa2tPS3pUeW5tMWRBa0FXZ0Z0ZW9GemJ0dXZYU3g0ZV9mcXdRV1BRV1puS3NNTkw0MHF5TnNhcl96akI1Tk80VkREWjJ3QV8yUTVIOV9EX2tXMUt4blRpM3pMd2hKOWtZX2tMeTk4Q0lVRlFFakhDTVZzQ0gtek8wT0JFTGcxUW81Yk9mWkxtdzRFbkowOXRSSQ?oc=5",
     "published": "Fri, 13 Nov 2026 11:26:10 GMT",
@@ -16,17 +9,24 @@
     "source": "Google News"
    },
    {
+    "title": "Palantir: Exceptional Business, Unjustifiable Price (NASDAQ:PLTR) - Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2NEb2JOMmdTTzBDbTVqdnNSOThEemdlNTFEa0UxRF9LMmMzb1N2c0pCOVg3bmZNUFRhMHpXbXdFb1R5c3NfR2tCX1gyR2I4aEd6SFVVRTRpdHR1eG9tSGlUZ1A5QmZJaDlSQ2ktV2M0ZEl2NERWRWxjTU5tMEVNWHRBQ1JWb1l3MW1XUXVNWF84WmFN?oc=5",
+    "published": "Fri, 13 Nov 2026 22:29:15 GMT",
+    "summary": "Palantir: Exceptional Business, Unjustifiable Price (NASDAQ:PLTR) Seeking Alpha",
+    "source": "Google News"
+   },
+   {
+    "title": "Can Palantir Technologies (PLTR) Still Match Its Price With Cash Flow? - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnc5WjZ2VXdCVkVqUHl3bUpJTmVXQ0s0RENHVF8za01jRXBfVlpfckxGcHlNRUR4eVZQODJEQnZNcWFJX0ZzX0I2dkFRYlhTaU1HckxiV3RYTUNBYmRHU092YUpHYUJKUFVnUnZGX05JbVhvbUxiU1RoblNJUG85eHR5a0dCbkpTNXAwSWVGVEtVUWhsajR0Y1J1T1BoTkdISi0wWlZB?oc=5",
+    "published": "Wed, 11 Nov 2026 06:13:06 GMT",
+    "summary": "Can Palantir Technologies (PLTR) Still Match Its Price With Cash Flow? Yahoo Finance",
+    "source": "Google News"
+   },
+   {
     "title": "Why Palantir Technologies (PLTR) Stock Is Down Today - Quiver Quantitative",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNC1uYWJZS3NqSUd3VXJUVUYxT1BaN3Y4Y213RzF2XzVrQm9iX2xITVl3UlNSU0l0NDRDS0llOGZSOVd1Qk5uenZLRm9iOFRrdTB0bXVHVzRicHBCRVNlTnlWVlNLWWpXNDJGYVhKc092ZldidlhfbDN1c2Vvc0RtSFZTdzBlMXlkZngtN09OSU1HaTg?oc=5",
     "published": "Fri, 13 Nov 2026 15:34:00 GMT",
     "summary": "Why Palantir Technologies (PLTR) Stock Is Down Today Quiver Quantitative",
-    "source": "Google News"
-   },
-   {
-    "title": "Palantir: High-Quality Growth Should Never Be Cheap (NASDAQ:PLTR) - Seeking Alpha",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOXZnU0ljc2lrcV9VdDhLNTAtQ2IwTkN0b1JtZGhhaGJobVBIMk1vNWpLMEFGU0dLOFJXdjdsckJSNUlPTEdpSXNBLTNJU1JGbWhHUllTMHp5UTFGaktfNTJhOWdxc1A5Q3g4T1B5cUVXbjk5SnpiTFRyYzN3ZlZZbFc3YlFYUGk5anduc1FRaUlTMmg2T1E?oc=5",
-    "published": "Fri, 13 Nov 2026 16:30:00 GMT",
-    "summary": "Palantir: High-Quality Growth Should Never Be Cheap (NASDAQ:PLTR) Seeking Alpha",
     "source": "Google News"
    }
   ],
@@ -53,44 +53,51 @@
     "source": "Google News"
    },
    {
-    "title": "Ge Vernova Inc Stock (GEV) Moved Down by 3.14% on Nov 13: Facts Behind the Movement - TradingKey",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYXlVQVRjX09FVDBwSjNyd2xiN0p1OENLaFc0eDRUYXczZXllT1NzYXg1YnQ3TVF4SVpsTXhqWnFjZ1gtTUZJWEhxWEROY0cxeWZUNDUwVFgzaFQ3WmpwZUoyOHlmZHg0UDJ2WXVJS2JGWlo0VFFzMXVDMk1NaURIRGJaQldKMHFKM2c?oc=5",
-    "published": "Fri, 13 Nov 2026 18:15:22 GMT",
-    "summary": "Ge Vernova Inc Stock (GEV) Moved Down by 3.14% on Nov 13: Facts Behind the Movement TradingKey",
+    "title": "Ge Vernova Inc Stock (GEV) Opened Down by 7.06% on Nov 10: Key Drivers Unveiled - TradingKey",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUTlMUG9fMWhINFlmSTJlaTBuV3J6cEY1QlRzZjZNLUo4a0hiMHNtbUNhOFdnaEJycTIxVjhacFJuUXhWNmYyMU1pRE1BVzNmTmh5ZjNFenhSemRQVmE1X2hGQmlQdHJzdFlPME0zSDY3YWR5NDc3TWdIanJ3ajRXbkpkbmp0b2FYN0E?oc=5",
+    "published": "Tue, 10 Nov 2026 14:47:20 GMT",
+    "summary": "Ge Vernova Inc Stock (GEV) Opened Down by 7.06% on Nov 10: Key Drivers Unveiled TradingKey",
     "source": "Google News"
    }
   ],
   "CBRS": [
    {
-    "title": "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal - CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTDJyVUx6MkpJbEpzUUFYQlRacC1pMmRiYUt0ZTNMQ3k1Y2xXTUowQ3lHaVE2XzlkbVhRa25DSHRYdXlpQXA3NWlWU3lHRS10WVAyU2hkYWx2eWxOM01sM2s1blhQWmNBV2Q3VGZPaTZ3T0FHWURtdS1vM2ExNEJGYUJaX1VoMTkyeUHSAY8BQVVfeXFMT2tTZnh4UXd6a0dCTGVYcGxzODNjZktGT1Y5aUxoV0hnQ2lkZTFKVHBzeE1GNEx6ZHRvU210cUtjekJLS1lIQUdNTmVsclBJT3dBUmlIdk50T24tRHR2OXMwS0VDRFFic0N1dkhWQ0EzN0JlNW41eDRGWGpEd3cwZ2M2YngtVzZnSDNETF9ELWs?oc=5",
-    "published": "Thu, 12 Nov 2026 21:07:22 GMT",
-    "summary": "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal CNBC",
-    "source": "Google News"
-   },
-   {
     "title": "Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa0t6YmVuQTBsSDJtRWFQQmZmc1IydkZ2UWtUUF9PRmpkWVpSanM5alQ5bzB2RXBxMl9XWjVQbXpBbndYZjZWQVktWmlXSno1R241WlpVem5zMzRGVlVfaU9kMlhfSWxkYWFwWHNPSFFSS2R0bGE4MGtfOE80TllMRUVpdUtoOWJWUExCRWJoSm44YTFHSGt3WmNRSWpqeEduRDVJNjR4X2FqbzZtYmRYU2RkWXJpaVFSSlQxN0gxa1RGdmtmRXMyNWRmX1kzM3RLblpfSTRKM0llZFdRZlI5MV9aaVpBUFE?oc=5",
     "published": "Fri, 13 Nov 2026 15:03:07 GMT",
-    "summary": "Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals Yahoo Finance",
+    "summary": "Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals Yahoo FinanceCerebras pops after beating on quarterly revenue and announcing Microsoft deal CNBCStocks to watch on Thursday after hours: CSCO, NMAX, CBRS (CSCO:NASDAQ) Seeking AlphaCerebras ",
     "source": "Google News"
    },
    {
-    "title": "Stocks to watch on Thursday after hours: CSCO, NMAX, CBRS (CSCO:NASDAQ) - Seeking Alpha",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGt6T3NhUVk1d1J0aldENHItZ3luc21tRkF4LTZBQkxzUjd0VlppdUF1V0diNXp6UzBLV1NidzcyaV9DZjByN2R1WmZ6aE9zMUhmZXRrUkQ4cjdaTFBKWkxrX3U3YS1nbTJXSEtRdTExTDZ1dFA3aUhEeDFyaHdBb1RuRUhtWXI4dTdIUTNGSEFOcG4zU3E0?oc=5",
-    "published": "Thu, 12 Nov 2026 21:41:49 GMT",
-    "summary": "Stocks to watch on Thursday after hours: CSCO, NMAX, CBRS (CSCO:NASDAQ) Seeking Alpha",
+    "title": "Cerebras (CBRS) Stock: $97.75 Close, Up 13-17% After Hours on Q3 Beat and Raised Guidance, Bull $125, Bear $98 - FinanceFeeds",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDJhbFlBbFlSUUpabGJOVm1lY0M3V2VTN3NsS3Bhd3JIVjM5a3F1b3ZoX25JRTFzY1A2ZDQ5TE9hWUhhQ0F2QzVieWhRVVNVSXYxNlNlbzNJVXlPSHJpNTl5ZGJsSGpJN2RlcjFCOXhMeFY1MkdpajlDd0dLdHQwTTZFQzltbG9UM0Y3bzhZNXAxMkI3TmVYV2RsblEzRURyUHJZXy16VDA?oc=5",
+    "published": "Wed, 11 Nov 2026 13:15:53 GMT",
+    "summary": "Cerebras (CBRS) Stock: $97.75 Close, Up 13-17% After Hours on Q3 Beat and Raised Guidance, Bull $125, Bear $98 FinanceFeeds",
     "source": "Google News"
    },
    {
-    "title": "Cerebras Stock Jumps 19.39% Premarket - Cerebras Systems (NASDAQ:CBRS) - Benzinga",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDhSTkFoU1lOYk5oaThqQjZMVFdtZHlQTFYwUE81cXpCcTZfa1hNdGRuNmJwai0xV3Y3b1Z4ZWt6c3pld1lqVUttWTRYclZuVGdJbkpzcllTbHROUGh3WXBQWlR0YnpIa0dwbTZFbHlmTTVraDNYRVJJaXRhRWpTNVc0bGxxMjJqSDBnaVdreW53MTVuaThRQUhUYkZ6RFlGYkFKem1TSURpdFhMbTYxMWVFamg?oc=5",
+    "title": "Cerebras Systems (CBRS) Stock Jumps As Q3 Results Revive Valuation Debate - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFE0LVJUano2b1gza19BZnZEQmtGMndnSFBfNEFKcXpoSjdQQTFmMFJxWGJ6Y0xUVWt6ejdnVXpGNGNIbE42YlhNdVNEZ3RLdnQ1VlloOF94a0VYX3VYSXF6WnVzOGhNT3ljWFZQZ0ZGSld1RHlVUkxjQzZTMUVHV3E1X3d0Z2swTjUzQ2xuN1V1eF8yVS1uUllOWW1zajg?oc=5",
+    "published": "Fri, 13 Nov 2026 23:11:57 GMT",
+    "summary": "Cerebras Systems (CBRS) Stock Jumps As Q3 Results Revive Valuation Debate Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "Cerebras (CBRS) Stock Is Trending Pre-Market: Here's Why - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLURQSVA2VDl5NEI1X1hrc2NkSG1xOGZWaTBrV1BBREw5YTd6MDhTWGJSNWFSVEpTa1piWW16MkZyXzVmaGxtT2dKNWJ5Y0VDX0l0R2hMc3FTWllWY3JwSkx5NXZ4TGRDZlphYkxzTk5KRGtBZ2dyeDRpa2g0Y2RLNU5ZeUlSdVgySVh6OVNXTlpTcXBQMGRSZ3BzcDVMbVRITlJ5MHowUW4tSmFCVktvWHpn?oc=5",
     "published": "Fri, 13 Nov 2026 09:14:43 GMT",
-    "summary": "Cerebras Stock Jumps 19.39% Premarket - Cerebras Systems (NASDAQ:CBRS) Benzinga",
+    "summary": "Cerebras (CBRS) Stock Is Trending Pre-Market: Here's Why TradingView",
     "source": "Google News"
    }
   ],
   "LLY": [
+   {
+    "title": "What Is The Market Seeing In Eli Lilly Stock? - Trefis",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnh6MzczWHN4OGhTbzdUTkVKWndDdGZ5UjFoQldaNWQ3dllKZGVpY28tM3NOcVRGdnB2cElnbnlNcGhDbGt2VTVLYk9GbnNJXzBpa0R3VkFlTWdNN2hqbHJMMW9rcG1MdmpTZ3g0a3Vsci1mVkJJLXo0eEQ0aGdGU1BqRmJma3Q5dXJPSEF6djdTOWVxelpieE12LS1TaU9CeGxScjNLUQ?oc=5",
+    "published": "Sat, 14 Nov 2026 00:32:28 GMT",
+    "summary": "What Is The Market Seeing In Eli Lilly Stock? Trefis",
+    "source": "Google News"
+   },
    {
     "title": "Here’s How Much You Would Have Made Owning Eli Lilly Stock In The Last 5 Years - Benzinga",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa0MwdWVIZGRwc3E1bS1EQlJrYkVremprQV9XbkFha0J0TGszVXF4bTl6VVplZ045T2xseGlpWFZuc19uMlU3VFRjMkZGR1dZQVdPclZKR2xQaDluR1ZaXzZMa1JxR2R6QXFEdWNRQlc5RmQtT25kM21LX2hPWGdkTGhrdTNzX1pXNUg5MXg5SEhjbkNablU3OXZaamVZS2M3QmdBNzM1MVlNb3I2a0xOQ0Nybnc5eUk?oc=5",
@@ -106,33 +113,26 @@
     "source": "Google News"
    },
    {
-    "title": "Is Eli Lilly Stock Ready If Factory Bills Outrun Its Cash? - Trefis",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEdMcnFMaGtMZS1IT1c1LWlqaTRUWnNmOHpmUGxvZHg1WVR5MzkyaVVHWFBnS09kZWxsdTJ1a1cyQlNRMDMycXdyUy1jLXFEVDMtRkNtRzFIZGtrZ2k4bG9HN1RBQkxfajhKaDBVZlpRQVNnZHRiQW1IR291UzJRbnJ6ekRtWVZuTFBpcG9IbFJYNzRyNk5uVFI4eV9wZDVBTlNYRnBZUGtEVVpQNHhMOEc3Qzk1dVZG?oc=5",
-    "published": "Thu, 12 Nov 2026 15:13:52 GMT",
-    "summary": "Is Eli Lilly Stock Ready If Factory Bills Outrun Its Cash? Trefis",
-    "source": "Google News"
-   },
-   {
-    "title": "Eli Lilly (LLY) Stock Looks Reasonable After Its Very Large Five Year Run - Simply Wall St",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2xjUGpQYlJ5dFg3cE9vemZmZXFKUFctWjFMd1labllDVnhtNzFSSWRtYjVrY29mQldqRDZ1N1ZjWVZpRDc4YndCejM2aDJ4V3Bsc2I4NGdkVENlT3pQb0hKa2R4T1hIUE5lOEQzSlJBanNnZjhGcGotSnZUTkMzdExIYlhremJ2X3dkMndqMU9lXzUtWWgtOWhHOGdQTW5URFh5b0Q0VTJyNEpPb2lZcFZJMkQwZ1Y3VzhpODF0aTFCZ3h2Y1RCX1pmV1k1TkJxTlNVVzdkZ9IB3AFBVV95cUxNbml6S0liUWpIdEd3cDRITDlSY2FMUGk5dkR4dndrXzVjUmwtY3BkZEROTHVBNGtJWEVDY2wwRUVYNXBoODg0dENOdVBfWW5VZ1NzWms0NC1rdzFvZ0hNOEIwYy00TU02eElRYUp6MFpQTjdNRTQzUlNrMDRPVzY5OEFvc21PS1oxTDB0c1VhTUtPVEhfMGNXT3ZMZkk3eW0tNEMwQ0ZhR055LUZxbS1xWGo5ZFlKUF9xRTZSb3NWMk1VMTgwNDhsTlpRc2ZkcjN0ZW9RbTluNEp0M19q?oc=5",
-    "published": "Thu, 12 Nov 2026 01:33:55 GMT",
-    "summary": "Eli Lilly (LLY) Stock Looks Reasonable After Its Very Large Five Year Run Simply Wall St",
+    "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NdFQ3UUxsNVQtQmtLandjang0Nk5QZ2xEb3B1TU11X2dYVUdVSUFNaTdLOGhCR3VTUVdlT19WY0VkVE1FMm9uUzhIckpsT1BmM1RVbUw1ZWJZVTJ3MVdxREZlVVlPRXZjTjMzTXoxWXhMaVpEQUHSAXtBVV95cUxOOU9NT0xZb0dQZ3g4a19zaThfLWltR1N6OFJzQjVxOXVNeDRZWnhNQnRqWHMybTZDODQ1b3pPVXRRT18zYVZBUHBiN3dUN1RYQXoyQ3AtWkZkXzRWSWl1NVppWFR0YndnNF9sNXJxdzlHdVVlLWlfclBJRkU?oc=5",
+    "published": "Thu, 29 Oct 2026 07:00:00 GMT",
+    "summary": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion CNBC",
     "source": "Google News"
    }
   ],
   "XE": [
    {
-    "title": "symbol__ Stock Quote Price and Forecast - CNN",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vZGY2NTB3Q0xQMGplc2xXNWF3cDhhajdVdGtRU1BSZWN1RWNaMVM5M1lCLUR5TWZiVUxfSW9CMWNNdnhOSkhweXJUZThRUQ?oc=5",
-    "published": "Fri, 13 Nov 2026 09:36:49 GMT",
-    "summary": "symbol__ Stock Quote Price and Forecast CNN",
-    "source": "Google News"
-   },
-   {
     "title": "X-Energy (XE) Stock Forum and Discussion - Moomoo",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZenZmQ3JjMG5UNDdJbkxMRUw0czR4aWhHVW1SdkV2ZFd0aFNPZUxzU1pTbnZDakhBTXU2azI0cC1wTzdnaENsRHFnT2JyUklRcG9EWmJZYw?oc=5",
     "published": "Wed, 11 Nov 2026 05:28:39 GMT",
     "summary": "X-Energy (XE) Stock Forum and Discussion Moomoo",
+    "source": "Google News"
+   },
+   {
+    "title": "X-Energy (Nasdaq:XE) - Stock Analysis - Simply Wall St",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1c3pHNG9SVVhYSGNWM2pjWVYxdDltSHR6blBpb3Qta25SampYekN3bHRxWHZacEJsdzBhNGlvLUtlM09nUDM5T251MDJaRGQ1UWpRSEtDcWxiSXVoRnJ5TGhIM1UyMm9BUXBIcE5yMEVtUQ?oc=5",
+    "published": "Fri, 13 Nov 2026 19:54:01 GMT",
+    "summary": "X-Energy (Nasdaq:XE) - Stock Analysis Simply Wall St",
     "source": "Google News"
    },
    {
@@ -152,13 +152,6 @@
   ],
   "HIVE": [
    {
-    "title": "HIVE Digital Technologies Ltd. (HIVE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XTU9ic0haZkhtamFHNjR3Z3puNmNNQTN5ajJoQnFwbnd0eUUtWmVmWXp2eUhDeWFXVjlKbUpfWUJOMkdKUW43QnByVnpUbUJ1dlE?oc=5",
-    "published": "Wed, 11 Nov 2026 15:23:39 GMT",
-    "summary": "HIVE Digital Technologies Ltd. (HIVE) Stock Price, News, Quote & History Yahoo! Finance Canada",
-    "source": "Google News"
-   },
-   {
     "title": "symbol__ Stock Quote Price and Forecast - CNN",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wS3AyaThqaktwVzJITWN1Y3FHcG05aWRKRFYweUY3R0Q0bzA1WEFyX1N6U1NYZFdzSm9DSTZNUDlBd1hVYTVjUGp1ODJ3dl80?oc=5",
     "published": "Thu, 12 Nov 2026 20:25:15 GMT",
@@ -166,10 +159,10 @@
     "source": "Google News"
    },
    {
-    "title": "Why is HIVE Digital stock sliding today? - Investing.com",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWtCaXpJMHBvbnFQS3Zsc3dHWWNHQ1VFeFJiTHJrWW9LTjhQS2YwdDFPcWZhUEhTYUJDdGNuR0pXWUoxRVRGN3ZSamZTS056VmNEcm5oZ0w1SWwzZ2x4MHJEMmhKVjlZZ05OYUwyM2dSQjhoWFRwQ2hLTUNPbUFoN1Z1U3ZVZ2xXN1JmRWlkZExOVFBaQ2o4cHotU3o3TzZwYmUw?oc=5",
-    "published": "Fri, 13 Nov 2026 02:13:48 GMT",
-    "summary": "Why is HIVE Digital stock sliding today? Investing.com",
+    "title": "Why is HIVE Digital Technologies stock climbing today? - Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDdOOGs4clRPcVRrbjVyRjB3ZGhINmprNGI3VDVKS3EwMXAzdkNMeFFDMndOanRyQms5djhaNGE4RGVjQWZURDlFcGZrNHIyV29QYi1GcFhWNzFraTVDM25lbl9uVHVKUWI2Q2JDdUxxV3dtc2tETGZHa3QyeVlObWFic1VFSlNXWTc2a1lmVE5mWm01dElzbFlvS1pfd2VpZjU2SHdEN3FvcGU5R1lERy1nQTRFQQ?oc=5",
+    "published": "Wed, 11 Nov 2026 15:27:13 GMT",
+    "summary": "Why is HIVE Digital Technologies stock climbing today? Investing.com",
     "source": "Google News"
    },
    {
@@ -178,65 +171,72 @@
     "published": "Tue, 10 Nov 2026 01:05:00 GMT",
     "summary": "HIVE Digital Technologies (HIVE) Reports Q2 Loss, Tops Revenue Estimates Yahoo Finance",
     "source": "Google News"
+   },
+   {
+    "title": "Stock grants convert one-for-one into shares for HIVE Digital (HIVE) director Susan B. McGee. - Stock Titan",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUVFcjhyemZJRHZsRDBfTnFuOGx0ZFJzQklWem1UbGlrN3RnNVlpMmZmR1RCZV9aSUNQZTBGbmxKWVluV0NLNVVwblN4U3QxLUwtbnAtY1RycklmMVpTRjJvV01OVFRvQWM3bHFsazk5OXE5ZzhuNk9rUGVMWWhGV2Z0Vl9xc0hkVjBzemNIS3VVSjNRSnIydGRkWHB5Zm5qTDk3alduRkpOVDBtZC04NndQRmlVUU5BV1pEOWpRSnU?oc=5",
+    "published": "Fri, 13 Nov 2026 17:27:37 GMT",
+    "summary": "Stock grants convert one-for-one into shares for HIVE Digital (HIVE) director Susan B. McGee. Stock Titan",
+    "source": "Google News"
    }
   ],
   "NVDA": [
    {
-    "title": "HSBC downgrades Nvidia, says stock to struggle until new CEO named - CNBC",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMEhJbkJpN0piTGdPZkpoZnJxc0FpU0lqSHVNRHBhekhJSGdYejRhVUc2MzBxV191dEd0MEJVem1NdkNHRXBJcWZnXy00enNhbGNmRjBiVjhvdk9TUnJDbnRFYVc0Z0UtRm4zd1ZQZmIzYTFXZFBVU2Z1SVd5OC1pck14R2x6Yi1TSll6NHQ2bS0zSENPbDNSU2VzYlNlU2hOQjR4Sg?oc=5",
-    "published": "Fri, 13 Nov 2026 15:50:38 GMT",
-    "summary": "HSBC downgrades Nvidia, says stock to struggle until new CEO named CNBC",
+    "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal broke — and no trading plan was flagged - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTktc1RQNWQxUnRyQXVkcVRpYUtRSUV6Y2dXX0lpYmduS2Q5NHBLXzc1Q2trUktLdi1RMGs4ekJycno1Q0pSTWpna29rV1p2LWNkVkhDQ2RuNmNHaGxHdkZTSEh2czQtS1RfVnFCb29DNU04a2ZjYnZXQ05nZlI3MThaQVZUTlFEMmliVmJ3R1FycnBtRFV6UndwNA?oc=5",
+    "published": "Fri, 13 Nov 2026 16:00:00 GMT",
+    "summary": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal broke — and no trading plan was flagged Yahoo Finance",
     "source": "Google News"
    },
    {
     "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next? - MarketWatch",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUZkTG9OV01qMG84Q2Y4MzJvYlhDUmFXWkliQjcxNTA2enVqazJLWTlmUmdWNmt4bkVnWlRmUVlfb2ZHaDU0SXlLdnJnaDdzajlLWlhRNTdncGdkVnRkVW9lb2hsbGVwUFB6ZmQtRUVQNExpVmYybDFPZGdfaTk0NDJHZ19kNVd3bkVoWjBCdmpYLWtKUFlhQ0VHcVlzUFFGWjdia1NZRU5WMEJPdXdDbVhENDNZQQ?oc=5",
-    "published": "Fri, 13 Nov 2026 16:26:00 GMT",
+    "published": "Fri, 13 Nov 2026 22:21:00 GMT",
     "summary": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next? MarketWatch",
     "source": "Google News"
    },
    {
-    "title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNElWbE1lOVJadXoxSXhxYy04M3B4ZG9PeWhIaW1lZE9maF91M3N1OXd6eFhSSDJZcVlkMm5oZFdoeDJiaVRqYnJBRVkzczJ0TG1kSjFVT0Y1dG5iV1JMS0NPTW9oeVNlYXZZS0haUThFQVNlcnhJbTlMTjAtZ1pQaFc5WDNhd1VDTFVqY1dDOF9NYlRhTE9xamFUdkpBVVo2MlIyOXJsYVdRYVNDV0RCTDRBS2dKRFc1YkR1Tnczc0VSbGNUX21pRTFsWUpDR0dNMmpLT2V4UmtheUs0WWs2YXRB?oc=5",
-    "published": "Fri, 13 Nov 2026 20:45:22 GMT",
-    "summary": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster Yahoo Finance",
+    "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMS14RTRiS3dmNkJYanF4ay0yMkFYWmlEdHBDTjZlUjBDWWlHMTYxa3VkbDRFTld6eHJBdF9UczMwQVVkN1JqVW8xdXRpNTZ5X2VYZEdObFBBVlFLdXIwdjdHcFYzZTNOelNFVi14RnNyTXp0ck9OQzJfQldSSTRFTVBVNDVJWUJjemVxUFZGeFlPcC1ha3A5YjV6d9IBoAFBVV95cUxQM3VxeV9ud0xRcW1EWkJnVEFWanVOc1FuNE5EcXdKMzNVWmM3akJoM01XejdvbTRJWmtIbHF3VEtaUzlzdFZDT0dFUzhvZlVEUTRWVEpWay15b1F6ZE8wc1VwemNHUENlNmZ2VUl4cTRxTjJzbWt1V0ljUTdXR1hnT083UnhjZWdNcUozVzduRWRsNWlNcm5pcm5CaURNNFpm?oc=5",
+    "published": "Fri, 13 Nov 2026 18:32:47 GMT",
+    "summary": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker CNBC",
     "source": "Google News"
    },
    {
-    "title": "Deepwater’s Gene Munster: Nvidia stock will likely outperform rest of AI trade in the next year - CNBC",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPckFLWEYxVFZZUzlKb1dERkNzZHVVblpRUW5kN29DZXRnT21VUWZUYmE0WDI0LXZNYVJUMmZJYzZMeV9PbDk2bXp3XzkxdWczSU5zRjE1Z3RleWhpQktUdXplWnNVd3BvUHZsN0UtbGdxMlI4YjN1alBIa3BXelF2Nk45X0lyZlJQQk41Wk5aVHVtSG0xaEZwZlAzcE5CN2hDTUlQOTJUVGpFcVhyWTBMbVpHYXdaNk1DVXpxZm1wRkFhOEhuVEJBMVNXMzA1VnVHeC0w?oc=5",
-    "published": "Fri, 13 Nov 2026 19:38:40 GMT",
-    "summary": "Deepwater’s Gene Munster: Nvidia stock will likely outperform rest of AI trade in the next year CNBC",
+    "title": "Nvidia Stock Is Still a Buy After CEO Jensen Huang’s Departure - Barron's",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTbHVXbEZWNnBkNlRaU1A5QWdvS3pNV1lWdF9yRkU2UVNpUUpLWlNEY0JhX1ZJLWYtMjFXZXlmeWgxV09DRUdRZ19HbEhrSlBVZ1ZzWVVVSkl3bFN2azlEM0VQMloydHY4MERiYTJzWU9qNlVGczlkcUhJRQ?oc=5",
+    "published": "Fri, 13 Nov 2026 13:29:00 GMT",
+    "summary": "Nvidia Stock Is Still a Buy After CEO Jensen Huang’s Departure Barron's",
     "source": "Google News"
    }
   ],
   "GOOGL": [
    {
-    "title": "Should You Buy Alphabet Stock Now That Google Will Let Customers Run Its AI Chips in Their Own Data Centers? - The Motley Fool",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbVNibFJDOERyT3YyOGk0aFZBeS1DX3RaZFV3SmFlbGlRcnQtUmhBakxZN25HUmhvaHJyeGJFUHpsVnlMd3JwYmVPTnBZbnhaVEJrQzQxZHY2R3dFamd4aUppT2M2bXltOF95d05oSGhxek95RTkzTkxmS1ZwTVdjWG4zX3NtRXRsRjFJZ0dXMmVKNHM4aUlfalhSaV9qazgxd2JZSmZFVl9OU1NubnlEVktReDZwLThiN3BFRXdzR21xNHdpMms1N0hsZ01ZZnd2T3NMeHgtcU9aSVNmS0dHWklGZ3Q?oc=5",
-    "published": "Fri, 13 Nov 2026 01:44:00 GMT",
-    "summary": "Should You Buy Alphabet Stock Now That Google Will Let Customers Run Its AI Chips in Their Own Data Centers? The Motley Fool",
-    "source": "Google News"
-   },
-   {
-    "title": "What's Going On With Alphabet Stock Thursday? - Benzinga",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXy1WempBNjd2Z2M4WGNtbEtpbXpQWWNDVm1BdG1WS3psWW1QZm5pWDdtMmZJdXZiTl9qenllWHUzZ1lyTjBWNEsyWHpjMlprN0JDWks3dWQ0MGRXM0ZyRXVmREZ1SGRSU0IwUVdQQXdVYjRzX09vc1pPLXRJcEY5bWN2ZnhFWUt0X1d5a2p6d2RMRWViNngxUmNvaUZPU00?oc=5",
-    "published": "Thu, 12 Nov 2026 18:17:43 GMT",
-    "summary": "What's Going On With Alphabet Stock Thursday? Benzinga",
-    "source": "Google News"
-   },
-   {
-    "title": "How Low Can Alphabet Stock Go? - Trefis",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWpKUC0xMEFyM0pIMmVDVmN1SGQ0a3dDRng4XzFsOHVQM3paeVMwdkhibDMxdGNsS1Y4cTV1M3FvS2s5Y3RjV0pOTHBjajZIRzFQMFZDeDk0YjVMZzVFb0hicl9obTdQMzU4REUzQWlzWjFxclNjYWxTWGJUSFlvQjB1WXdQeE8wc3daTHByaWpaNU92RFE?oc=5",
-    "published": "Thu, 12 Nov 2026 15:58:12 GMT",
-    "summary": "How Low Can Alphabet Stock Go? Trefis",
-    "source": "Google News"
-   },
-   {
     "title": "Alphabet Inc. (GOOG) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmk0OU1mQjZsV3BhNTVCNmczZGcwdzFVV0NlYXUtYlgtbE9mSlk1eVpFVkY0aG1EbmZTbkVPVWV1VnMyN1JWVVhNYzBOQnIybTR3b3REQ0FxUllEcTd6RWlUVGVmTnpENW45MTlPa1F3LXp0aFF2RnA1NmlaX0VyU29CZ0w4LW9RTUI3VHFDMHV6bGZ3ZmR5RFFjcDNOdw?oc=5",
     "published": "Fri, 13 Nov 2026 13:00:04 GMT",
     "summary": "Alphabet Inc. (GOOG) Is a Trending Stock: Facts to Know Before Betting on It Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "Not Apple. Not Microsoft. This \"Magnificent Seven\" Stock Is My Top Tech Buy for 2027. - The Motley Fool",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWNhYlYtWnlJenk2Q183VXRuWTVsT3gtTm1nRndwcDNIVDlZRUxXT0J3dnZFRUV0LS13ZGJIT2k0WGptMk8yVWdvSFRabjY1OF8xMWRNZ1dPWTdsSzJEZ1U4YW13WEJkN1NwNjVETGZ2cnpvdlUyc0ExbEN3aGEtaFVGZEFtLWpVeTkwaGl1X1ZkdVVXYlE?oc=5",
+    "published": "Fri, 13 Nov 2026 14:05:00 GMT",
+    "summary": "Not Apple. Not Microsoft. This \"Magnificent Seven\" Stock Is My Top Tech Buy for 2027. The Motley Fool",
+    "source": "Google News"
+   },
+   {
+    "title": "GOOGL Stock: Why Nearby Support Is Critical For Alphabet - TalkMarkets - Howl.Link",
+    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1vUWVJR1ZoNmZJbjIycUxnV0RFWmZPM2syUkJQdGFKdGhNZDBsZVRSTGx4SE9NR2RIenBB?oc=5",
+    "published": "Fri, 13 Nov 2026 22:03:00 GMT",
+    "summary": "GOOGL Stock: Why Nearby Support Is Critical For Alphabet - TalkMarkets Howl.Link",
+    "source": "Google News"
+   },
+   {
+    "title": "Alphabet: Buy Under $300 - Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTN0ZFFuYnkxVXlPYXZLZDRONDYwMFhEbjRxWkdBdnVETmQyeWpwTEZ5b0hqSEs0ckJ1S1pTWDdYTTcyakpyWFhRcW05WWpVaUpPalUyU200Mm5NNHNWdUtFSzN4VzdTMGZ5NjBzUTlnVzFYSGFRS29PRXJOVTlueQ?oc=5",
+    "published": "Tue, 10 Nov 2026 05:04:07 GMT",
+    "summary": "Alphabet: Buy Under $300 Seeking Alpha",
     "source": "Google News"
    }
   ],
@@ -332,35 +332,49 @@
   ],
   "MU": [
    {
-    "title": "What Micron Stock Needs to Mount a Serious Rally - Barron's",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnJJSHFKRWJ0S3l2eGZvX1FCU00tM21KUzVnOEtNb0hwSkR5ck1hRkp6UkZ6eUxFblFRdGpQX0ZwUHZ0VXJHOUxMVXVtdThXYTdvR3hoOEZHcXZBQzFicW9pTE5JT29xdFZLdl9qUm1qZnZQc0V5Zl8yYUVEbFR0clhnRVkxUQ?oc=5",
-    "published": "Fri, 13 Nov 2026 17:49:00 GMT",
-    "summary": "What Micron Stock Needs to Mount a Serious Rally Barron's",
+    "title": "Prediction: This Will Be Micron's Stock Price by the End of 2027 - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdExhLTYyT2s0OGJycElyRmxOTE1sWjRVRUhRajhPMld4VGNzZlpvSHJzWi1GYTdSZDROdEJZUmJHNU9CaXl6aFY0dTdtZHgtd243Z0M3WnNEemdwWHZUX3d2YjVHZXpaSG95aExpaEV0Ri1henl5akpqRzVRUi1QWG9sVVJ0UFl1OTZndlhPWEczTUhYbEp1Q3MwWjNtWmVp?oc=5",
+    "published": "Thu, 12 Nov 2026 16:20:00 GMT",
+    "summary": "Prediction: This Will Be Micron's Stock Price by the End of 2027 Yahoo FinanceWhat Micron Stock Needs to Mount a Serious Rally Barron'sWhy Micron Stock Was Sliding Today The Motley Fool",
     "source": "Google News"
    },
    {
-    "title": "What Is Going on With Micron Stock on Friday? - Benzinga",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV21XaVk3OHBCQXdGdElzYmNzTUI1ek5pQzF2T1Z5SHRZTzd0MENiMEJBQV9ya0N1Wk91LURJTlRDa1lPZ1lvRklEOHY3QVFCU2tCM19aSENsMjRYalFsRnFxcnlZR3E5M0ZHZHVXdll2OWVRYzBtWkg5WnlDUkVHWXpkdDU1T2N2SXdFOWRDeFNndld3NS1vVEZYN2hrQQ?oc=5",
-    "published": "Fri, 13 Nov 2026 13:12:57 GMT",
-    "summary": "What Is Going on With Micron Stock on Friday? Benzinga",
+    "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027? - The Globe and Mail",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcmkxTFM3YkF4WUNwcHhkZXowSGhtSWgtSGdoTk9NcDFNLTI2Tnp6aG4zdFlScm5hek0td2hld0paSU04bHc5UU5lel82OG42ZWh6TXIxOThNZFFCaGFWazNYbzhUVXA4aXB3clQ3UEo5OGlta1dGUEJkZGJqdDBxdzY4RmZYa0ZvWE56LUhad2RfMzhYbEc0cVRTdWpEdFlESFVLQUFNaWU4aExrQzZkSElUOTdqc0JCUlhFcEo5dlFUZXg4ZzFlLTdBcTc0WUxxemFIR25wcktOalJPTDV5djlEcUVKWEREOFpIWVNyNA?oc=5",
+    "published": "Sat, 14 Nov 2026 01:37:41 GMT",
+    "summary": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027? The Globe and Mail",
     "source": "Google News"
    },
    {
-    "title": "What Bernstein Sees in Micron (MU) After the Memory Selloff - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdkNlU1SG9TdmdNNU9IQW1tZl9lLVBFR1QzNUdUQVl4TzVxY3NfY3VLQW1BWmhpWDNlTjlTUC1rUTlXbEFXYUdmS0dMWHJkOUR0NTR1RXc0X3pGb1VPY0FJSjc5ZU5XbFRTMEJQQXFHaFpPMHZ3a2t0Vmo5c2w1a0FDc2JXZ3RqZlVid1pELVJ3T09OVERoOUhJUnQ?oc=5",
-    "published": "Fri, 13 Nov 2026 21:30:06 GMT",
-    "summary": "What Bernstein Sees in Micron (MU) After the Memory Selloff Yahoo Finance",
+    "title": "Micron (MU) Stock: $798 Friday After the Nvidia CEO Exit, Bull $877, Bear $725 - FinanceFeeds",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGVDWUpmd003R1ROWFFiXzFEa185UlhJXzNKT0YwWlk5YnVKMEhrREtweDJUandxd1Q2M2s0QUFBV3V4UVRkT0V2dVlYa2F0clRWVVozbFVzX25uTzhNbXdlVzg0aHlwZ2ZRb1FGZ3h2Vi1CNEpTY2RSQjF0cERnZHVuXzBNanN4dnJtNDYwd0ZudldFNVVv?oc=5",
+    "published": "Wed, 11 Nov 2026 13:15:34 GMT",
+    "summary": "Micron (MU) Stock: $798 Friday After the Nvidia CEO Exit, Bull $877, Bear $725 FinanceFeeds",
     "source": "Google News"
    },
    {
-    "title": "Why Micron Stock Was Sliding Today - The Motley Fool",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWm51RHk0MnZpTDZrTWFTR0l5RDJyTVBFWFBEQTNoVHZmQUNxLS1lMTlyNzJKajJkd1RHOW1LRVBPaFR5djF1aUJEV0ZxamlhTTZOUUhBSXVEenMzRVN1S05qZ282V3ZYa0xIa0FJVE52c1NNN08xbEUxaFQ2VXZldkN5cw?oc=5",
-    "published": "Fri, 13 Nov 2026 16:58:00 GMT",
-    "summary": "Why Micron Stock Was Sliding Today The Motley Fool",
+    "title": "Micron vs. Sandisk: Both AI Stocks Look Dirt Cheap, but This Top Investor Says One Has More Staying Power - TipRanks",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3Uwbnc2RUVKSkVEaU9UbjlhTWNsSzRnb2hPNkJHaWpDVlRyVXZYRUt0S1R2cENXaGJXdXRYNVBpVUg1bExCaG50OGFUbDd4ODRaVGNSMTFYQ2NTbXF2STdjUUJMM0pBTXJLaFMtMHVzd2E4Ynh5U0xKSjFYejdBUHQyeVRZN21fc3NPbmd1WGJvckRkUFBuaVR3MExSeEczRFZ0cjBJaThsUUd6Nnc4UlI1RzEzdExncU5uRURaZHN3TUwyTTVET21pYjdzWjE0bzg4aWw2WQ?oc=5",
+    "published": "Fri, 13 Nov 2026 16:23:23 GMT",
+    "summary": "Micron vs. Sandisk: Both AI Stocks Look Dirt Cheap, but This Top Investor Says One Has More Staying Power TipRanks",
     "source": "Google News"
    }
   ],
   "AMZN": [
+   {
+    "title": "What's Wrong With Amazon.com (AMZN) Stock, and Is It a Buy in November? - The Motley Fool",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUx4anBZX18yWlJYR2QzZ2ZUNHhubUJLWHU0MkplNFRDb1RXMFB6d0VmcVhwSGszbWV1MWFLZURwa2RRZTNQYl8tMVRVa2ZiWXVDOVlfZ0dEZDFPdGEtODl5cTUtSE1JdnVyNWlFWkRNVHk2TXlDNjZWeHR5YzZ1d0xjMlZQVGlYcGdVSFNIdXJJTzQzU29v?oc=5",
+    "published": "Fri, 13 Nov 2026 12:37:00 GMT",
+    "summary": "What's Wrong With Amazon.com (AMZN) Stock, and Is It a Buy in November? The Motley Fool",
+    "source": "Google News"
+   },
+   {
+    "title": "How Investors May Respond To Amazon Stock As AWS Growth And Anthropic IPO Near - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEV0aVBLa1E1ZEdRTmFfX2pMUnRaM1NQTWtYQWdhU2YxM3QzcXR3VWt4LWtYWTMxM0xuc09KOGNVZl8tMjYwQ3B0Ukt6djlmR0FCZ2hjaTJodTk3RkI3MEZHWlVhczBpNG1Wd25mYXRFMHFXUGdNVGVkckdsUjhQRVhzRmZCU3VnT1k0SGhlVHNRcTJZSWZnS1MtZWJhM2pU?oc=5",
+    "published": "Fri, 13 Nov 2026 18:08:18 GMT",
+    "summary": "How Investors May Respond To Amazon Stock As AWS Growth And Anthropic IPO Near Yahoo Finance",
+    "source": "Google News"
+   },
    {
     "title": "Dear Amazon Stock Fans, Mark Your Calendars for November 19 - Barchart.com",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMnJtUndPUnpyWXp5MHlQSzF1Tm5reUZubHRqSk5GU3dOY2RQU3FqTUEyWmdOYjNMNjVYMC1neWdkOXRaWHpHZkRiUEJkcno3MDBWYVp2U0xKWXM2d0pMM2xPUnFkZXBzaVUyZHF3aklEWGdCLW9EcktqQU5tSHN0T3pKUThTNUZnakZ2TW11TzBMT0h5UHhFZ1Q2M2RVS2ZFRjdtTg?oc=5",
@@ -369,24 +383,10 @@
     "source": "Google News"
    },
    {
-    "title": "What's Wrong With Amazon.com (AMZN) Stock, and Is It a Buy in November? - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFl3MDR4U2RDeG1zaEdBOFNtN2dHYnVZYTNwdkIwVk1YaVVEaFFJR0dSM19kaUVzbU1PQVVRcHZIWEZLb0czYXZlUXJzOU1ybWtlTWRyR3ducktjeG5NS08xTXJTTkNfMjNrM2h6UHk3ekNvNWNwTHhrQzBwd1JLZjdKSzdrYWhQZXZPNjBFZGJhemlUMlE4?oc=5",
-    "published": "Fri, 13 Nov 2026 12:57:00 GMT",
-    "summary": "What's Wrong With Amazon.com (AMZN) Stock, and Is It a Buy in November? Yahoo Finance",
-    "source": "Google News"
-   },
-   {
-    "title": "CRWV, PLTR, AMZN – Cathie Wood Buys $16M of One AI Stock, Sells $14M of the Other Two - TipRanks",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenN0YWNnT3owY1E3TE9ER2VMaVhLZ196UGFqc2xLdTRteVFTTWd0b3BqUmpnMmZ5ejNUWm5FYS1JSDdoWXRKTHJ5VzYtTHp3RFdqZ09SLWVMdUswc1FVc2dqMVRuQlNtcTYxT19RMmw1TnZxeE5MQjNEVXVEU19ET3p2NFJHNHJ1WG9vNlZIUHVYNjV4YVNidFlSNGVpWG9ZQmpLNmJ4Zl9pbmhV?oc=5",
-    "published": "Fri, 13 Nov 2026 11:39:00 GMT",
-    "summary": "CRWV, PLTR, AMZN – Cathie Wood Buys $16M of One AI Stock, Sells $14M of the Other Two TipRanks",
-    "source": "Google News"
-   },
-   {
-    "title": "Andy Jassy Just Delivered Great News for Amazon Stock Investors - The Motley Fool",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnFJRl9zbXZ6UzhqSmYyOER3bDlzbklvRlVQd1FHdUd1NVhJVGVTU28zaENYZC0yVmNRWGhpUE5jdE5DVEpUdk1rekVkYzM2MmRlODVieUt2QmRYZUdkZzFrdTlJTDFNZkRzTGdRMEdhOWtyMFByaXVlaXRXbHJZeUJBNzZ2WWJ6WXNFR0V3MFlYQi1Zc3RCdA?oc=5",
-    "published": "Tue, 10 Nov 2026 13:15:00 GMT",
-    "summary": "Andy Jassy Just Delivered Great News for Amazon Stock Investors The Motley Fool",
+    "title": "A Major Catalyst Could Send Amazon Stock to New Highs - 24/7 Wall St.",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0VmM0xVNFNSMnJQVjd6UUhRdXVnY25PNzNfclFRUU1UWG03S1IwRkJlNUV0QlhnVkdpYndpVmdXODNJcFhlY003UzlIY1k0c2tPN2VxbjJtNFBUcE9yTTBLMnNKalF1QWg4NWVqWGlNd3V3U1IxMjBCOG1FaUFjd1hTNlhhVG9aeXIxQXR2S2F0WXFvNXBoaExPRjlqZw?oc=5",
+    "published": "Wed, 11 Nov 2026 16:35:00 GMT",
+    "summary": "A Major Catalyst Could Send Amazon Stock to New Highs 24/7 Wall St.",
     "source": "Google News"
    }
   ]
@@ -400,10 +400,10 @@
    "source": "Google News"
   },
   {
-   "title": "Should You Buy VOO Before the Market Rebounds? - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPamZEa1Nad3hpQjQtbklTVFBIUDFKbzhEQUMyVUM3cnBtNGxnRUxvX1VRQ3V6Q2trbkVzUFNmYWRDcEQzaklGWmZVbzlybV9xV18yQzB0eHJ2UVltR2F5X1BVTW11bzE4RWxQbFJ6c1h1bFU0Z1d6clQ1Q3dvb3c5RWFmMG9odmNyUGlXTEllc1Yzdw?oc=5",
-   "published": "Sun, 08 Nov 2026 12:50:00 GMT",
-   "summary": "Should You Buy VOO Before the Market Rebounds? Yahoo Finance",
+   "title": "Vanguard Has an ETF That Chases Winning Stocks on Purpose. Most VOO Owners Have Never Heard of VFMO - 24/7 Wall St.",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMTdBa0hqandMUHNuSW1VN19SRFptTWtOMXFWT0FpMkgxandETVJXOG9rNjYzMHFoeUVZbXEwdnFQZjhZUksxYVFaZzJBLW5tR0RGN0M1VV94N2lSNnE3UDVDM3owVnJaeENLZ0JGY2xFakNNZFlRUndQbVlBQUI1aC1sWXFXVEhnakY2NldsbnJSa3FpMTR6QWFQeDdsUWhYS2QyMEZNMmVLQWRSSFBIc1JSNVRzOWdOS0wzTUtPOFF4QVdHRWdCSXVINzlpVjVmbVNVOFVrWjZqTGFPREZn?oc=5",
+   "published": "Fri, 13 Nov 2026 11:33:00 GMT",
+   "summary": "Vanguard Has an ETF That Chases Winning Stocks on Purpose. Most VOO Owners Have Never Heard of VFMO 24/7 Wall St.",
    "source": "Google News"
   },
   {
@@ -507,17 +507,24 @@
    "source": "CNBC Markets"
   },
   {
-   "title": "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXJmalVqcjF1WEgxXzRyZ2hNRTRMWXdCWGdpblhnaGwxY0ZDeFIwYTVnWENtQ2U2NFg3YkpUS21EdkNHaXlwVlVicGxWd2RJZnJqOXlySXJfZzdscXlqRFNJSkswUjZ0ZjFINC11aU9GMWdrMGR6SzdfYUlkN3pGaDZZci1NbnkxWmtoZ1lNa3E2MmxDcnFqRnN0MWpwUURLT05odHBpdVlhNXRjNUJOd3JGcnNCYzd6bjVqWQ?oc=5",
-   "published": "Fri, 13 Nov 2026 19:55:01 GMT",
-   "summary": "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January Bloomberg.com",
+   "title": "Wall Street bears abound after inflation sours Fed outlook, Main Street abandons bullish bias as gold drops below $3,900/oz - Kitco",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ09SOU1XMmZSdkZoVU5iQkdoN1duRHpoNUhqWHlJVVRhd3ozYzFLLXkteml0ZXJoODBvUy1iMDB1Yk9qRy1oSFhfQ296RlBITmhSbzFSRVBVeGZLQ1lXb05ZRmRIVl9PclVZdzVJQ0h0M2JTRnZKUzZndkswa1JNNEtwbjdNMW1IQXZuQ1BDdVJlM0Y2TmRRWnhEUDFVb3FROEZyOFA1ZEdjNjlWbzYxak9QSjNKLVk?oc=5",
+   "published": "Fri, 13 Nov 2026 23:00:05 GMT",
+   "summary": "Wall Street bears abound after inflation sours Fed outlook, Main Street abandons bullish bias as gold drops below $3,900/oz Kitco",
    "source": "Google News"
   },
   {
-   "title": "Broad Price Pressures Firm Up Case for Fed Rate Increase in December - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTM0hlaW1Oc0FQRUY5YXRsYlgyQVZIMDhlUnpob3ZiZU9DbF9LdE5ocmRGaXNrXzhSU3BDVmhyalFqSXp0WU1WamlZcTAyWUR1U2FEN1h5N1hvNVR6a1ZpeVhVZFktVDRIYXdDSzh0UXRVRVc3RUZMdGZ3?oc=5",
-   "published": "Tue, 10 Nov 2026 18:55:00 GMT",
-   "summary": "Broad Price Pressures Firm Up Case for Fed Rate Increase in December WSJ",
+   "title": "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXJmalVqcjF1WEgxXzRyZ2hNRTRMWXdCWGdpblhnaGwxY0ZDeFIwYTVnWENtQ2U2NFg3YkpUS21EdkNHaXlwVlVicGxWd2RJZnJqOXlySXJfZzdscXlqRFNJSkswUjZ0ZjFINC11aU9GMWdrMGR6SzdfYUlkN3pGaDZZci1NbnkxWmtoZ1lNa3E2MmxDcnFqRnN0MWpwUURLT05odHBpdVlhNXRjNUJOd3JGcnNCYzd6bjVqWQ?oc=5",
+   "published": "Fri, 13 Nov 2026 19:55:01 GMT",
+   "summary": "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January Bloomberg",
+   "source": "Google News"
+  },
+  {
+   "title": "The Inflation Fight May Be About to Turn Painful - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0taZlpLMjZNSHV5LVZIWktScXlHVHB3Ri1SMElOR3UycjRibjRfTUM1Y05nQW1SYkljelpjVkdkaGFXRVQyeHVpZTB1T1h1SWQwNHRPTUlTTUJFS0tFVHR1R0c5M1ZLWWlxYmN0aEVqSzZRYkROWlhqTEo2Q2daZEZ2S1lwaDAwRV9lU1lGcEgyM00yOTZBVW9MYw?oc=5",
+   "published": "Thu, 12 Nov 2026 10:57:00 GMT",
+   "summary": "The Inflation Fight May Be About to Turn Painful WSJ",
    "source": "Google News"
   },
   {
@@ -525,13 +532,6 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWNqWFdDMHlSeUN3RHluTERFZlVwaVpqZ0ZEUzlURUkyeng1SjRQaG84V3ZnVURxdy1LdEp5RlpJeG5zQ25qQ1BXV05wU0lFRks2XzIyX1ZiS2tPVlZXbFVsTVFfUnpEUDVDeU9UczQ0aVZRYU85WkI0N0tGd1d6QTY1cw?oc=5",
    "published": "Wed, 11 Nov 2026 11:59:41 GMT",
    "summary": "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided. The New York Times",
-   "source": "Google News"
-  },
-  {
-   "title": "US consumer prices rise briskly for third straight month - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5",
-   "published": "Tue, 10 Nov 2026 20:38:52 GMT",
-   "summary": "US consumer prices rise briskly for third straight month Reuters",
    "source": "Google News"
   },
   {
@@ -622,5 +622,5 @@
   }
  ],
  "buzz": [],
- "updated": "2026-11-13T21:48:53.541551+00:00"
+ "updated": "2026-11-14T01:41:15.171007+00:00"
 }
