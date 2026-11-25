@@ -2,13 +2,6 @@
  "tickers": {
   "PLTR": [
    {
-    "title": "PLTR Stock Quote Price and Forecast - CNN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OczhoclROTzRScHYxdzFkV05RZk5ValVkQmo2TEx5NUxIaGN3X1dXZ2d5SlJ5V3BTS3JsdEF1N0czV256MVhWUU9rUjlXRWJO?oc=5",
-    "published": "Sun, 22 Nov 2026 08:01:58 GMT",
-    "summary": "PLTR Stock Quote Price and Forecast CNN",
-    "source": "Google News"
-   },
-   {
     "title": "Palantir: A Rude Awakening Is Coming (NASDAQ:PLTR) - Seeking Alpha",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWdwZm9zNkxOY3JXX293Q05lVy00X2JmTWxXcGc4YWRDVElvTU9XcHhGV3dfaGVsN0cySEozX2VhNWJQX25Fd20wZzdKaXNnSERvc1lfTV9kdXVpZzBHc0FCNWtrTFhYcmhNdE94UW55Ni1ON0d1VUdONTZzRmZhYzhn?oc=5",
     "published": "Tue, 24 Nov 2026 20:34:48 GMT",
@@ -23,21 +16,21 @@
     "source": "Google News"
    },
    {
-    "title": "Insider Alert: Palantir CTO Dumps Nearly $48 Million in Stock - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVRLWkdnLVJzaWkyWVBMM3pncGJybFNDUTV3ekxtbjhtYkpfRV9fb09BWjg2YXZEdnJXSFpuRm9ESG5KcWlaYy1jcVJYdkRudlUxcVFsQmxNeVFURE5QeG5pUjBETEU1Zkh0RUkyZ0REZ1pGQ2duSXllX3JQOGgxcmVRY0FsQWI1OHdmOG52SzN2MnVFTFc4RkNjc1psM19GcXZNczBVWnFfMmRBMXRYVmw4NlRmdTFmVS1z?oc=5",
-    "published": "Tue, 24 Nov 2026 11:57:37 GMT",
-    "summary": "Insider Alert: Palantir CTO Dumps Nearly $48 Million in Stock TradingView",
+    "title": "Palantir Insiders Sold Shares Worth Over $23M - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGlmNV9qVzlVT2lINGpNTzJNYThzcUxZSG9GcHBiOWV4b1A0ejNMTFN3amFabmFYTVJKS1ZSdE1Mb2E5eW91X3NYLUZyNWVQT0lCdjdvVG16VUtZa2FGd0hLYzMwT2h1WldzblpZTk4tRVFjeWx5LURxY0poeDVPb0ZDT0pPb0V1bG85TEhaNDIxaW5pRFdJalM2SGNRcEpzRXFzTVZSVU9adw?oc=5",
+    "published": "Wed, 25 Nov 2026 01:10:00 GMT",
+    "summary": "Palantir Insiders Sold Shares Worth Over $23M TradingView",
+    "source": "Google News"
+   },
+   {
+    "title": "Palantir (PLTR) director Peter Thiel’s LLC buys shares under a preexisting trading plan. - Stock Titan",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbnpZM01JZTNzTnZDRXh3ODAyaUx3ajA0ZzRuQjc2WmFpWHBXR25xNzBHVUJHOEtPdXBVZkJldERBRGRGMHl3NHR2NnJINnBmeUJ3enJJYWNreTdQRGM2Yk5MNXA5SVhHcmkyLW85Zl90NjZva3Y3YU5iWU1PeDdfVGg4cHk4bGo1Z1F5NEFvOXhMS0FYZGllaEc4VUFub1VUa3VLTXRBcXpZMmt1Yy1KcFRORWtmdi03OFd3?oc=5",
+    "published": "Wed, 25 Nov 2026 02:13:51 GMT",
+    "summary": "Palantir (PLTR) director Peter Thiel’s LLC buys shares under a preexisting trading plan. Stock Titan",
     "source": "Google News"
    }
   ],
   "GEV": [
-   {
-    "title": "GE Vernova (GEV) Stock Looks Fairly Valued As Its 21% Run Cools - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWTZVNS1DQnNVc2w4eFpEMDMyYlp1ell0NVk2cnhGd19YS3M0Tk1SUlFtMl9uelZqYkREcUVCbTZjbDY3Z1p3QmpIdkQtR1UtQVUxeWpxWno3SXExNGdvb3EwVHU2UW4zV25GTHhBbUFFYVJwTnA0TWI0c0VwdXpIdnhZc2swQmF2aXNGNVdsX0RQTTg2UHc?oc=5",
-    "published": "Mon, 23 Nov 2026 20:06:16 GMT",
-    "summary": "GE Vernova (GEV) Stock Looks Fairly Valued As Its 21% Run Cools Yahoo Finance",
-    "source": "Google News"
-   },
    {
     "title": "GE Vernova: The FCF Jump Makes It A Strong Buy (NYSE:GEV) - Seeking Alpha",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOXBZak9sdXlsUC1vdnJMRkxORlVMR3NuTFVEbUhwVzJaZmQ3ZDZoZlFldHVyanctU2dlQXIzSWEzQVFuNGdESnpsdlBXOHlHakhnbzN0VVB0SHN4amYxTmFjTFgzNFNQSVlLenYzQVRVY3oxcUhNQXF6Qk5qZkFqM0hGZVBaa05yTFpNX1dZRQ?oc=5",
@@ -53,18 +46,25 @@
     "source": "Google News"
    },
    {
-    "title": "GE Vernova Stock Is a Buy. Not for AI, but for Services. - Barron's",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZ2NHc2wtbmlrT1paOXdHc2tqZlB2RjJ0Q3p5dVZiNTItUjZrSUFCSjAwSDlWNk1NMnZBVE1pN1VReF91VERvRVJFSHlscTFJMzNoaVM2dC1rTEpIQl9abDV5OFd4OEVOSFRSdnNmbnBleGJVb0JVQXFtLWo2Zw?oc=5",
-    "published": "Thu, 19 Nov 2026 13:00:00 GMT",
-    "summary": "GE Vernova Stock Is a Buy. Not for AI, but for Services. Barron's",
+    "title": "What Erste Group Doubts About GE Vernova (GEV) Next Year - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcXhYX0kyaFRLTTZmVm9qSWU3bkUxRUg0RDhmbExETGg0bndZQktGTzZUQ0tTdGdhSTljM3M4REtyMmJaS1pEN3hJYnkxcmZYOWw1OEFJTS1xeHI4bTI4R19fN0EyMk1QZjI1U01MY19wYVZOWnZ5WHd0ZTdRUTNNa2ItUG5NMVhBWk10Mi1SMXVHQXlpQlhXb0lR?oc=5",
+    "published": "Thu, 19 Nov 2026 15:17:56 GMT",
+    "summary": "What Erste Group Doubts About GE Vernova (GEV) Next Year Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "Is GEV a Buy Now as Power Growth Battles Wind and Execution Risks? - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1FmNk1OQ2dUTEFQYnoxaWVNakpHZ1AyU1VfdWRybzd6Z0JMY05rWHdZTUxTWFZrWjYzRnZrRjR3YU9YWHNjbXB0aGRPb21fdU5IY29LTTV3YmMxV1I0NmNpU3N1RWg2N0JlTGwzUWhiNURFaTlXODh3aHNoTE5rTnVwdXVlRzZIUDBtMUNaekdMWGtKRVd2X2FTR3lXYXRrTk5uNUplRDNCUWV4YjExbXhqdjhXdko3MzVvZFN3?oc=5",
+    "published": "Mon, 23 Nov 2026 12:31:00 GMT",
+    "summary": "Is GEV a Buy Now as Power Growth Battles Wind and Execution Risks? TradingView",
     "source": "Google News"
    }
   ],
   "CBRS": [
    {
     "title": "Cerebras Systems Inc. (CBRS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JSjNfeXN5LXRndDd0NmlyMGd3bTlJRi1JT2JDV1YyVjNNcklVZEVrT1NLRm1tYWw1TnNEZGdCRnQ2aEt5RzRWZ0ItUTVXbzZRZFE?oc=5",
-    "published": "Sun, 22 Nov 2026 20:27:32 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nVUtDX3RkZVZNR1ZVWS1FcVljemo3Yi1Uak5pRlZCZXg2OGZIaE9WUTRGWWl5NjNZVk95ZExROEo4SUxEN3dWdWhUTWJvZF9hSVB4X2pQTjBwVWxNX2ozcWJn?oc=5",
+    "published": "Sun, 22 Nov 2026 03:59:26 GMT",
     "summary": "Cerebras Systems Inc. (CBRS) Stock Price, News, Quote & History Yahoo! Finance Canada",
     "source": "Google News"
    },
@@ -106,17 +106,17 @@
     "source": "Google News"
    },
    {
-    "title": "Eli Lilly (LLY) Stock May Be 22% Undervalued Following Neuroscience Deal - Simply Wall St",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLWg1NFUzWFZQdWl5REdKQkFmWHUwQ29rNHAzbl9HR1ZudXAwU1poX3ZWaVlRNklmNjZPS2x6X1plNXRVTzBnMHJzSTZYNTNPZ2xwVVFxMXhFc1FPdVdMRXU0aldXV1hQdzZXdU41Yy16LWEyblBWb010OVlEbmlFakM2dUxpUDBrbmZ1dnZpcFEyemZtTmF2enBOa2dvaUdvcEhodHA3Tk9GZDBrMHBPZHQ5aldIQThkeWlfWDJQZWJqY2JnbTZHRmItemxmVmE2b2pJN0lsMNIB3AFBVV95cUxNbVVaNmptd0VVSWJ2UERocVNoeTQ1dGpocE9WUVhmV0VYbUNtWkhOR0J6UE5vXzhJNVprWUIzWHBiejRkQkQ5WkNwbUlJVTNUVVd3UnNmNzNDeFczUzFwTjA0RTJjRmZuYVRDX2QxeHh3Vzc5UkwzWHRteTB3TzRCM21RTjhUMW12M1NneG8tV1U4cTI2RUxCLVUwTEt2MmJmUjJBYnVwTzNhVGJxTW5YZC04S1kyS1FFU2ZJVzFZZ05QY00wblFvZ20zZl9zN3dzQUtCeDc5cGkzd3l2?oc=5",
-    "published": "Tue, 24 Nov 2026 21:09:12 GMT",
-    "summary": "Eli Lilly (LLY) Stock May Be 22% Undervalued Following Neuroscience Deal Simply Wall St",
-    "source": "Google News"
-   },
-   {
     "title": "Why Eli Lilly (LLY) Stock Is Up Today - Quiver Quantitative",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kU0lxLVczQTFzaEhjODdtVF9pa183aGtsbnpxdTg0VzByRmFjRmp6LVFRWHhDNG9ybEdsZ25pVE9aZlRFbllwVDdiMk9sS0xBbEZCTndybzEzTnhLb1loX1NEdXoxZWJIRWlNM2N0by1YZ1NUeHJXb1g0T1lZLXM?oc=5",
     "published": "Tue, 24 Nov 2026 15:33:00 GMT",
     "summary": "Why Eli Lilly (LLY) Stock Is Up Today Quiver Quantitative",
+    "source": "Google News"
+   },
+   {
+    "title": "Eli Lilly (LLY) Stock May Be 22% Undervalued Following Neuroscience Deal - Simply Wall St",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLWg1NFUzWFZQdWl5REdKQkFmWHUwQ29rNHAzbl9HR1ZudXAwU1poX3ZWaVlRNklmNjZPS2x6X1plNXRVTzBnMHJzSTZYNTNPZ2xwVVFxMXhFc1FPdVdMRXU0aldXV1hQdzZXdU41Yy16LWEyblBWb010OVlEbmlFakM2dUxpUDBrbmZ1dnZpcFEyemZtTmF2enBOa2dvaUdvcEhodHA3Tk9GZDBrMHBPZHQ5aldIQThkeWlfWDJQZWJqY2JnbTZHRmItemxmVmE2b2pJN0lsMNIB3AFBVV95cUxNbVVaNmptd0VVSWJ2UERocVNoeTQ1dGpocE9WUVhmV0VYbUNtWkhOR0J6UE5vXzhJNVprWUIzWHBiejRkQkQ5WkNwbUlJVTNUVVd3UnNmNzNDeFczUzFwTjA0RTJjRmZuYVRDX2QxeHh3Vzc5UkwzWHRteTB3TzRCM21RTjhUMW12M1NneG8tV1U4cTI2RUxCLVUwTEt2MmJmUjJBYnVwTzNhVGJxTW5YZC04S1kyS1FFU2ZJVzFZZ05QY00wblFvZ20zZl9zN3dzQUtCeDc5cGkzd3l2?oc=5",
+    "published": "Tue, 24 Nov 2026 21:09:12 GMT",
+    "summary": "Eli Lilly (LLY) Stock May Be 22% Undervalued Following Neuroscience Deal Simply Wall St",
     "source": "Google News"
    }
   ],
@@ -129,17 +129,10 @@
     "source": "Google News"
    },
    {
-    "title": "Top X-Energy (XE) Competitors 2026 - MarketBeat",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwcldlQ2NLMHRGN0hNXzFhSThWUUlnVWZvdjN2SzVuZEtHYzF5Rm1GR1ItbHJudHd3di1XU2t1ZjJZcVE2TW5MVUs2MDJXSmt4M2t4QnFBWUgyY2d5OVM2RldaTUgtbDZ6WkRRcjBhR1FyS200YzdzZGF4a0NSdw?oc=5",
-    "published": "Tue, 24 Nov 2026 20:45:10 GMT",
-    "summary": "Top X-Energy (XE) Competitors 2026 MarketBeat",
-    "source": "Google News"
-   },
-   {
-    "title": "X-Energy, Inc. (XE) stock price, news, quote and history - Yahoo Finance Australia",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT2RON3RvNEM2OFJJRno3MGwzTUIzbUxXNDhtZ2F0aFdUMUh4Q0IwRGZobUtWX21jNDdXWTRyd3RITkJ0YUNBRDdROC1pSkgybkxZNlZvWnByUVZLR3I4?oc=5",
-    "published": "Fri, 20 Nov 2026 12:01:58 GMT",
-    "summary": "X-Energy, Inc. (XE) stock price, news, quote and history Yahoo Finance Australia",
+    "title": "Could This $14 Energy Stock Be Your Ticket to Millionaire Status? - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGFHR1BKYnY4b3VIRFpPcW9lZmk1ZmxUQXJrNDN6YzFqRU5lSjJpZEkxZHBNQlY5UEF0TVA3ZkszRUV0dzFMd1Z5NDRqQ1RmaURWaWpWbm11dVliWTZobkRtZmVIRzdlenkxR3Z1MzBLYkdITzEzT09PM2M1N09MbDJxZXVRcmRvNkxqR1pvQkpWdGFiQy16Qw?oc=5",
+    "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+    "summary": "Could This $14 Energy Stock Be Your Ticket to Millionaire Status? Yahoo Finance",
     "source": "Google News"
    },
    {
@@ -147,6 +140,13 @@
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUHZONXE3SmlvZjlycVc1U0NpanY3MUJ5U3RBWDM4X2FlZzZRS0Ric1pvbmJNaFBzbkxFY0NqTFJ2U1VUTEg5Y3JNZHpjeVpXTFRtaTJGZGlzelVUWGJ6ZGxvOWlxZk1yWWU4Nm5yUEVJOHFEY2pqYTJrelM1NTdObEM1WWlWQzhJSGt0aVlUOGhSaFF1RTNV?oc=5",
     "published": "Tue, 20 Oct 2026 07:00:00 GMT",
     "summary": "Better Nuclear Energy Stock to Buy After the Sell-Off: Oklo vs. X-Energy The Motley Fool",
+    "source": "Google News"
+   },
+   {
+    "title": "XE Stock Price and Chart — NASDAQ:XE - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFZk9tQU9DX1RWS2RSOTM0LW5oX1RpczE4OC12UDRlR2I3ckM0bS13N194aWlvY2FCU2dLcmRBc0xocXFaWEVLdlhZRE5nRWpBa2JCUFU4WUJOdw?oc=5",
+    "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+    "summary": "XE Stock Price and Chart — NASDAQ:XE TradingView",
     "source": "Google News"
    }
   ],
@@ -182,13 +182,6 @@
   ],
   "NVDA": [
    {
-    "title": "Nvidia shares fall more than 5% as Huang comeback rally cools - CNBC",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52aUdsdjBXTkFjSkg1UVpmamJ6cXNsRWxPSGRGZXNMOFNuRWFHZEdudVdnQ2pRS0xKbFJvRUJmYldqSEl6UzFseHJWZzdENkNrbEdXd05yWEpyU3NOQjM3TVNjZUcyYVlKZ0RGTFlPVWF2T2hvX0tUVdIBfkFVX3lxTE9jTGJUVzdZamlIUjdnZlVNYkVhaDJ4MzY5MmpTZUpGMl9GRjZDSTNGR2FGenRsN0djalZxbjlrWUNCUXFOME9HdHdVTzdPTE9KT28wei1iTXl3bUxLSTZKRm1VWGhXVlhFQUpRMTV4ak9tUUtGdXZ6b29YNWhCQQ?oc=5",
-    "published": "Tue, 24 Nov 2026 09:12:05 GMT",
-    "summary": "Nvidia shares fall more than 5% as Huang comeback rally cools CNBC",
-    "source": "Google News"
-   },
-   {
     "title": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5",
     "published": "Tue, 24 Nov 2026 17:11:23 GMT",
@@ -196,17 +189,24 @@
     "source": "Google News"
    },
    {
-    "title": "Nasdaq Drops As NVDA, ANT, SPCX Slide: Mohamed El-Erian Says Market Warning Signals Go Well Beyond Nvidia - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmpXWFJJNGZIS1lxREhEemtWek5UZEtVQTVvaml5bmVISVlLTnZtVDNXNV9iZmxKNGZTSU04b0FQWkpGNmdmMlA2b3VaN2RTTmFOR1RISk1LTmpicWJSLUJZd0YyM2NOUlJzMGNHSUcyMGRGdG9vRTNhOVEzU1JjRldDT3UxSjJ4V19xRWxIYWk4QVRBc1E?oc=5",
-    "published": "Tue, 24 Nov 2026 23:58:47 GMT",
-    "summary": "Nasdaq Drops As NVDA, ANT, SPCX Slide: Mohamed El-Erian Says Market Warning Signals Go Well Beyond Nvidia Yahoo Finance",
+    "title": "Nvidia surge: What investors should do with the stock and the AI trade now - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uZWtBWk05Z2I0ZmRRLTdjRDYyTHJURXdFWTlSOHZ6aDR2R2xDeDk1S2xOUGJmYXdFbDg2dG5oVDJYN1h1VjhncmZIY0xWZGxhMlFlNms1TGFsRlQ0Z0pHZm5hSjFESnAzaXBRcDc2ZHlnVVJWRFJwNi1IY9IBgAFBVV95cUxNd19EVE9ZXzlHUDZUc3hSX1I5SnVEODhhT0Noa29RTHBhV0l2RnlheXhCRWdqRW5BbTc0SGxLblYwZTBfQVVub1d4eGdaWjZKM1BhRlUwTk43RnFpUWdEWTU5VzM2d1J0ODdHeGRGdlkyMW8xYlNJbG5MWUZRU003aA?oc=5",
+    "published": "Mon, 23 Nov 2026 19:52:21 GMT",
+    "summary": "Nvidia surge: What investors should do with the stock and the AI trade now CNBC",
     "source": "Google News"
    },
    {
-    "title": "S&P 500, Nasdaq End Lower As AI Jitters Resurface With Nvidia’s Governance Issues And Talks Of Fresh Import Tariffs — NVDA, DELL, TSLA, TGTX In Focus - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXpVa25QTGpzYXFUdHh4cEZHblQ4cVl3NmJCREo4U2VueldtcEcxb0RSb0NVeGtjRy1CY1VzV0JPYnI5X29LVXI0WTdKY3lmU090bnl5M1g3TkY3VWlRNUJwZXJyR3ZSbkVqT0ZiUTE4NzJnLVRWa0g2RmJBV2VQajVtdXdtUmNhWUl6QnlDZkM?oc=5",
-    "published": "Wed, 25 Nov 2026 00:12:00 GMT",
-    "summary": "S&P 500, Nasdaq End Lower As AI Jitters Resurface With Nvidia’s Governance Issues And Talks Of Fresh Import Tariffs — NVDA, DELL, TSLA, TGTX In Focus Yahoo Finance",
+    "title": "Trump says ‘it’s probably not too late’ for the US to take a stake in Nvidia - Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0RjeFlHc2dpVFFRODd4WENkQ1Q0WjNUaE1RdVZESGRnUDVnNVFYeHJTYWgzV1NZU0QwU2VvTmZ2VHFHQ0lfSjkxR0tHZlJLUUNSWVhUVkMyYnZKVjBoOUZHcDAxSVNpUVd3MU1kLWZSNHVnQl9lb1lLbUtPdUN1d3ZjU3kwSm43?oc=5",
+    "published": "Wed, 25 Nov 2026 01:03:00 GMT",
+    "summary": "Trump says ‘it’s probably not too late’ for the US to take a stake in Nvidia Business Insider",
+    "source": "Google News"
+   },
+   {
+    "title": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading. - Barron's",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2eG8tdTlDV1hsNU4tQ2JMRzROTWRubTAwLVd5MWxKcVR0WEFUTGlDMk1UWDZodWZxanVGbU05S1NVZTFNaE1VaGc2b0dkUXhmeGtTTVVPbjFWRl9QSGRjVjRPNExTRGpCRjVyazA5M1EzTVI1dkE?oc=5",
+    "published": "Tue, 24 Nov 2026 18:16:00 GMT",
+    "summary": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading. Barron's",
     "source": "Google News"
    }
   ],
@@ -226,17 +226,17 @@
     "source": "Google News"
    },
    {
-    "title": "Alphabet Vs Meta: Which Stock Is The Better Buy? - Trefis",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb3RxakNEejI1NUwtVDNCenVSQjV5X2VqUU5PdU1PVzJnVmxIdVl1RUdQOXFwSTJrbXlrclNfNmhsRnFOOG5DSnFOaWJHcmxlU0NfbVo2QUN6YjI5Q3Bjb2RQdk1QNGRnWF90bHVnanlvZWptT2RmVkN0SW5JX2xpQWJvd3hIVkRKX0FtU3BFalZXQ0NnaXFsUWVEbkFvNmZqa0hnSjZsc0dXYmd3?oc=5",
-    "published": "Tue, 24 Nov 2026 09:06:59 GMT",
-    "summary": "Alphabet Vs Meta: Which Stock Is The Better Buy? Trefis",
-    "source": "Google News"
-   },
-   {
     "title": "Meta vs Google Stock: $127.6B Quarter Frames the Debate - shattered.io",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNek4xcXA2VGU3Z3B0LWpHUE4wVE1ta0VyZzVtUFF0RVhDbXV1RVdYcTE5eWo0cWYzQk5ONE5XTWVac3JZSDBhZ0M2M0RtYnRSZDZZN013V3JPR29NazBKMGpDTXcxRlIzV1dZSXRabzdIbnl5Y2FzZ2QyWHZuMGI5bzY2NzBNWnRSa2c?oc=5",
     "published": "Sun, 22 Nov 2026 16:49:24 GMT",
     "summary": "Meta vs Google Stock: $127.6B Quarter Frames the Debate shattered.io",
+    "source": "Google News"
+   },
+   {
+    "title": "Alphabet Vs Meta: Which Stock Is The Better Buy? - Trefis",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb3RxakNEejI1NUwtVDNCenVSQjV5X2VqUU5PdU1PVzJnVmxIdVl1RUdQOXFwSTJrbXlrclNfNmhsRnFOOG5DSnFOaWJHcmxlU0NfbVo2QUN6YjI5Q3Bjb2RQdk1QNGRnWF90bHVnanlvZWptT2RmVkN0SW5JX2xpQWJvd3hIVkRKX0FtU3BFalZXQ0NnaXFsUWVEbkFvNmZqa0hnSjZsc0dXYmd3?oc=5",
+    "published": "Tue, 24 Nov 2026 09:06:59 GMT",
+    "summary": "Alphabet Vs Meta: Which Stock Is The Better Buy? Trefis",
     "source": "Google News"
    }
   ],
@@ -256,40 +256,40 @@
     "source": "Google News"
    },
    {
-    "title": "Why Did Broadcom Stock Drop On Friday? - Trefis",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWllGMkdwMWFtZUJLWjdQX1FnbHByQnlBdzZ2R0dTN3I5TS1qR2VHWU9UQ2hvcXpVS0NrMGROOTlodzJKY19BdHZLSERZV0R3SE1KM0lGeUhxd2JfMGY4MjAwM2duV1p5b0ZQZEpMNDhWeGlGREdTTzc0NzNxY09EeDBabS1qN19iSGVCdS16S0FGYjIxRXEwQWFEUnhwZW8?oc=5",
-    "published": "Mon, 23 Nov 2026 07:41:20 GMT",
-    "summary": "Why Did Broadcom Stock Drop On Friday? Trefis",
+    "title": "Even With Jensen Huang Back as CEO, Nvidia Is Down 31% From Its High, While Broadcom Is Down 35%. Here’s the Better Buy Now. - The Motley Fool",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSXl4eU4zS3NEWWNUc1FZWkVSanFzYzM5VzlYbXBwQVduaFZTMTI2T21TdVZ4OEZpbl9EM21Kb2dTaEZIZHVnWEJURnVpb0NkdmwwT1pVRnhHSTBhMFJ2MzZ2d0JjU0JsX0FvbThyOU9XQVVsWnBGTjdtQnpiUU1YWkVxdjQyMW9xRkpPeXBjRlJKTFBHZ3l2NE9zcnFHZUxzU3FOZkRaQ25KUGZ4SUxweEQ3aU5Lb3ZYUWV0UFliSURBV2VwUm1EcVB2VFdMdWpqUXBpMkk3UDFLNnRKNWFoZDVnNVJlN1ZCZGJnMVMxVmN5UDg?oc=5",
+    "published": "Tue, 24 Nov 2026 16:02:02 GMT",
+    "summary": "Even With Jensen Huang Back as CEO, Nvidia Is Down 31% From Its High, While Broadcom Is Down 35%. Here’s the Better Buy Now. The Motley Fool",
     "source": "Google News"
    },
    {
-    "title": "Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035 - The Motley Fool",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDNDbU52VEU1TTBCR1NJWEUydDB1cmhTMW94TEhEcnZadlJwVy1aMXNxTmRpdWtDRk14MDJlY3pKZ1hneWJpQjJya2dfYzlKZXZFeHNrLU5HXy1rY3NsaS1SM040Mm5fbDJDYUhJeUVRMmhvTTNkelRPQUliRWFyaTJES0FDOTFVc21ZbmFsSWpvOXVReXJ3R2pkeUVsTDlYVW11THNtN1dKcUZOenh2RUNIT1lOV1FY?oc=5",
-    "published": "Sun, 22 Nov 2026 19:02:02 GMT",
-    "summary": "Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035 The Motley Fool",
+    "title": "Broadcom Stock Could Have 70% Upside, Analysts Say. What AVGO’s Valuation Reveals. - Barchart.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU12d00yZVNmZjZIb0JjZmlGb3NpUUl0RGhNUEdYLS01TTJ4R1NoYmNWcElseFlTZy0zYm1hQm9kM1lyN3R1ZE5DNkJQdmE3ZXNwa0lxT09BYkJVQUVPWV9zN2x1cVhLaEZwZC00VGVqVlh2Y1EtUl9IcUltNUEyMVR4MFMtZmhWNFlIR2tlZjhMZnZabDV0YlM5X3ptRlF5VnhQZFhqTmVITXRJOUJRLXFaMmtjVjE1VmFiQjN3?oc=5",
+    "published": "Tue, 24 Nov 2026 20:10:17 GMT",
+    "summary": "Broadcom Stock Could Have 70% Upside, Analysts Say. What AVGO’s Valuation Reveals. Barchart.com",
     "source": "Google News"
    }
   ],
   "TSLA": [
    {
+    "title": "TSLA Stock Slips Overnight: Dell And HP See No Quick Relief From The AI-Driven Chip Crunch Behind Tesla’s 25% Memory Cut - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnpyWmlSTG9NWm4xU1hWQ2hxNHkwNW5Mb25mczE5SFQ2UEdwb3RreU9YZ2VodjlpdnlDQ3hnbjRSTlpFV251UWdkSVM3Rm10dDhFYjJZVVpWelJSZm9DSDhVc0xTR0ptNlBqT0pqa3UxUEZ0ZXAyRmh1WEFtelA1d3F2VWlDS0Q3blZ5YUlsS0hiMzZleEo4LVRLVlc?oc=5",
+    "published": "Wed, 25 Nov 2026 02:26:00 GMT",
+    "summary": "TSLA Stock Slips Overnight: Dell And HP See No Quick Relief From The AI-Driven Chip Crunch Behind Tesla’s 25% Memory Cut Yahoo Finance",
+    "source": "Google News"
+   },
+   {
+    "title": "Thinking of Buying SpaceX Stock? Gary Black Says Wait for a Potential Tesla Merger to Send It Below $100 - Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVVktRkVpcW1KTFJvSFFQQm1MY0EwSzVKTFFCYVRVLXdfeTE4VUVmd1ltNnFzV3ktZDNRZ0wwSnlkZWRDd3VOTzBZQTR0M0E1d2JVTFc3RkhoZ0dEb25BSlBHMmVzOHVMMm5lOVZQRVloSGRtcGRxamdhOEVYenlwWUdPd3dkNEZhcHZJ?oc=5",
+    "published": "Wed, 25 Nov 2026 01:31:35 GMT",
+    "summary": "Thinking of Buying SpaceX Stock? Gary Black Says Wait for a Potential Tesla Merger to Send It Below $100 Benzinga",
+    "source": "Google News"
+   },
+   {
     "title": "Tesla and SpaceX Just Assembled Deal Teams for a $3.2 Trillion Merger. Here's What Investors Need to Know. - The Motley Fool",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPellHLWY0LXNRWlNSZC1waG5Vai1TSG5maUV6VXFTeHl6QXl2YTlRR0VjLTNiSVIwMmpNM3hQc2Nzd182MDlDUTkyLWNKQUEyNjltNG9vT1VIekVGaXI0dGRpS2ZvWHNnSDR6M1R2WnN3RV9sQ1g5RWRUMEZUN0dfcnc4SndwQnpnVy1mVkhqb1ptbU5hSTNyNTRaRHM2alJ4TVF4TURzVkU3bl9HakRlUUFMN2cydmJuUVkxM1B5MHA5ek5fR2V2RExsLVdYRkRZRFl2Q1pteHFFbGJmVHI1YVJJRQ?oc=5",
     "published": "Tue, 24 Nov 2026 20:39:55 GMT",
     "summary": "Tesla and SpaceX Just Assembled Deal Teams for a $3.2 Trillion Merger. Here's What Investors Need to Know. The Motley Fool",
-    "source": "Google News"
-   },
-   {
-    "title": "RBC Expects SpaceX-Tesla Deal Announcement By Early 2027 — Notes TSLA Shareholders May Accept Combination Without Large Premium - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXFtR0hpQ2Q1c0tvMXphbng3X1JVLWNPbmtsOU1MOHZDOXpkTUt1dGE1RjZxM1J3dDVRQXJTUzhxS2EtQWJUVm5CUms2UVRXeXVLQ256RW5yczRNa3lFWldMQndNY1BLZjlEWUVtMjRGX0JGNGZIWHRXbVJSbDEtT1RNWkowczBKeWo1dmFwMGlidDJiNmdEQll3?oc=5",
-    "published": "Tue, 24 Nov 2026 21:55:33 GMT",
-    "summary": "RBC Expects SpaceX-Tesla Deal Announcement By Early 2027 — Notes TSLA Shareholders May Accept Combination Without Large Premium Yahoo Finance",
-    "source": "Google News"
-   },
-   {
-    "title": "Tesla Stock Booms: What's Going On? - Benzinga",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEN0Ylh6WWpQa3dSSnl3SVFqV1RhbUhLU3FKZGtMdjRRcmJkT0hfQXBxbmRSZWNGUExVa3Azcm8wd2o5WnNxcmpUVERnd0NrRkNfdERSZXppTUlJSldqSkUyek0xellxMUx0NG9fQndoLXRYaGtJTl9BMUEydV81elpHTnFhM05FWUlwa01qa01kRTBxR2VsaA?oc=5",
-    "published": "Mon, 23 Nov 2026 17:24:16 GMT",
-    "summary": "Tesla Stock Booms: What's Going On? Benzinga",
     "source": "Google News"
    },
    {
@@ -309,10 +309,10 @@
     "source": "Google News"
    },
    {
-    "title": "Down On TSMC Stock? Your Buy Price Decides It - Trefis",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWc4NXFYcWoxVVljOGZaR2kzVHF2QnY5X2l0eEY4Ri1BWGNhTzlMWWhiM1BLdWtXWnN2QWhabzliQzBSYjI1UFBMV3gxYUlqMnBfTjhqWTBDb0Z0SUFCeTBxdVRvTjBNVEF2ZFVmeWFXSXQyZ0RNbTZpb0dlYmhLT2Yzc2hzam5ENVVzZzJOSC1kWWN3cjI5WTh0Nm1xVWlGSlVsR2NIWQ?oc=5",
-    "published": "Tue, 24 Nov 2026 16:46:05 GMT",
-    "summary": "Down On TSMC Stock? Your Buy Price Decides It Trefis",
+    "title": "TSM Stock Quote Price and Forecast - CNN",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRUno5cWdRaTZJNFVEUWZFNEFWSnIyZXoxMXo0aEwwMHZsbUl0MERWcTVVZXl3QkR0Q2U1TFkwY0NfQ2NLRVRWNGluT3NmZUk?oc=5",
+    "published": "Mon, 23 Nov 2026 23:40:48 GMT",
+    "summary": "TSM Stock Quote Price and Forecast CNN",
     "source": "Google News"
    },
    {
@@ -323,26 +323,26 @@
     "source": "Google News"
    },
    {
-    "title": "TSM retreats over 4% as stock trades below key moving averages and chip export restrictions weigh - Traders Union",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVl0bkJIT1A5elhWR1VPVHRVYi1KN3hsVEVhd3JiVWFHR1BZby0zUXpBdzc4SGtRMXliQk9oWTV4UUp0LVZvblJ0elVZbjdXbFNVT2tPem1QOVZpdWQzczFFS21RZktiZmhGcDhRX2o0WmpLRFZpby1raE8teGY1TDB0cVJGSGVELTNn?oc=5",
-    "published": "Tue, 24 Nov 2026 19:18:27 GMT",
-    "summary": "TSM retreats over 4% as stock trades below key moving averages and chip export restrictions weigh Traders Union",
+    "title": "TSMC: What A Textbook Growth Stock Should Look Like (NYSE:TSM) - Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTkFTOXRGWGp4TWNHME5RbVI1QXA4Sk9XMDd6N3AtTXZYUkdld2VHZldvekxidkNoMEZWaTV0S09ENGR4WHJrdXpza3BYMk5RUXpEMEtyNGhZNHE3eERyRXNyYkFGWXRLS04tLTl1T3plcUs1QlhQV3ZyWlc1c3hvNzFGR09lZ3AwbUVfdU5JVzVFS2c?oc=5",
+    "published": "Wed, 25 Nov 2026 02:38:36 GMT",
+    "summary": "TSMC: What A Textbook Growth Stock Should Look Like (NYSE:TSM) Seeking Alpha",
     "source": "Google News"
    }
   ],
   "MU": [
    {
+    "title": "Why Micron Stock Dove Today - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXeVliMG9QY3ZzQnYycmdHZHlLNjVhLWVvVlA2MDZRZWlrRjVidGpuczBXQ0VvZXhRN01RLXpfV0E1T3BNRnBvRmJBYUhkeUlRWHdvNmN4T1pDWVQ5SXY5a2RWbHJWZjBqbWI0UzJWWURzTGp4M2E2XzFWSkszREZTemFNSzJuSlB1TDF3cGFORnN0c1VB?oc=5",
+    "published": "Tue, 24 Nov 2026 16:47:52 GMT",
+    "summary": "Why Micron Stock Dove Today Yahoo FinanceMicron’s stock falls as an analyst warns about a future supply glut MarketWatchWhy Did Micron Technology Stock Fall? Trefis",
+    "source": "Google News"
+   },
+   {
     "title": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. - Barron's",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZ3dObUpYUENEWWp5NG43UDdpMlI0ZVdPRUp5clkzTXg1UlhCYVFlem9wYzU2eEV2UENYSXRHZjhTb1kxRlI5MXpvRFJ0dTJ3eElCeU01OGJWRUFvdHM5LV9GZkJiWnlOYW9IMFIxRQ?oc=5",
     "published": "Tue, 24 Nov 2026 18:12:00 GMT",
     "summary": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. Barron's",
-    "source": "Google News"
-   },
-   {
-    "title": "Why Micron Stock Dove Today - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXeVliMG9QY3ZzQnYycmdHZHlLNjVhLWVvVlA2MDZRZWlrRjVidGpuczBXQ0VvZXhRN01RLXpfV0E1T3BNRnBvRmJBYUhkeUlRWHdvNmN4T1pDWVQ5SXY5a2RWbHJWZjBqbWI0UzJWWURzTGp4M2E2XzFWSkszREZTemFNSzJuSlB1TDF3cGFORnN0c1VB?oc=5",
-    "published": "Tue, 24 Nov 2026 16:47:52 GMT",
-    "summary": "Why Micron Stock Dove Today Yahoo FinanceMicron: Pounding The Buy Table (Double Upgrade) Seeking AlphaWhy Did Micron Technology Stock Fall? Trefis",
     "source": "Google News"
    },
    {
@@ -362,31 +362,31 @@
   ],
   "AMZN": [
    {
-    "title": "Amazon Stock (AMZN) Rises 4% on a Deal to Acquire AI Startup Decart AI - TipRanks",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWw2dE4zX1ZST1FKRWRCMndqVWZpWXl4RXExcElRQ1BpRFlHeTh3TFpzV2Jvb0FPQzNJNEtQbW5JZXVhTWlpeTRwMHZzZkotNm5ZYVA2ZlJ6cEY5dzd6bXAwcmNIT1FKS3RjUzZFQXZiTGJ3YkptRFpJUk1xNXE1ZXZncHRYTy1yVXkwZllRZG1FYjFac2ZFQl9yTkJhZw?oc=5",
-    "published": "Mon, 23 Nov 2026 17:17:31 GMT",
-    "summary": "Amazon Stock (AMZN) Rises 4% on a Deal to Acquire AI Startup Decart AI TipRanks",
+    "title": "Amazon Stock Pops: What's Going On? - Amazon.com (NASDAQ:AMZN) - Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzNaYkdqazhvS254MUt3MjVTaFcxNzV6Q2NGYlZ2eHdaUm9XS3FyTkR5WkRHX3A1SjBEQ1QtY0djSC1iTUdpRkl2bUZudFRwM2ZUcDV1eHRhRVJObXNpRFBaYjMwZDdnNWhmdkVwZkpCa0xCRWtMNkZpX2xQLXg1eENFUjV6YXROaEQ2SlhJMk9KSVZhUGJKaw?oc=5",
+    "published": "Mon, 23 Nov 2026 15:40:57 GMT",
+    "summary": "Amazon Stock Pops: What's Going On? - Amazon.com (NASDAQ:AMZN) Benzinga",
     "source": "Google News"
    },
    {
-    "title": "Jeff Bezos predicts Amazon will eventually 'go bankrupt' and shares 30-year rule behind it - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWdMeV82cExKX1NFdklKcjc5eUNDOGJGdmJjNXZRVXFIRTJWSktvNHlDREY4THJtMmNwN1YtSXNRNFM0MDIzdno3VDcyZmN4YlI5SWNJZW9ZREpPeC0wMURzOVJSYlNwWmw0cHpfa25hb1ZBWDlCWWJKTkZsYUdUWGtDc0dvOEhERjBHYTN5TTNEa29SYmdSQk4xUExKRkt2b001MQ?oc=5",
-    "published": "Sun, 22 Nov 2026 18:33:00 GMT",
-    "summary": "Jeff Bezos predicts Amazon will eventually 'go bankrupt' and shares 30-year rule behind it Yahoo Finance",
+    "title": "Should One Number Scare You About Amazon Stock? - Trefis",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVNKVGtNS0luRGlTU3FNY0w4WUNIQlNSQWlWbGFWVV95R2U2TUdzbkstX0RJSk5FVVFYVGtGUkhMcTNOTEY2RFctQk9ERFJLWmRESDlFb3M1UXg2cnpNcGp1b1h2Tl8xQkxJT05HZFFqRDJmQS1fbEJMaVFTZ2NpaktyQ2d4cWlsdGRmYi1uY1RxY2JiZHNheC1tQ2tiZHFHQTlmOWRQU2hOMVk?oc=5",
+    "published": "Tue, 24 Nov 2026 10:58:17 GMT",
+    "summary": "Should One Number Scare You About Amazon Stock? Trefis",
     "source": "Google News"
    },
    {
-    "title": "Amazon Makes AI Chip Move; Stock Climbs Alongside Nvidia Relief Rally - Investor's Business Daily",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGNWcWFkazVXMUhqYkdVOXN3UUJFbVppRWw4RUZaVFA1ci1TLWlXUk5xOG1pUWJ0X1VKZEN4SVRpYUpzbVlsSnVhVW1fM3dDdGp3NHFiMXVraHVvUXZBOUExZy0yVWdscE5wZWNUd256d1U0bzh6b0Uwell0NXRqekVVOEo?oc=5",
-    "published": "Mon, 23 Nov 2026 18:31:00 GMT",
-    "summary": "Amazon Makes AI Chip Move; Stock Climbs Alongside Nvidia Relief Rally Investor's Business Daily",
+    "title": "Could Amazon Stock Double Over the Next Five Years? Here’s What Needs to Happen - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFJvLXVLOEZabHFtYlNnUndQZ2N5bmRqMUlnNnJpSFM2bnhTRjRuREYwQ0ZpN2ZMLWg4WG9SSXc5eFVpRmIyWUpxMERUc0xEbEtkQS1lX1hWNldLT2cyLVRRWDJnc2dvVmNUdTZURTRFVDY4WTJKNjEwWFpQVGxxT0RKV25PY25UTlUzd0diTzJLZFNsWGRJN2tuQQ?oc=5",
+    "published": "Tue, 24 Nov 2026 14:37:07 GMT",
+    "summary": "Could Amazon Stock Double Over the Next Five Years? Here’s What Needs to Happen Yahoo Finance",
     "source": "Google News"
    },
    {
-    "title": "Anthropic Drove “the Entire Acceleration in AWS and Google Cloud,” per Gil Luria. That’s a Big Risk for Amazon and Alphabet - TIKR.com",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTnlXb2Jycmt0MjBsZ08yWFp2WHpTOWZ3VzdtcUdGQzZJNnRrUGszQTE1RlJZUkJXM0trM1lnaXh1aW9OcUJjX2RVNWw1RjhXSzFtZnoxLVhDamE1N0VVc3YtVlRzaHppS2JkSWRkYXRvVFFFaWlsNlBtVTR4Qi1Pc0RVQS14M2VuVnhNSVFscFRlQ2pjam9ENU9tc1JCRjBidXEzLTBpUmNSak8tWnlodU42d0pqd3kyc050Z1dYNzRVTVY5Y01ucUtjY1lNYVZMYWdpWTFKaXlNX01l?oc=5",
-    "published": "Sun, 22 Nov 2026 18:33:09 GMT",
-    "summary": "Anthropic Drove “the Entire Acceleration in AWS and Google Cloud,” per Gil Luria. That’s a Big Risk for Amazon and Alphabet TIKR.com",
+    "title": "Stock Market Today, Nov. 20: Amazon Shares Slide on AI and Mega-Cap Tech Sell-Off - The Motley Fool",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ3Q4VjNVRWVxOW90cDAtdDVDc1V0eXZGZ3gxbHhCQlhGUC1aTFNqTmtrU055TklQUjZreGR5NkRHU1FvblFOajBsWnVncTVhVnA3NTEzaWlQUFh0UjZMR0FDa2pINmlZSnItYmtHMDJ4TnhRclBFbnJzVXFvalg2UEJhQlZkTmJMQnc1dkJ2MVF5dTBFM3RYY3VBanF1blJOYzUxbGF2cHhvY2FBV3hXcURYb0VWamxSZVRxN3BWSGZoQWtqMEtaaWJ6SFFXNjBjbmtvOVFB?oc=5",
+    "published": "Fri, 20 Nov 2026 22:30:02 GMT",
+    "summary": "Stock Market Today, Nov. 20: Amazon Shares Slide on AI and Mega-Cap Tech Sell-Off The Motley Fool",
     "source": "Google News"
    }
   ]
@@ -400,17 +400,10 @@
    "source": "Google News"
   },
   {
-   "title": "Did Nvidia’s Rebound Make VOO Owners Whole? - Trefis",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQUNlN1JJeGNuNnpXNWJBX3Yyd2s2S1dxREZQYzRrdlZVZWVkdTFKMkNyUzFHakRadjVkQ245dGt5cXl2alJYN1E4RUE3RDZGb1hYNy1QN0V1VG82ZmJPN0Y2Rm1qOUw1ak92OWgzby1TLXByazc4VUZiSHRKMVpzWlRwY0wtSUJPQ2pFM0E3bF96MVA5WEF4ckFDVkN5Ql9scFBDajBGVUphYU5RRlF6d2xn?oc=5",
-   "published": "Tue, 24 Nov 2026 15:22:23 GMT",
-   "summary": "Did Nvidia’s Rebound Make VOO Owners Whole? Trefis",
-   "source": "Google News"
-  },
-  {
-   "title": "SCHG Jan 2027 37.000 call (SCHG270115C00037000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tTkVoekdweXdMYk1xalpNTTFweUpYcWZGbkZhRnpzaXRES2tYejJJZDc4SkU5cmliNGtpZDJ1TmlvZHZjam5kaGg1bEd0bnJZYW1YUUdaR05WUDN4RU5hS0x3WGk2Zw?oc=5",
-   "published": "Mon, 23 Nov 2026 17:23:09 GMT",
-   "summary": "SCHG Jan 2027 37.000 call (SCHG270115C00037000) Stock Price, News, Quote & History Yahoo! Finance Canada",
+   "title": "Where Will VOO Be in 30 Years? Here's What History Says. - The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTXBwUnU5dlR4YmFQbWRqNlNLWGw5b3V4VnlBaDdGdWYwSlB0b2dGX25ySC1wRlRNYktZQVhsRTNrX3FqOVR3djhfSEwwVUpjSFFBaVBjYl9TYnJ6aXVGUlRSUjNqSWlGVEJucnRFRWlFbEFjZGkyZWtRYUpIcXEyNk56QnZWRUVqY25KcExuYU8?oc=5",
+   "published": "Fri, 20 Nov 2026 13:30:00 GMT",
+   "summary": "Where Will VOO Be in 30 Years? Here's What History Says. The Motley Fool",
    "source": "Google News"
   },
   {
@@ -418,6 +411,13 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcklpX3RrR0ZSSkhSYVNOam9remJjX001aElsejB6c1N3VEdJcTR0ckl6MU0yQ2VDemxKWlRQUThfN0N0Tmp3SDk2MHNrTVI4QllZSkdrUEJ2QVpCSjdoekpUaU5sV0tDMjlhUlU1SThCbzVWbkxOOWNBbGF2a0VLd3dUTGVZUXg2Tmp4U05CNmZNYURrcDFCeXdEMEtLTkFsZkJxUmxVUnlTQ3ZvLVl5RFctNkx6WS1LZmtRemcwZkt6ZEFObHkxaHdHdTFDWjk5V20zTFphSVUwUQ?oc=5",
    "published": "Mon, 23 Nov 2026 21:30:13 GMT",
    "summary": "If You Invested $1000 In Schwab U.S. Large-Cap Growth ETF Stock 10 Years Ago, You Would Have This Much Today Benzinga",
+   "source": "Google News"
+  },
+  {
+   "title": "Should Schwab U.S. Large-Cap Growth ETF (SCHG) Be on Your Investing Radar? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG82cHNoZlByWVJQQm9GNmd4bkx1YWxvSzFWWndhTzc3RWZVUjNhZG9lX0U4SWFwNjdmYkVGZjFqeGs4TjJkakNaMGJWVmpTenR6b0IzQ0oxX0pBWVlQa3dmQmZwb1pXb2xCN0o4MWJUbVBiMVFVNm9nVldEckdvSmV3cG9sNW5vdXUxWGo3SE1hVlNL?oc=5",
+   "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+   "summary": "Should Schwab U.S. Large-Cap Growth ETF (SCHG) Be on Your Investing Radar? Yahoo Finance",
    "source": "Google News"
   },
   {
@@ -465,6 +465,13 @@
    "source": "Federal Reserve"
   },
   {
+   "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+   "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+   "published": "Wed, 25 Nov 2026 04:06:01 GMT",
+   "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+   "source": "CNBC Markets"
+  },
+  {
    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
    "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
    "published": "Tue, 24 Nov 2026 18:34:43 GMT",
@@ -500,11 +507,11 @@
    "source": "CNBC Markets"
   },
   {
-   "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
-   "published": "Wed, 18 Nov 2026 14:09:26 GMT",
-   "summary": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
-   "source": "CNBC Markets"
+   "title": "Fed's Williams says inflation still too high, signals more rate hikes possible - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
+   "published": "Mon, 23 Nov 2026 23:38:48 GMT",
+   "summary": "Fed's Williams says inflation still too high, signals more rate hikes possible Reuters",
+   "source": "Google News"
   },
   {
    "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation - CNBC",
@@ -514,10 +521,10 @@
    "source": "Google News"
   },
   {
-   "title": "Fed's Williams says inflation still too high, signals more rate hikes possible - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
-   "published": "Mon, 23 Nov 2026 23:38:48 GMT",
-   "summary": "Fed's Williams says inflation still too high, signals more rate hikes possible Reuters",
+   "title": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRk1HMjFrYmp4TnhYVVd5aW9TcjZLMGJnOXdlTi0zTFVUelgzbjZZTE82cW5pTU1WTFh3RFE3czlLSjJPa3hiMzRITm5FckYzRFVBbEpObHRvSUVic2VUVGRUcTBsWmtSY2Nad0k0bzl0UjNuUWZ4b29OYm1seEctc2U4YjlLQldQOWM1VThpSjdjeE14VVFYX1lrWTQ5b3Q3?oc=5",
+   "published": "Wed, 25 Nov 2026 01:21:00 GMT",
+   "summary": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI Yahoo Finance",
    "source": "Google News"
   },
   {
@@ -528,24 +535,17 @@
    "source": "Google News"
   },
   {
+   "title": "Gold Falls To Near $3,550 Ahead Of US PCE Inflation Data - TalkMarkets - Howl.Link",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9BSVRIdUpFV3RadXpXeDNHaU5WYS0xbHQ1c1FYUzYxa202dE9LX0NDUjB5bnRDX3ljOEdz?oc=5",
+   "published": "Wed, 25 Nov 2026 00:50:00 GMT",
+   "summary": "Gold Falls To Near $3,550 Ahead Of US PCE Inflation Data - TalkMarkets Howl.Link",
+   "source": "Google News"
+  },
+  {
    "title": "Interest Rate Outlook and the Effects on U.S. Sectors - J.P. Morgan",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFZTZ3JjZ1lKLVNnZ1lFYjRrQ3N1TTlhc2pFZmJEd29BU1pfOWJ3SUlLWFNlRTZjSE5YcDRvSEVidHFaYlNsT2xPWm5mSTQxazZrTTd4RkdBRWlWcHYxMmtrQUVGX0VkVnBVMUJtRjZBN3JYMTV1MEY3NlBHRzNlUWxUN3RDMFl2WC1ZczJJQXFXMGFxTnhOZw?oc=5",
    "published": "Mon, 23 Nov 2026 19:43:06 GMT",
    "summary": "Interest Rate Outlook and the Effects on U.S. Sectors J.P. Morgan",
-   "source": "Google News"
-  },
-  {
-   "title": "Gold Retreats to US$3,625.88 as Investors Assess US Inflation and Interest Rate Outlook - Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xbzZLVXkxVEVPTjFhTlNEcHhjZzJrNUlpSV9UR1hNT0lEeTZ0MFFYc2NaMU5SMkluN2RyTzEtbm1PWHhGUFVsSGpPRXVCcnNGdEVnbDA1XzhuNTZ5QW1IeG8xQ094NmhHcVNlWXJfUzRObi12bDdZRFZnWQ?oc=5",
-   "published": "Tue, 24 Nov 2026 10:22:52 GMT",
-   "summary": "Gold Retreats to US$3,625.88 as Investors Assess US Inflation and Interest Rate Outlook Yahoo Finance UK",
-   "source": "Google News"
-  },
-  {
-   "title": "Get ready for 3 consecutive rate hikes starting next month, bank economist warns - Business Insider",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3V1T1pFS0tQMk4zekFHRHpmcUxWMElMNWh0Vjd2MHpodkh2N2dMMV9VRHc0cC1UWEN2aGZ2S0lhRGxiaGhqYWxzNWFIZGFoc0U3X3ZCOVU4QlRwblFMZlFpZ2VHTVQzanNRTE5iMUo0d2tQMTczYVlMRU1FREJ5Yk5xT3NaLXFGcjJiUVFoaG96RDZVanFhRnJ1SDFuR05KWWR3LXcwbw?oc=5",
-   "published": "Mon, 23 Nov 2026 10:30:00 GMT",
-   "summary": "Get ready for 3 consecutive rate hikes starting next month, bank economist warns Business Insider",
    "source": "Google News"
   }
  ],
@@ -614,20 +614,20 @@
    "source": "Google News"
   },
   {
-   "title": "Telehealth Booms as Demand for GLP-1s Surges and Questions Mount About Safety, Oversight - KFF Health News",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXVRSHN2UVJYY3lkWWVQZDNYZEV4aC1JNi1Rd013YW1HeEZfVy04VFppNEEyNnRoYmFWbjlJQXgzUEtBdUY0bEtYTjB6dFZ6VmdKWmdibUdBVVg1akVBTWdCaUhIN0gtU3I4dVpXNGU5R3hvN2dsZHUzbllwRkxydFdUWlhCUlVvRjBOZTZBTkVyNUtNLTZHNlFtQklpTy1FdmhORGRDX0c3alRqWlNtNEJBbnlnOGFoZ3hPdA?oc=5",
-   "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-   "summary": "Telehealth Booms as Demand for GLP-1s Surges and Questions Mount About Safety, Oversight KFF Health News",
-   "source": "Google News"
-  },
-  {
    "title": "Eli Lilly, Hims & Hers Partnership Expands GLP-1 Telehealth Access Amid Clinical and Legal Concerns - Telehealth.org",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZRWlhzbG9SWWVKVjkteFVSNGhKeFk5QUh1UDMxa2ZLUlgxdVZXbUJXTHgxQTdYYzFlWDJJN0I2dzBLZ0ZSaDkzaHhQZUtDRU5xWVNzeHB0WUFma1FRTC00UjhSV25wQnFFQmw0Rlo2SnF0WHdSUHBUTVkwcnBpTWRSaDhjTDJIMGhWMHRnS0REY3Q3dGhrNFg4TGI0NS04R05pRXhRWG9jaEw4R2ZQMHdSWUV5VjVWZnZBQXNUMnd2WkU?oc=5",
    "published": "Fri, 20 Nov 2026 05:10:00 GMT",
    "summary": "Eli Lilly, Hims & Hers Partnership Expands GLP-1 Telehealth Access Amid Clinical and Legal Concerns Telehealth.org",
    "source": "Google News"
+  },
+  {
+   "title": "Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction - STAT",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1dVanNlX1U4QVFrSE5JOGxlNDduTVZtOGM4Q2RsemI4RFc4UHhhRklEdXZXbDU5Z0FYQzk3OTBGX0wyeXlyV3h3d0pfWDlMNFprVEE4ajF0c3BfUEV0ZXNRemFpZW9JaVNSYXY5bFVtUTA0UTZTZ09aemVmdk1XXzZ5TVpLX1gyendIVXJxSFU5TW5MWlNOQTdiRjdiVFByMWZ1SGVlZU4?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "summary": "Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction STAT",
+   "source": "Google News"
   }
  ],
  "buzz": [],
- "updated": "2026-11-25T00:23:53.460480+00:00"
+ "updated": "2026-11-25T04:31:41.391569+00:00"
 }
